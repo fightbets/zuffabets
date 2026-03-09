@@ -12,7 +12,19 @@ export default function Article() {
 
   useEffect(() => {
     window.scrollTo(0, 0)
-  }, [slug])
+    if (post) {
+      document.title = `${post.title} — ZuffaBets`
+      document.querySelector('meta[name="description"]')?.setAttribute('content', post.subtitle)
+      document.querySelector('meta[property="og:title"]')?.setAttribute('content', `${post.title} — ZuffaBets`)
+      document.querySelector('meta[property="og:description"]')?.setAttribute('content', post.subtitle)
+      document.querySelector('meta[property="og:url"]')?.setAttribute('content', `https://zuffabets.com/post/${post.slug}`)
+      document.querySelector('meta[name="twitter:title"]')?.setAttribute('content', `${post.title} — ZuffaBets`)
+      document.querySelector('meta[name="twitter:description"]')?.setAttribute('content', post.subtitle)
+    }
+    return () => {
+      document.title = 'ZuffaBets — The Wildest MMA Blog on the Internet'
+    }
+  }, [slug, post])
 
   if (!post) return <Navigate to="/" replace />
 
