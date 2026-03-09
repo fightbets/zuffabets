@@ -43,7 +43,7 @@ export default function Header() {
             href="https://twitter.com/intent/tweet?text=Check%20out%20ZuffaBets%20🥊&url=https://zuffabets.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-octagon text-white px-3 py-1.5 rounded-full text-xs font-bold hover:bg-octagon-dark transition"
+            className="animate-glow-cta bg-octagon text-white px-3 py-1.5 rounded-full text-xs font-bold hover:bg-octagon-dark transition"
           >
             Share 🔥
           </a>
@@ -53,10 +53,14 @@ export default function Header() {
         <button
           className="md:hidden text-white text-2xl bg-transparent border-none cursor-pointer"
           onClick={() => setMenuOpen(!menuOpen)}
+          aria-label={menuOpen ? 'Close menu' : 'Open menu'}
         >
           {menuOpen ? '✕' : '☰'}
         </button>
       </div>
+
+      {/* Gradient underline */}
+      <div className="header-gradient-line" />
 
       {/* Mobile Nav */}
       {menuOpen && (

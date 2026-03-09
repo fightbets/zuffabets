@@ -50,7 +50,7 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
 
   if (variant === 'inline') {
     return (
-      <div className="bg-white rounded-xl p-5 border-2 border-dashed border-octagon/30 hover:border-octagon transition">
+      <div className="bg-white rounded-xl p-5 border-2 border-dashed border-octagon/30 animate-pulse-border">
         <div className="flex items-center gap-4">
           <FBLogo size="lg" />
           <div className="flex-1">
@@ -78,10 +78,24 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
 
   // banner (default) — big CTA for homepage
   return (
-    <div className="relative overflow-hidden bg-canvas rounded-2xl p-8 md:p-10 text-center">
-      {/* Decorative octagon */}
-      <div className="absolute -top-10 -right-10 w-40 h-40 border-4 border-octagon/10 rotate-45 rounded-lg" />
-      <div className="absolute -bottom-8 -left-8 w-32 h-32 border-4 border-gold/10 rotate-12 rounded-lg" />
+    <div className="relative overflow-hidden bg-canvas rounded-2xl p-8 md:p-10 text-center animate-pulse-red">
+      {/* Floating decorative octagons */}
+      <div
+        className="absolute -top-10 -right-10 w-40 h-40 border-4 border-octagon/10 rotate-45 rounded-lg animate-float-slow pointer-events-none"
+        style={{ '--float-rotate': '45deg' } as React.CSSProperties}
+      />
+      <div
+        className="absolute -bottom-8 -left-8 w-32 h-32 border-4 border-gold/10 rotate-12 rounded-lg animate-float-slow pointer-events-none"
+        style={{ '--float-rotate': '12deg', animationDelay: '1s' } as React.CSSProperties}
+      />
+      <div
+        className="absolute top-1/2 -right-4 w-16 h-16 border-2 border-octagon/8 rotate-[30deg] rounded-sm animate-float pointer-events-none"
+        style={{ '--float-rotate': '30deg', animationDelay: '2s' } as React.CSSProperties}
+      />
+      <div
+        className="absolute top-6 left-12 w-8 h-8 bg-gold/5 rotate-45 rounded-sm animate-float-slow pointer-events-none"
+        style={{ '--float-rotate': '45deg', animationDelay: '0.5s' } as React.CSSProperties}
+      />
 
       <div className="relative z-10">
         <p className="text-gold font-display text-xs uppercase tracking-[0.2em] mb-2">Presented by</p>
@@ -113,7 +127,7 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
             href={FIGHTBETS_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 bg-octagon hover:bg-octagon-dark text-white px-8 py-3 rounded-full font-bold text-sm transition no-underline"
+            className="inline-flex items-center justify-center gap-2 animate-glow-cta bg-octagon hover:bg-octagon-dark text-white px-8 py-3 rounded-full font-bold text-sm transition no-underline"
           >
             <FBLogo size="sm" />
             Start Betting — 0% Fees

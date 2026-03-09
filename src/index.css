@@ -14,12 +14,84 @@
   --font-body: 'Inter', system-ui, sans-serif;
 }
 
+/* ============================
+   KEYFRAME ANIMATIONS
+   ============================ */
+
+@keyframes pulse-red-glow {
+  0%, 100% { box-shadow: 0 0 8px rgba(212, 32, 39, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(212, 32, 39, 0.6); }
+}
+
+@keyframes pulse-red-text {
+  0%, 100% { text-shadow: 0 0 8px rgba(212, 32, 39, 0.2); }
+  50% { text-shadow: 0 0 20px rgba(212, 32, 39, 0.5); }
+}
+
+@keyframes shimmer-gold {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes float-gentle {
+  0%, 100% { transform: translateY(0) rotate(var(--float-rotate, 0deg)); }
+  50% { transform: translateY(-8px) rotate(var(--float-rotate, 0deg)); }
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0) rotate(var(--float-rotate, 0deg)); opacity: 0.15; }
+  50% { transform: translateY(-12px) rotate(var(--float-rotate, 0deg)); opacity: 0.25; }
+}
+
+@keyframes slide-in-left {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes pulse-border {
+  0%, 100% { border-color: rgba(212, 32, 39, 0.3); }
+  50% { border-color: rgba(212, 32, 39, 0.7); }
+}
+
+@keyframes glow-cta {
+  0%, 100% { box-shadow: 0 0 12px rgba(212, 32, 39, 0.3); }
+  50% { box-shadow: 0 0 28px rgba(212, 32, 39, 0.6); }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================
+   BASE STYLES
+   ============================ */
+
 body {
   margin: 0;
   font-family: var(--font-body);
   background-color: var(--color-bone);
   color: var(--color-corner);
   min-height: 100vh;
+  position: relative;
+}
+
+/* Warm noise grain texture overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px 256px;
 }
 
 .font-display {
@@ -29,6 +101,10 @@ body {
 ::-webkit-scrollbar { width: 8px; }
 ::-webkit-scrollbar-track { background: var(--color-bone); }
 ::-webkit-scrollbar-thumb { background: var(--color-octagon); border-radius: 4px; }
+
+/* ============================
+   TYPOGRAPHY — PROSE
+   ============================ */
 
 .prose h2 { font-family: var(--font-display); text-transform: uppercase; }
 .prose h3 { font-family: var(--font-display); }
@@ -43,6 +119,10 @@ body {
 .prose a { color: var(--color-tap); }
 .prose a:hover { color: var(--color-octagon); }
 
+/* ============================
+   TAG PILL
+   ============================ */
+
 .tag {
   display: inline-block;
   padding: 2px 10px;
@@ -53,14 +133,161 @@ body {
   letter-spacing: 0.05em;
 }
 
+/* ============================
+   HERO GRADIENT — more dramatic
+   ============================ */
+
 .hero-gradient {
-  background: linear-gradient(135deg, var(--color-canvas) 0%, #1a1a2e 50%, var(--color-octagon-dark) 100%);
+  background: linear-gradient(135deg, var(--color-canvas) 0%, #0d0d1a 30%, #1a0a0a 60%, var(--color-octagon-dark) 100%);
 }
 
+/* ============================
+   CARD INTERACTIONS
+   ============================ */
+
 .card-hover {
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 .card-hover:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 40px rgba(0,0,0,0.15);
 }
+
+/* Regular card — red accent bar on hover */
+.card-accent {
+  position: relative;
+  overflow: hidden;
+}
+.card-accent::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: var(--color-octagon);
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.3s ease;
+  border-radius: 4px 0 0 4px;
+  z-index: 2;
+}
+.card-accent:hover::before {
+  transform: scaleY(1);
+}
+
+/* ============================
+   FEATURED BADGE — gold shimmer
+   ============================ */
+
+.badge-shimmer {
+  background: linear-gradient(
+    110deg,
+    var(--color-gold) 0%,
+    var(--color-gold) 35%,
+    #ffe08a 50%,
+    var(--color-gold) 65%,
+    var(--color-gold) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer-gold 2.5s ease-in-out infinite;
+}
+
+/* ============================
+   SECTION DIVIDER — gradient line with octagon accent
+   ============================ */
+
+.section-divider {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.section-divider::after {
+  content: '';
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-octagon) 0%, var(--color-gold) 40%, transparent 100%);
+  border-radius: 1px;
+}
+
+/* ============================
+   HEADER GRADIENT UNDERLINE
+   ============================ */
+
+.header-gradient-line {
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-octagon) 0%, var(--color-gold) 50%, transparent 100%);
+}
+
+/* ============================
+   SURFACE GLOW — warm card glow
+   ============================ */
+
+.surface-glow {
+  box-shadow: 0 0 0 1px rgba(212, 32, 39, 0.05), 0 4px 24px rgba(212, 32, 39, 0.04);
+  transition: box-shadow 0.3s ease;
+}
+.surface-glow:hover {
+  box-shadow: 0 0 0 1px rgba(212, 32, 39, 0.1), 0 8px 32px rgba(212, 32, 39, 0.08);
+}
+
+/* ============================
+   TICKER TAPE
+   ============================ */
+
+.ticker-wrap {
+  overflow: hidden;
+  white-space: nowrap;
+  background: var(--color-canvas);
+  border-bottom: 1px solid rgba(212, 32, 39, 0.2);
+}
+.ticker-track {
+  display: inline-flex;
+  animation: ticker-scroll 30s linear infinite;
+}
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+
+/* ============================
+   ANIMATION UTILITIES
+   ============================ */
+
+.animate-pulse-red {
+  animation: pulse-red-glow 2.5s ease-in-out infinite;
+}
+
+.animate-pulse-red-text {
+  animation: pulse-red-text 2.5s ease-in-out infinite;
+}
+
+.animate-float {
+  animation: float-gentle 4s ease-in-out infinite;
+}
+
+.animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+
+.animate-pulse-border {
+  animation: pulse-border 2s ease-in-out infinite;
+}
+
+.animate-glow-cta {
+  animation: glow-cta 2s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.5s ease-out both;
+}
+
+/* Staggered fade-in for grid children */
+.stagger-children > *:nth-child(1) { animation-delay: 0ms; }
+.stagger-children > *:nth-child(2) { animation-delay: 80ms; }
+.stagger-children > *:nth-child(3) { animation-delay: 160ms; }
+.stagger-children > *:nth-child(4) { animation-delay: 240ms; }
+.stagger-children > *:nth-child(5) { animation-delay: 320ms; }
+.stagger-children > *:nth-child(6) { animation-delay: 400ms; }
+.stagger-children > *:nth-child(7) { animation-delay: 480ms; }
+.stagger-children > *:nth-child(8) { animation-delay: 560ms; }
