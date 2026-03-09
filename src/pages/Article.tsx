@@ -3,6 +3,7 @@ import Markdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { getPost, posts } from '../content/posts'
 import ShareBar from '../components/ShareBar'
+import FightBetsPromo from '../components/FightBetsPromo'
 import { useEffect } from 'react'
 
 export default function Article() {
@@ -59,8 +60,11 @@ export default function Article() {
         <Markdown remarkPlugins={[remarkGfm]}>{post.content}</Markdown>
       </article>
 
+      {/* FightBets Promo */}
+      <FightBetsPromo variant="article" />
+
       {/* Bottom Share */}
-      <div className="mt-10 pt-6 border-t border-gray-200">
+      <div className="mt-6 pt-6 border-t border-gray-200">
         <p className="text-sm text-gray-500 mb-3 font-medium">Enjoyed this? Spread the word.</p>
         <ShareBar post={post} />
       </div>
