@@ -1,0 +1,66 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-octagon: #D42027;
+  --color-octagon-dark: #A8181D;
+  --color-canvas: #111111;
+  --color-gold: #F5A623;
+  --color-gold-dark: #D4901A;
+  --color-bone: #FAF7F2;
+  --color-corner: #2D2D2D;
+  --color-tap: #1DA1F2;
+  --font-display: 'Oswald', sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background-color: var(--color-bone);
+  color: var(--color-corner);
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--color-bone); }
+::-webkit-scrollbar-thumb { background: var(--color-octagon); border-radius: 4px; }
+
+.prose h2 { font-family: var(--font-display); text-transform: uppercase; }
+.prose h3 { font-family: var(--font-display); }
+.prose blockquote {
+  border-left-color: var(--color-octagon) !important;
+  background: #f0edea;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+.prose strong { color: var(--color-octagon); }
+.prose a { color: var(--color-tap); }
+.prose a:hover { color: var(--color-octagon); }
+
+.tag {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, var(--color-canvas) 0%, #1a1a2e 50%, var(--color-octagon-dark) 100%);
+}
+
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+}
