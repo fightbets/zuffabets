@@ -17,7 +17,7 @@ export default function Header() {
               <span className="text-gold">BETS</span>
             </h1>
             <p className="text-[10px] text-gray-400 tracking-widest uppercase hidden md:block">
-              The Wildest MMA Blog on the Internet
+              Boxing stories, business & culture
             </p>
           </div>
         </Link>
@@ -43,7 +43,7 @@ export default function Header() {
             href="https://twitter.com/intent/tweet?text=Check%20out%20ZuffaBets%20🥊&url=https://zuffabets.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="animate-glow-cta bg-octagon text-white px-3 py-1.5 rounded-full text-xs font-bold hover:bg-octagon-dark transition"
+            className="animate-glow-cta bg-gold text-canvas px-3 py-1.5 rounded-full text-xs font-bold hover:bg-gold-dark transition"
           >
             Share 🔥
           </a>

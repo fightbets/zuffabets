@@ -7,6 +7,7 @@ export interface Post {
   tags: string[]
   readTime: string
   emoji: string
+  image: string
   featured?: boolean
   content: string
 }
@@ -21,6 +22,7 @@ export const posts: Post[] = [
     tags: ['business', 'zuffa-boxing', 'dana-white'],
     readTime: '6 min',
     emoji: '🥊',
+    image: 'https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=1600&q=80',
     featured: true,
     content: `
 Everyone thought the Zuffa name was dead. The UFC was sold in 2016. Zuffa LLC was dissolved when TKO Group Holdings merged UFC and WWE in 2023. The Italian word for "brawl" had become a Wikipedia footnote.
@@ -95,6 +97,7 @@ The name that started with a $2 million bet on cage fighting is now stamped on t
     tags: ['dana-white', 'entertainment', 'gambling'],
     readTime: '5 min',
     emoji: '🎰',
+    image: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1600&q=80',
     content: `
 In a world where casino owners are the billionaires and gamblers are the marks, **Dana White broke the system.**
 
@@ -173,6 +176,7 @@ Dana White is that person. He's the rare case where the gambler is *also* a bill
     tags: ['history', 'business', 'dana-white'],
     readTime: '8 min',
     emoji: '💰',
+    image: 'https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1600&q=80',
     content: `
 In January 2001, the UFC was basically a dumpster fire with gloves on.
 
@@ -249,6 +253,7 @@ All because two casino bros and their loudmouth friend saw something nobody else
     tags: ['dana-white', 'entertainment', 'top-10'],
     readTime: '6 min',
     emoji: '🤬',
+    image: 'https://images.unsplash.com/photo-1520625293386-3f8f99389edd?auto=format&fit=crop&w=1600&q=80',
     content: `
 Nobody in sports history has been more consistently, beautifully, *entertainingly* unhinged than **Dana White**. The man runs a multi-billion dollar company and still beefs with random people on the internet at 2 AM.
 
@@ -330,6 +335,7 @@ The UFC without Dana White would be like pizza without cheese. Technically still
     tags: ['history', 'tuf', 'fights'],
     readTime: '7 min',
     emoji: '📺',
+    image: 'https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?auto=format&fit=crop&w=1600&q=80',
     content: `
 **April 9, 2005.** If you're looking for the exact moment MMA went from underground cult to mainstream behemoth, this is it.
 
@@ -417,6 +423,7 @@ All because two guys decided to just stand and bang on free TV. 🏆
     tags: ['history', 'culture', 'business'],
     readTime: '5 min',
     emoji: '🇮🇹',
+    image: 'https://images.unsplash.com/photo-1595433562696-a5e0e2f8be03?auto=format&fit=crop&w=1600&q=80',
     content: `
 When Lorenzo and Frank Fertitta III needed a name for their new company — the one that would own the UFC — they didn't hire a branding agency. They didn't focus-group it. They didn't spend six months workshopping names like "Ultimate Fight Holdings Corp."
 
@@ -492,6 +499,7 @@ The Italian word for "brawl" became the DNA of the biggest combat sports brand o
     tags: ['history', 'politics', 'culture'],
     readTime: '7 min',
     emoji: '📈',
+    image: 'https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=1600&q=80',
     content: `
 In 1996, **Senator John McCain** sent letters to the governors of all 50 states urging them to ban mixed martial arts. He called it **"human cockfighting"** — a phrase that would haunt MMA for the next decade.
 
@@ -602,6 +610,7 @@ Twenty years ago, an MMA fighter couldn't tell their parents what they did for a
     tags: ['business', 'history'],
     readTime: '6 min',
     emoji: '🏦',
+    image: 'https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1600&q=80',
     content: `
 On July 11, 2016, the sports world got hit with a bombshell: **WME-IMG had agreed to buy the UFC from Zuffa LLC for $4.025 billion.**
 

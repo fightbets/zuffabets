@@ -2,12 +2,12 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-octagon: #D42027;
-  --color-octagon-dark: #A8181D;
+  --color-octagon: #111111;
+  --color-octagon-dark: #000000;
   --color-canvas: #111111;
-  --color-gold: #F5A623;
-  --color-gold-dark: #D4901A;
-  --color-bone: #FAF7F2;
+  --color-gold: #C9A227;
+  --color-gold-dark: #A8841F;
+  --color-bone: #FFFFFF;
   --color-corner: #2D2D2D;
   --color-tap: #1DA1F2;
   --font-display: 'Oswald', sans-serif;
@@ -19,13 +19,13 @@
    ============================ */
 
 @keyframes pulse-red-glow {
-  0%, 100% { box-shadow: 0 0 8px rgba(212, 32, 39, 0.3); }
-  50% { box-shadow: 0 0 20px rgba(212, 32, 39, 0.6); }
+  0%, 100% { box-shadow: 0 0 8px rgba(201, 162, 39, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(201, 162, 39, 0.6); }
 }
 
 @keyframes pulse-red-text {
-  0%, 100% { text-shadow: 0 0 8px rgba(212, 32, 39, 0.2); }
-  50% { text-shadow: 0 0 20px rgba(212, 32, 39, 0.5); }
+  0%, 100% { text-shadow: 0 0 8px rgba(201, 162, 39, 0.2); }
+  50% { text-shadow: 0 0 20px rgba(201, 162, 39, 0.5); }
 }
 
 @keyframes shimmer-gold {
@@ -54,13 +54,13 @@
 }
 
 @keyframes pulse-border {
-  0%, 100% { border-color: rgba(212, 32, 39, 0.3); }
-  50% { border-color: rgba(212, 32, 39, 0.7); }
+  0%, 100% { border-color: rgba(201, 162, 39, 0.3); }
+  50% { border-color: rgba(201, 162, 39, 0.7); }
 }
 
 @keyframes glow-cta {
-  0%, 100% { box-shadow: 0 0 12px rgba(212, 32, 39, 0.3); }
-  50% { box-shadow: 0 0 28px rgba(212, 32, 39, 0.6); }
+  0%, 100% { box-shadow: 0 0 12px rgba(201, 162, 39, 0.3); }
+  50% { box-shadow: 0 0 28px rgba(201, 162, 39, 0.6); }
 }
 
 @keyframes fade-in-up {
@@ -116,7 +116,7 @@ body::before {
   font-style: italic;
 }
 .prose strong { color: var(--color-octagon); }
-.prose a { color: var(--color-tap); }
+.prose a { color: var(--color-gold-dark); }
 .prose a:hover { color: var(--color-octagon); }
 
 /* ============================
@@ -225,11 +225,11 @@ body::before {
    ============================ */
 
 .surface-glow {
-  box-shadow: 0 0 0 1px rgba(212, 32, 39, 0.05), 0 4px 24px rgba(212, 32, 39, 0.04);
+  box-shadow: 0 0 0 1px rgba(201, 162, 39, 0.05), 0 4px 24px rgba(201, 162, 39, 0.04);
   transition: box-shadow 0.3s ease;
 }
 .surface-glow:hover {
-  box-shadow: 0 0 0 1px rgba(212, 32, 39, 0.1), 0 8px 32px rgba(212, 32, 39, 0.08);
+  box-shadow: 0 0 0 1px rgba(201, 162, 39, 0.1), 0 8px 32px rgba(201, 162, 39, 0.08);
 }
 
 /* ============================
@@ -240,7 +240,7 @@ body::before {
   overflow: hidden;
   white-space: nowrap;
   background: var(--color-canvas);
-  border-bottom: 1px solid rgba(212, 32, 39, 0.2);
+  border-bottom: 1px solid rgba(201, 162, 39, 0.2);
 }
 .ticker-track {
   display: inline-flex;

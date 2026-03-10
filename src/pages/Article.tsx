@@ -20,9 +20,11 @@ export default function Article() {
       document.querySelector('meta[property="og:url"]')?.setAttribute('content', `https://zuffabets.com/post/${post.slug}`)
       document.querySelector('meta[name="twitter:title"]')?.setAttribute('content', `${post.title} — ZuffaBets`)
       document.querySelector('meta[name="twitter:description"]')?.setAttribute('content', post.subtitle)
+      document.querySelector('meta[property="og:image"]')?.setAttribute('content', post.image)
+      document.querySelector('meta[name="twitter:image"]')?.setAttribute('content', post.image)
     }
     return () => {
-      document.title = 'ZuffaBets — The Wildest MMA Blog on the Internet'
+      document.title = 'ZuffaBets — Boxing Stories, Business & Culture'
     }
   }, [slug, post])
 
@@ -50,7 +52,7 @@ export default function Article() {
             </Link>
           ))}
         </div>
-        <span className="text-5xl block mb-4">{post.emoji}</span>
+        <img src={post.image} alt={post.title} className="w-full h-64 md:h-80 object-cover rounded-xl mb-5 border border-gray-200" />
         <h1 className="font-display text-4xl md:text-5xl font-bold text-canvas leading-tight mb-3">
           {post.title}
         </h1>

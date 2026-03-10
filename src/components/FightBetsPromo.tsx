@@ -33,13 +33,13 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
         </h3>
         <p className="text-gray-400 text-lg mb-1 italic">"{tagline}"</p>
         <p className="text-gray-500 text-sm mb-4">
-          Bet on MMA with <span className="text-octagon font-bold">0% fees</span> on FightBets. Powered by Polymarket. No middleman. No BS.
+          Bet on boxing with <span className="text-gold font-bold">0% fees</span> on FightBets. Powered by Polymarket. No middleman. No BS.
         </p>
         <a
           href={FIGHTBETS_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 bg-octagon hover:bg-octagon-dark text-white px-6 py-2.5 rounded-full font-bold text-sm transition no-underline"
+          className="inline-flex items-center gap-2 bg-gold hover:bg-gold-dark text-canvas px-6 py-2.5 rounded-full font-bold text-sm transition no-underline"
         >
           <FBLogo size="sm" />
           Start Betting — It's Free
@@ -63,7 +63,7 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
                 href={FIGHTBETS_URL}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 bg-octagon hover:bg-octagon-dark text-white px-4 py-1.5 rounded-full font-bold text-xs transition no-underline"
+                className="inline-flex items-center gap-1.5 bg-gold hover:bg-gold-dark text-canvas px-4 py-1.5 rounded-full font-bold text-xs transition no-underline"
               >
                 <FBLogo size="sm" />
                 Bet on FightBets
@@ -127,7 +127,7 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
             href={FIGHTBETS_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 animate-glow-cta bg-octagon hover:bg-octagon-dark text-white px-8 py-3 rounded-full font-bold text-sm transition no-underline"
+            className="inline-flex items-center justify-center gap-2 animate-glow-cta bg-gold hover:bg-gold-dark text-canvas px-8 py-3 rounded-full font-bold text-sm transition no-underline"
           >
             <FBLogo size="sm" />
             Start Betting — 0% Fees
@@ -136,9 +136,9 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
             href={FIGHTBETS_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-gray-800 hover:bg-gray-700 text-white px-8 py-3 rounded-full font-bold text-sm transition no-underline"
+            className="bg-white hover:bg-gray-100 text-canvas px-8 py-3 rounded-full font-bold text-sm transition no-underline"
           >
-            Browse MMA Markets
+            Browse Boxing Markets
           </a>
         </div>
         <p className="text-gray-600 text-xs mt-4">

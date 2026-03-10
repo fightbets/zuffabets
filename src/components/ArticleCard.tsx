@@ -3,15 +3,10 @@ import type { Post } from '../content/posts'
 
 export default function ArticleCard({ post, featured = false }: { post: Post; featured?: boolean }) {
   const tagColors: Record<string, string> = {
-    history: 'bg-octagon/10 text-octagon',
     business: 'bg-gold/20 text-gold-dark',
-    'dana-white': 'bg-red-100 text-red-700',
-    entertainment: 'bg-purple-100 text-purple-700',
-    'top-10': 'bg-blue-100 text-blue-700',
-    tuf: 'bg-green-100 text-green-700',
-    fights: 'bg-orange-100 text-orange-700',
-    culture: 'bg-pink-100 text-pink-700',
-    politics: 'bg-indigo-100 text-indigo-700',
+    'zuffa-boxing': 'bg-gold/20 text-gold-dark',
+    history: 'bg-black/10 text-canvas',
+    fights: 'bg-black/10 text-canvas',
   }
 
   if (featured) {
@@ -41,8 +36,7 @@ export default function ArticleCard({ post, featured = false }: { post: Post; fe
             Featured
           </div>
 
-          {/* Big emoji */}
-          <span className="text-6xl md:text-7xl block mb-5 drop-shadow-lg group-hover:scale-110 transition-transform duration-300">{post.emoji}</span>
+          <img src={post.image} alt={post.title} className="w-full h-52 md:h-64 object-cover rounded-xl mb-5 border border-white/10" loading="lazy" />
 
           <div className="flex flex-wrap gap-2 mb-3">
             {post.tags.map(tag => (
@@ -73,7 +67,7 @@ export default function ArticleCard({ post, featured = false }: { post: Post; fe
     <Link to={`/post/${post.slug}`} className="block no-underline group">
       <article className="bg-white rounded-xl p-6 md:p-7 card-hover card-accent surface-glow border border-gray-100 animate-fade-in-up">
         <div className="flex items-start gap-5">
-          <span className="text-4xl md:text-5xl flex-shrink-0 mt-1 group-hover:scale-115 transition-transform duration-300">{post.emoji}</span>
+          <img src={post.image} alt={post.title} className="w-24 h-24 md:w-28 md:h-28 rounded-lg object-cover flex-shrink-0 border border-gray-200" loading="lazy" />
           <div className="flex-1 min-w-0">
             <div className="flex flex-wrap gap-1.5 mb-2.5">
               {post.tags.map(tag => (

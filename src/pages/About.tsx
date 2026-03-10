@@ -14,7 +14,7 @@ export default function About() {
         <h1 className="font-display text-4xl md:text-5xl font-bold text-canvas mb-3">
           ABOUT <span className="text-octagon">ZUFFA</span><span className="text-gold">BETS</span>
         </h1>
-        <p className="text-xl text-gray-500">The Wildest MMA Blog on the Internet</p>
+        <p className="text-xl text-gray-500">Boxing stories, business & culture</p>
       </div>
 
       <div className="prose prose-lg max-w-none">
@@ -25,9 +25,9 @@ export default function About() {
           $4+ billion global empire.
         </p>
         <p>
-          We write about the history, the business deals, the personalities, the fights, and the absolute chaos
-          that made MMA what it is today. If you've ever wondered how a "banned sport" ended up on ESPN, you're
-          in the right place.
+          We write about the history, business deals, personalities, and fight-night chaos around
+          <strong> Zuffa Boxing</strong> and modern boxing culture. If you've ever wondered how the Zuffa playbook
+          is reshaping the ring, you're in the right place.
         </p>
 
         <h2>Why "ZuffaBets"?</h2>
@@ -39,10 +39,9 @@ export default function About() {
 
         <h2>Who Writes This?</h2>
         <p>
-          MMA degenerates who've been watching fights since the TUF 1 era. We're not journalists. We're not
-          affiliated with the UFC, Zuffa, or TKO Group Holdings. We're just fans who think the story of how
-          MMA went mainstream is one of the wildest stories in sports — and it deserves to be told in a way
-          that's actually fun to read.
+          Boxing degenerates who've been watching fights forever. We're not journalists. We're not
+          affiliated with the UFC, Zuffa, or TKO Group Holdings. We're just fans who think boxing's business
+          and cultural story deserves to be told in a way that's actually fun to read.
         </p>
 
         <h2>The Rules</h2>
@@ -75,7 +74,7 @@ export default function About() {
           <a href="#" className="bg-tap hover:bg-tap/80 text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
             Twitter/X
           </a>
-          <a href="#" className="bg-octagon hover:bg-octagon-dark text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
+          <a href="#" className="bg-gold hover:bg-gold-dark text-canvas px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
             Instagram
           </a>
         </div>
