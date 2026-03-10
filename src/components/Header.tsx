@@ -9,17 +9,11 @@ export default function Header() {
   return (
     <header className="bg-canvas text-white sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link to="/" className="flex items-center gap-2 no-underline">
-          <span className="text-3xl">🥊</span>
-          <div>
-            <h1 className="font-display text-2xl md:text-3xl font-bold tracking-tight leading-none">
-              <span className="text-octagon">ZUFFA</span>
-              <span className="text-gold">BETS</span>
-            </h1>
-            <p className="text-[10px] text-gray-400 tracking-widest uppercase hidden md:block">
-              The Wildest MMA Blog on the Internet
-            </p>
-          </div>
+        <Link to="/" className="flex items-center gap-3 no-underline">
+          <img src="/zuffabets-logo.png" alt="ZuffaBets" className="h-9 md:h-11 w-auto" />
+          <p className="text-[10px] text-gray-400 tracking-widest uppercase hidden md:block">
+            Boxing stories, business & culture
+          </p>
         </Link>
 
         {/* Desktop Nav */}

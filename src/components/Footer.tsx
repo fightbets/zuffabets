@@ -25,15 +25,11 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-3">
-              <span className="text-2xl">🥊</span>
-              <span className="font-display text-xl font-bold">
-                <span className="text-octagon">ZUFFA</span>
-                <span className="text-gold">BETS</span>
-              </span>
+              <img src="/zuffabets-logo.png" alt="ZuffaBets" className="h-8 w-auto" />
             </div>
             <p className="text-sm leading-relaxed">
-              Hot takes, deep cuts, and degenerate history from the company that
-              turned cage fighting into a $4 billion empire.
+              Hot takes, deep cuts, and degenerate history from Zuffa Boxing
+              and the business of the ring.
             </p>
           </div>
 
