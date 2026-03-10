@@ -10,7 +10,7 @@ export default function Header() {
     <header className="bg-canvas text-white sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-3 no-underline">
-          <img src="/zuffabets-logo.png" alt="ZuffaBets" className="h-9 md:h-11 w-auto" />
+          <img src="/zuffabets-logo.png" alt="ZuffaBets" className="h-7 md:h-9 w-auto" />
           <p className="text-[10px] text-gray-400 tracking-widest uppercase hidden md:block">
             Boxing stories, business & culture
           </p>
