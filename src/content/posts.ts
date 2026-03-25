@@ -13,6 +13,99 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-sky-sports-uk-deal',
+    title: 'Zuffa Boxing Lands Sky Sports and Kicks In the UK Door',
+    subtitle: 'Dana White’s boxing project just grabbed Sky Sports in the UK and Ireland, with at least five UK shows per year now on the table.',
+    date: '2026-03-25',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '📺',
+    content: `
+Zuffa Boxing just did something a lot more important than yelling about “fixing boxing.” It grabbed **Sky Sports**.
+
+That matters because Sky is not some random streaming tab buried between pickleball and darts. In the UK and Ireland, **Sky is boxing furniture.** If your fights land there, you are not playing startup anymore.
+
+## What Happened
+
+On **March 19, 2026**, Sky Sports and Zuffa Boxing announced a **multi-year broadcast deal** covering the UK and Ireland.
+
+The big headline is not just distribution. It is intent.
+
+According to the announcement, the deal includes:
+
+- **Zuffa Boxing events airing on Sky Sports in the UK and Ireland**
+- **At least five shows per year on UK soil**
+- A deeper 2026 fight schedule still to come
+- **ZUFFA BOXING 05: Cortes vs. Garcia** as the first event under the new arrangement
+
+That first Sky-aired show is set for **April 5 in Las Vegas** from the Meta APEX, headlined by **Andres Cortes vs. Eridson Garcia**.
+
+## Why This Actually Matters
+
+Dana White saying he wants to rebuild boxing is old news by now. Dana White getting real television muscle in one of boxing’s most important markets is different.
+
+The UK is not some side quest for boxing. It is one of the sport’s loudest, richest, most reliable fan bases. British fight fans will show up for world title fights, domestic grudge matches, weird heavyweight experiments, and almost anything involving enough tension and decent ring walks.
+
+If Zuffa wants to be taken seriously as a boxing operator, it needs three things:
+
+- real broadcasters
+- real schedule discipline
+- real local market presence
+
+This deal checks all three boxes at once.
+
+## Sky Gives Zuffa Instant Legitimacy
+
+Sky Sports has been tied to boxing for decades. Frank Bruno. Prince Naseem. Ricky Hatton. Anthony Joshua. Big event feel. Familiar production language. A built-in audience that already understands what a major fight night is supposed to look like.
+
+So while old-school boxing people love acting like Zuffa is just another loud new entrant, this kind of deal says otherwise.
+
+You do not stumble into a major UK rights partnership by accident. You get there because broadcasters think you can deliver inventory, stars, noise, and repeatable value.
+
+That last part matters most.
+
+Boxing has spent years operating like every major card is a miracle requiring twelve lawsuits and a hostage exchange. Zuffa’s whole pitch is the opposite: **make fights, package them cleanly, keep the calendar moving.**
+
+## The UK Piece Is the Real Tell
+
+The detail that jumps off the page is **five shows per year on UK soil**.
+
+That means this is not just about exporting a U.S.-Saudi product overseas. It suggests Zuffa wants an actual footprint in Britain — one of the few markets where boxing still feels culturally alive beyond a once-a-year super fight.
+
+And if that plan sticks, it gets interesting fast.
+
+A regular UK pipeline gives Zuffa access to:
+
+- British prospects and established names
+- Irish fan interest through the same broadcast window
+- local headlines instead of imported novelty coverage
+- a route to build stars instead of renting them
+
+That is how a promotion starts looking permanent.
+
+## The Roster Signals Are Getting Louder
+
+Sky’s write-up also pointed to **Conor Benn** and **Jai Opetaia** as marquee Zuffa signings.
+
+That is not subtle.
+
+Benn gives them a combustible UK name with built-in attention, while Opetaia gives them elite credibility. Add the Canelo vs. Crawford launch event from last year, and the pattern is obvious: Zuffa is trying to smash together spectacle, TV structure, and recognizable names until boxing’s usual gatekeepers start sweating through their collars.
+
+## The Bigger Takeaway
+
+This deal does not prove Zuffa Boxing has already won anything. Boxing is still boxing, which means chaos is always lurking around the corner in expensive sunglasses.
+
+But it does prove this project is getting harder to laugh off.
+
+A multi-year Sky Sports deal means Zuffa is no longer just selling a theory. It is building distribution, geography, and repetition — the boring grown-up stuff that actually turns fight promotions into machines.
+
+And if Dana White builds a machine in British boxing, a lot of very comfortable people are going to get uncomfortable in a hurry.
+
+**Turns out the “new era” talk gets louder when there’s a real broadcaster holding the mic.**
+`
+  },
+  {
     slug: 'zuffa-boxing-the-name-lives-on',
     title: 'Zuffa Boxing: The Name That Refused to Die',
     subtitle: 'Dana White launched Zuffa Boxing in 2025 with Saudi backing. Canelo vs. Crawford. Netflix deals. The brawl brand is back.',
