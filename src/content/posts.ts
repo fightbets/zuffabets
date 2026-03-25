@@ -594,6 +594,98 @@ Twenty years ago, an MMA fighter couldn't tell their parents what they did for a
 `
   },
   {
+    slug: 'why-dana-white-keeps-coming-for-boxing',
+    title: 'Why Dana White Keeps Coming for Boxing',
+    subtitle: 'Zuffa Boxing is not a random side quest. Dana White has wanted to fix boxing for years, and now he has Saudi money plus TKO muscle behind him.',
+    date: '2026-03-25',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '6 min',
+    emoji: '🔥',
+    featured: true,
+    content: `
+Dana White talks about boxing the way a guy talks about a broken casino slot machine: **this thing is rigged, badly run, and begging for someone to rip it apart.**
+
+That has been his stance for years. The difference now is that he finally has the structure to do something real about it.
+
+With **Zuffa Boxing**, White is not just tweeting through a grudge. He has **TKO infrastructure, Saudi backing, major distribution, and the same brand instincts that helped turn the UFC into a monster.**
+
+## This Obsession Is Not New
+
+Dana has been publicly complaining about boxing for a long time. Too many belts. Too many promoters. Too many obvious fights that never happen until everyone involved is older, slower, and somehow still demanding premium prices.
+
+His basic pitch has barely changed:
+
+- make the best fight the best
+- put one machine behind the promotion
+- stop letting politics kill momentum
+- make events look and feel premium every single time
+
+In other words: take the UFC playbook and throw it straight at boxing's chaos factory.
+
+## Why Boxing Was Always the Temptation
+
+From Dana's point of view, boxing is the prettiest mess in sports.
+
+The upside is huge:
+- gigantic global stars
+- real casual fan interest
+- historic venues
+- cleaner mainstream appeal than cage fighting ever had at the start
+
+The problem is also huge:
+- fractured promotion
+- alphabet-soup sanctioning bodies
+- endless negotiation theater
+- weak scheduling consistency
+- fans constantly being told to wait for the "real" fight
+
+For a control freak promoter, that's not just annoying. That's opportunity.
+
+## Why Zuffa Boxing Actually Has Teeth Now
+
+This is the part people miss. Dana saying "boxing is broken" is not news. **Dana having the machine to attack it properly is news.**
+
+Now the project has:
+
+**1. Serious capital.** Saudi involvement means the runway is not tiny. This is not some little experiment held together with hope and caffeine.
+
+**2. TKO experience.** The UFC learned how to package stars, sell narratives, run big events, and keep fans trained to expect a rhythm. That matters.
+
+**3. Distribution leverage.** If the platform side is strong, Zuffa Boxing can pitch itself as a cleaner, more dependable premium product.
+
+**4. Brand recognition.** The Zuffa name still carries that old outlaw-to-empire energy. In fight sports, that brand story matters.
+
+## The Real Bet
+
+The real bet is simple: **can boxing fans be convinced that one power center is better than the current mess?**
+
+Traditional boxing power brokers will obviously hate the idea. Their leverage lives inside the chaos. Confusion is profitable when you're one of the people controlling the map.
+
+But fans? Fans are tired. They are tired of waiting. Tired of "we're close." Tired of seeing obvious fights get marinated until they taste like drywall.
+
+If Zuffa Boxing can consistently deliver premium cards with actual momentum, people will not care that the old system got offended.
+
+## Why This Matters for Fight Fans
+
+Even if you don't like Dana White, he usually understands one very basic thing: **fans pay to be entertained, not to hear excuses.**
+
+That mindset is exactly why this project is dangerous for the old boxing ecosystem. It forces comparison.
+
+Every time a huge fight gets delayed, every time a title picture turns into paperwork, every time promoters start speaking in riddles, Zuffa Boxing gets stronger by just standing there and looking more organized.
+
+## The Bottom Line
+
+Dana White keeps coming for boxing because boxing keeps leaving the door open.
+
+A sport with massive stars, huge cultural weight, and endless drama somehow still struggles to behave like a coherent premium product. That's catnip for a guy who built his reputation on turning combat sports chaos into a business empire.
+
+Maybe Zuffa Boxing fixes it. Maybe it just creates a different kind of chaos. Either way, the threat is real now.
+
+**And boxing only has itself to blame for making Dana White look like the adult in the room.** 🥊
+`
+  },
+  {
     slug: 'the-4-billion-dollar-sale',
     title: 'Inside the $4 Billion Sale: How Zuffa Cashed Out',
     subtitle: 'WME-IMG bought the UFC in 2016 for a price that stunned the sports world. Here\'s how the deal went down.',
