@@ -13,6 +13,110 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-ahead-of-schedule-2027',
+    title: 'Dana White Says Zuffa Boxing Is Already Ahead of Schedule',
+    subtitle: 'Dana White says Zuffa Boxing is moving faster than expected, with a 2027 target that starts sounding suspiciously like UFC-level volume.',
+    date: '2026-03-26',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '📈',
+    featured: true,
+    content: `
+Dana White is already talking like Zuffa Boxing is not a side project. He is talking like it is a machine in the early stages of assembly.
+
+That is the interesting part.
+
+In a recent Sky Sports Q&A, White said Zuffa Boxing is only four fight nights in, but the shows keep getting better. Then, in follow-up reporting this week, he pushed the bigger claim: the promotion is **ahead of schedule** and could be running **as many events as the UFC in 2027**.
+
+That is not a little update. That is Dana basically walking into boxing’s messy living room and saying he plans to own the furniture.
+
+## What White Is Actually Saying
+
+The cleanest quote from the Sky Sports interview is this: Zuffa Boxing is "only four fight nights in" and "the shows keep getting better and better."
+
+That matters because it tells you how White wants this whole project framed.
+
+Not as one giant vanity card.
+Not as a Saudi-funded fireworks show that appears twice a year.
+Not as a logo slapped on random boxing inventory.
+
+He is selling **repetition**.
+
+And repetition is exactly what boxing has been terrible at for years.
+
+According to reporting this week, White now believes the company is running ahead of its internal timeline and could be doing UFC-style volume by 2027. Sports Illustrated’s recent coverage of the Sky Sports deal also pointed to an original 2026 plan of roughly **13 events**, with White hinting the number could climb.
+
+So the pitch is getting clearer by the week:
+
+- build a real schedule
+- lock in major distribution
+- develop young talent and blockbuster fights at the same time
+- stop pretending boxing should require twelve middlemen and a blood oath to make one good card
+
+## Why This Scares Boxing People More Than Another Press Release
+
+A lot of boxing news is just rich people announcing intentions. This feels a little different because Zuffa is stacking the boring infrastructure stuff that actually matters.
+
+In the last week alone, the project picked up a **multi-year Sky Sports deal** for the UK and Ireland. White used that same interview to talk about bringing events to British crowds, building stars, and eventually creating a world where fans can actually name one champion in each division again.
+
+That last part is classic Dana: simple enough to understand, aggressive enough to annoy half the industry.
+
+And honestly? That is why the angle works.
+
+Traditional boxing power brokers have spent decades building a system that is incredibly profitable for insiders and incredibly annoying for normal human beings. Too many belts. Too many promotional silos. Too many “we’re working on it” non-fights.
+
+So when White starts talking about scale, schedule, and a cleaner championship structure, he is not just selling events. He is selling an insult.
+
+## Ahead of Schedule Usually Means One Thing
+
+It means the broadcasters, financiers, and partners are seeing enough early traction to move faster.
+
+That does **not** mean Zuffa Boxing has already won anything. Boxing is still a chaos factory. Fighters have their own goals. Sanctioning bodies still exist. Rival promoters are not going to hand over market share because Dana yelled into a microphone.
+
+But “ahead of schedule” does suggest the startup phase is going better than expected.
+
+And if White is serious about UFC-like volume in 2027, the implications are obvious:
+
+- more frequent Zuffa cards
+- more chances to build in-house stars
+- less dependence on once-a-year mega events
+- more leverage in media rights talks
+- more pressure on old-school promoters to look organized for once in their lives
+
+That is the real story here. Not whether every fan likes Dana White. Not whether boxing purists think this is vulgar. Nobody cares.
+
+The story is that Zuffa Boxing appears to be moving from **announcement phase** to **system phase** faster than people expected.
+
+## The UK Deal Makes the Claim More Believable
+
+If White had made this claim without the Sky Sports deal, it would sound like classic promoter chest-beating.
+
+With Sky in place, it lands differently.
+
+Now there is a legitimate broadcast partner in one of boxing’s strongest markets. There is a stated plan for UK shows. There is public talk about mixing prospect development with giant fights. There is an actual rhythm starting to form.
+
+That does not make the model proven.
+It does make it harder to laugh at.
+
+And once a fight promotion stops being easy to laugh at, boxing gets uncomfortable very quickly.
+
+## The Bigger ZuffaBets Takeaway
+
+Everybody in combat sports loves saying they want to “grow the sport.” Most of them really mean they want one nice press conference and a few protected revenue streams.
+
+Dana White means something more annoying: **volume, control, cadence, and noise**.
+
+That is why this update matters.
+
+If Zuffa Boxing really is ahead of schedule, then the old joke that Dana was just dabbling in boxing is dead already. What replaces it is much more dangerous for the rest of the industry: a promotion trying to build a repeatable machine inside a sport that has spent decades running like a group project from hell.
+
+If 2026 is the setup year, 2027 might be the year boxing finds out whether UFC-style operational discipline works with gloves on.
+
+And if it does, a lot of people are going to pretend they saw this coming. They did not.
+`
+  },
+  {
     slug: 'zuffa-boxing-sky-sports-uk-deal',
     title: 'Zuffa Boxing Lands Sky Sports and Kicks In the UK Door',
     subtitle: 'Dana White’s boxing project just grabbed Sky Sports in the UK and Ireland, with at least five UK shows per year now on the table.',
@@ -114,7 +218,6 @@ And if Dana White builds a machine in British boxing, a lot of very comfortable 
     tags: ['business', 'zuffa-boxing', 'dana-white'],
     readTime: '6 min',
     emoji: '🥊',
-    featured: true,
     content: `
 Everyone thought the Zuffa name was dead. The UFC was sold in 2016. Zuffa LLC was dissolved when TKO Group Holdings merged UFC and WWE in 2023. The Italian word for "brawl" had become a Wikipedia footnote.
 
