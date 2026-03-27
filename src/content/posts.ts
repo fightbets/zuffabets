@@ -13,6 +13,134 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'ali-revival-act-zuffa-boxing-control',
+    title: 'Ali Revival Act Could Hand Zuffa Boxing the Keys',
+    subtitle: 'Congress just moved the Muhammad Ali Boxing Revival Act forward, and the real fight is over whether Dana White gets UFC-style control of boxing.',
+    date: '2026-03-27',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '6 min',
+    emoji: '🏛️',
+    featured: true,
+    content: `
+Boxing’s latest title fight is not happening in a ring. It is happening in Congress.
+
+This week, the **U.S. House passed the Muhammad Ali Boxing Revival Act by voice vote**, and now the bill heads to the Senate. On paper, that sounds like dry legal sludge. In reality, it is one of the most important Zuffa Boxing stories of the year.
+
+Because if this thing becomes law, **Dana White and TKO could get a cleaner path to run boxing more like the UFC**.
+
+That is why old-school boxing people are making noise. They are not scared of a press conference. They are scared of a system.
+
+## What the Ali Revival Act Actually Does
+
+The current Ali Act was built to stop some of boxing’s dumbest business behavior.
+
+It aimed to protect fighters from coercive contracts, force more revenue disclosure, and keep promoters from swallowing every layer of control around a boxer’s career.
+
+The proposed **Muhammad Ali Boxing Revival Act** does not erase that law, but it adds something massive: **Unified Boxing Organizations**, or UBOs.
+
+That matters because a UBO could:
+
+- promote fights
+- run its own rankings
+- create its own titles
+- operate as a one-stop boxing machine outside the usual alphabet-belt circus
+
+And if that sounds familiar, congratulations: you just described the UFC model with boxing gloves on.
+
+## Why Everyone Thinks This Helps Zuffa Boxing
+
+Nobody has to play dumb here.
+
+ESPN’s reporting this week made the connection explicit: if the Revival Act becomes law, **it is widely believed Dana White would use it to build a UBO for Zuffa Boxing**.
+
+The Athletic framed it even more directly. The bill could allow a UFC-style entity to operate in boxing separate from the traditional sanctioning bodies, and that would be a gigantic gift to the TKO-Saudi-Zuffa project.
+
+That is the whole ballgame.
+
+Dana White has spent years talking about how broken boxing is. Too many belts. Too many gatekeepers. Too many people getting paid to make simple things annoying. A UBO gives him a chance to stop complaining about the maze and start bulldozing it.
+
+## Why Boxing’s Establishment Hates the Idea
+
+Because control is money, and this bill is really about control.
+
+Critics like **Bob Arum**, **Mauricio Sulaiman**, and other boxing lifers are warning that the Revival Act could weaken fighter protections for anyone who signs with a UBO. The core fear is simple: if one company can promote fighters, rank fighters, sanction title fights, and hold the belts, then that company can squeeze the entire market.
+
+And let’s be honest, this is not some abstract classroom debate.
+
+Everybody in boxing can see the silhouette here. It is Dana White in a suit, staring at a sport full of fragmented power centers and wondering why none of them were smart enough to lock the door.
+
+## The Case For It Is Also Pretty Obvious
+
+Boxing does need reform.
+
+Supporters of the bill point to:
+
+- higher minimum per-round pay
+- nationwide health insurance minimums
+- accidental death coverage
+- WADA-approved anti-doping programs
+- a more centralized structure that could make the sport less ridiculous to follow
+
+That last point is the one normal fans care about.
+
+Hardcore insiders can romanticize “the sweet science” all they want. The average person just wants a sport where titles make sense, rankings are not a prank, and big fights do not take nine years plus a hostage negotiator.
+
+That is exactly why the Zuffa angle matters. Even people who dislike Dana White understand the pitch immediately.
+
+## The Real Risk: Cleaner Product, Dirtier Power
+
+Here is where it gets spicy.
+
+The strongest argument **for** a Zuffa-style boxing system is also the strongest argument **against** it.
+
+A UBO could make boxing feel cleaner, faster, and more legible.
+But it could also concentrate leverage in one place.
+
+That means fighters might get:
+
+- a more coherent path to contention
+- fewer political headaches
+- better baseline protections in some areas
+
+It could also mean they lose bargaining power if one organization becomes the center of gravity.
+
+And if you think boxing promoters are mad now, imagine how loud they get when Dana White controls rankings, title shots, event cadence, and the loudest microphone in the room.
+
+## Why ZuffaBets Cares
+
+Because this is the first genuinely big **policy-meets-power** story around Zuffa Boxing in a while.
+
+The Sky Sports deal mattered. The “ahead of schedule” talk mattered. But this is different.
+
+This is not just about distribution.
+This is not just about momentum.
+This is about whether the law itself could tilt the board toward the exact business model Dana White has wanted all along.
+
+That is why the story has teeth.
+
+If the Senate moves this bill forward, the conversation around Zuffa Boxing changes from *can they get into the sport?* to *how much of the sport are they allowed to become?*
+
+And that is a much nastier question for the rest of boxing.
+
+## What to Watch Next
+
+Three things matter now:
+
+1. **Whether the Senate moves the bill quickly**
+2. **Whether the UBO language gets tightened or watered down**
+3. **How openly Zuffa Boxing starts talking about rankings, belts, and central control**
+
+If those pieces line up, this stops being theory.
+It becomes infrastructure.
+
+And boxing has always been vulnerable to the same threat: one well-funded operator deciding the chaos is not sacred, it is just inefficient.
+
+If the Ali Revival Act gets across the finish line, Zuffa Boxing may not just enter boxing.
+It may get handed the keys to redesign the whole damn building.
+`
+  },
+  {
     slug: 'zuffa-boxing-ahead-of-schedule-2027',
     title: 'Dana White Says Zuffa Boxing Is Already Ahead of Schedule',
     subtitle: 'Dana White says Zuffa Boxing is moving faster than expected, with a 2027 target that starts sounding suspiciously like UFC-level volume.',
@@ -21,7 +149,6 @@ export const posts: Post[] = [
     tags: ['business', 'zuffa-boxing', 'dana-white'],
     readTime: '5 min',
     emoji: '📈',
-    featured: true,
     content: `
 Dana White is already talking like Zuffa Boxing is not a side project. He is talking like it is a machine in the early stages of assembly.
 
