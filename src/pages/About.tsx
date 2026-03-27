@@ -72,10 +72,10 @@ export default function About() {
         </h3>
         <p className="text-gray-400 mb-4">Follow us. Share us. Argue with us.</p>
         <div className="flex justify-center gap-3">
-          <a href="#" className="bg-tap hover:bg-tap/80 text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
+          <a href="https://twitter.com/zuffabets" target="_blank" rel="noopener noreferrer" className="bg-tap hover:bg-tap/80 text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
             Twitter/X
           </a>
-          <a href="#" className="bg-octagon hover:bg-octagon-dark text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
+          <a href="https://instagram.com/zuffabets" target="_blank" rel="noopener noreferrer" className="bg-octagon hover:bg-octagon-dark text-white px-5 py-2.5 rounded-full font-bold text-sm transition no-underline">
             Instagram
           </a>
         </div>

@@ -40,8 +40,8 @@ export default function Home() {
           </div>
           <span className="w-px h-6 bg-gray-200 hidden md:block" aria-hidden="true" />
           <div className="hidden md:flex items-center gap-2 text-sm">
-            <span className="font-display text-2xl font-bold text-gold">$4B</span>
-            <span className="text-gray-500 uppercase text-xs tracking-wide font-medium">In Stories</span>
+            <span className="font-display text-2xl font-bold text-gold">2024</span>
+            <span className="text-gray-500 uppercase text-xs tracking-wide font-medium">Est.</span>
           </div>
         </div>
 

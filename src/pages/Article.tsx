@@ -35,7 +35,7 @@ export default function Article() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
       {/* Breadcrumb */}
-      <nav className="flex items-center gap-2 text-sm text-gray-400 mb-6">
+      <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-gray-400 mb-6">
         <Link to="/" className="hover:text-octagon transition">Home</Link>
         <span>/</span>
         <span className="text-gray-600 truncate">{post.title}</span>

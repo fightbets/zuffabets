@@ -15,7 +15,7 @@ const taglines = [
 
 function FBLogo({ size = 'md' }: { size?: 'sm' | 'md' | 'lg' }) {
   const sizes = { sm: 'w-6 h-6', md: 'w-8 h-8', lg: 'w-10 h-10' }
-  return <img src="/fightbets-logo.png" alt="FightBets" className={`${sizes[size]} rounded-lg`} />
+  return <img src="/fightbets-logo.png" alt="FightBets" loading="lazy" className={`${sizes[size]} rounded-lg`} />
 }
 
 export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'banner' | 'inline' | 'article' }) {
@@ -88,15 +88,6 @@ export default function FightBetsPromo({ variant = 'banner' }: { variant?: 'bann
         className="absolute -bottom-8 -left-8 w-32 h-32 border-4 border-gold/10 rotate-12 rounded-lg animate-float-slow pointer-events-none"
         style={{ '--float-rotate': '12deg', animationDelay: '1s' } as React.CSSProperties}
       />
-      <div
-        className="absolute top-1/2 -right-4 w-16 h-16 border-2 border-octagon/8 rotate-[30deg] rounded-sm animate-float pointer-events-none"
-        style={{ '--float-rotate': '30deg', animationDelay: '2s' } as React.CSSProperties}
-      />
-      <div
-        className="absolute top-6 left-12 w-8 h-8 bg-gold/5 rotate-45 rounded-sm animate-float-slow pointer-events-none"
-        style={{ '--float-rotate': '45deg', animationDelay: '0.5s' } as React.CSSProperties}
-      />
-
       <div className="relative z-10">
         <p className="text-gold font-display text-xs uppercase tracking-[0.2em] mb-2">Presented by</p>
         <div className="flex items-center justify-center gap-3 mb-3">

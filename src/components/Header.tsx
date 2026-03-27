@@ -17,7 +17,7 @@ export default function Header() {
         </Link>
 
         {/* Desktop Nav */}
-        <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
+        <nav aria-label="Main navigation" className="hidden md:flex items-center gap-6 text-sm font-medium">
           <Link to="/" className={`hover:text-octagon transition ${isHome ? 'text-octagon' : 'text-gray-300'}`}>
             Home
           </Link>
@@ -58,7 +58,7 @@ export default function Header() {
 
       {/* Mobile Nav */}
       {menuOpen && (
-        <nav className="md:hidden bg-canvas border-t border-gray-800 px-4 py-4 flex flex-col gap-3 text-sm">
+        <nav aria-label="Main navigation" className="md:hidden bg-canvas border-t border-gray-800 px-4 py-4 flex flex-col gap-3 text-sm animate-fade-in-up">
           <Link to="/" onClick={() => setMenuOpen(false)} className="text-gray-300 hover:text-octagon">Home</Link>
           <Link to="/tag/history" onClick={() => setMenuOpen(false)} className="text-gray-300 hover:text-octagon">History</Link>
           <Link to="/tag/business" onClick={() => setMenuOpen(false)} className="text-gray-300 hover:text-octagon">Business</Link>

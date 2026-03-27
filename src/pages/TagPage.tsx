@@ -12,7 +12,7 @@ export default function TagPage() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
-      <nav className="flex items-center gap-2 text-sm text-gray-400 mb-6">
+      <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-gray-400 mb-6">
         <Link to="/" className="hover:text-octagon transition">Home</Link>
         <span>/</span>
         <span className="text-gray-600">Tag: {tag}</span>
