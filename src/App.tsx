@@ -13,6 +13,12 @@ const V2Tag = lazy(() => import('./v2/V2Tag'))
 const V2About = lazy(() => import('./v2/V2About'))
 const V2Layout = lazy(() => import('./v2/V2Layout'))
 
+const V3Home = lazy(() => import('./v3/V3Home'))
+const V3Article = lazy(() => import('./v3/V3Article'))
+const V3Tag = lazy(() => import('./v3/V3Tag'))
+const V3About = lazy(() => import('./v3/V3About'))
+const V3Layout = lazy(() => import('./v3/V3Layout'))
+
 declare global {
   interface Window {
     datafast?: (...args: unknown[]) => void
@@ -52,6 +58,12 @@ export default function App() {
             <Route path="post/:slug" element={<Suspense fallback={null}><V2Article /></Suspense>} />
             <Route path="tag/:tag" element={<Suspense fallback={null}><V2Tag /></Suspense>} />
             <Route path="about" element={<Suspense fallback={null}><V2About /></Suspense>} />
+          </Route>
+          <Route path="/v3" element={<Suspense fallback={null}><V3Layout /></Suspense>}>
+            <Route index element={<Suspense fallback={null}><V3Home /></Suspense>} />
+            <Route path="post/:slug" element={<Suspense fallback={null}><V3Article /></Suspense>} />
+            <Route path="tag/:tag" element={<Suspense fallback={null}><V3Tag /></Suspense>} />
+            <Route path="about" element={<Suspense fallback={null}><V3About /></Suspense>} />
           </Route>
         </Routes>
       </main>
