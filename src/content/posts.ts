@@ -14,12 +14,12 @@ export interface Post {
 export const posts: Post[] = [
   {
     slug: 'ali-revival-act-zuffa-boxing-control',
-    title: 'Ali Revival Act Could Hand Zuffa Boxing the Keys',
-    subtitle: 'Congress just moved the Muhammad Ali Boxing Revival Act forward, and the real fight is over whether Dana White gets UFC-style control of boxing.',
-    date: '2026-03-27',
+    title: 'Ali Revival Act Fight Gets Messier as Oscar Steps In',
+    subtitle: 'The Ali Revival Act is now heading to the Senate, and Oscar De La Hoya is trying to turn the Zuffa Boxing power grab into a public war.',
+    date: '2026-03-28',
     author: 'ZuffaBets Staff',
     tags: ['business', 'zuffa-boxing', 'dana-white'],
-    readTime: '6 min',
+    readTime: '7 min',
     emoji: '🏛️',
     featured: true,
     content: `
@@ -107,6 +107,22 @@ It could also mean they lose bargaining power if one organization becomes the ce
 
 And if you think boxing promoters are mad now, imagine how loud they get when Dana White controls rankings, title shots, event cadence, and the loudest microphone in the room.
 
+## Oscar De La Hoya Just Made It Personal
+
+This story got sharper on Friday.
+
+**Oscar De La Hoya said he has been invited to Washington to speak with senators in the coming weeks**, and he is openly trying to derail the bill before it reaches President Trump’s desk. He told Uncrowned that the vote felt “sneaky,” accused TKO and Zuffa of operating under the radar, and basically volunteered himself as the loudest face of the opposition.
+
+That matters for two reasons.
+
+First, it turns the Ali Revival Act from a dry policy fight into a promoter war with a recognizable villain-hero dynamic, depending on which side of the bar you are sitting at.
+
+Second, it shows the boxing establishment is not treating this like a symbolic complaint anymore. They think the Senate phase is their last real chance to slow down a structure that could let Zuffa build its own rankings, titles, and championship path.
+
+De La Hoya also took shots at the **Zuffa belt** and at **Ring Magazine’s current credibility**, arguing that Jai Opetaia and other fighters still care more about the traditional belts than any new hardware TKO rolls out. That is not just Oscar being Oscar. It is a clue.
+
+Even with the money, branding, and lawmakers lined up, Zuffa Boxing still has to solve one old boxing problem: fighters do not automatically abandon the belts that already make them legitimate.
+
 ## Why ZuffaBets Cares
 
 Because this is the first genuinely big **policy-meets-power** story around Zuffa Boxing in a while.
@@ -117,11 +133,13 @@ This is not just about distribution.
 This is not just about momentum.
 This is about whether the law itself could tilt the board toward the exact business model Dana White has wanted all along.
 
+Now it is also about whether boxing’s old guard can turn the Senate into a last-minute roadblock.
+
 That is why the story has teeth.
 
 If the Senate moves this bill forward, the conversation around Zuffa Boxing changes from *can they get into the sport?* to *how much of the sport are they allowed to become?*
 
-And that is a much nastier question for the rest of boxing.
+And if De La Hoya manages to make this loud enough in Washington, the next phase stops being a policy update and becomes a political street fight.
 
 ## What to Watch Next
 
