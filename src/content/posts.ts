@@ -13,6 +13,73 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-bans-ufc-fighters-zuffa-boxing',
+    title: 'Dana White Bans UFC Fighters From Zuffa Boxing',
+    subtitle: 'Dustin Poirier wanted to box Nate Diaz under the Zuffa banner. Dana White said absolutely not. Here is why the UFC boss is killing crossover fights.',
+    date: '2026-03-29',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '4 min',
+    emoji: '🚫',
+    featured: true,
+    content: `
+Dana White is officially killing the crossover boxing dream before it even starts.
+
+If you thought Zuffa Boxing was going to be a playground for bored UFC fighters looking to cash a quick boxing check, think again. The UFC boss is holding firm: **active and retired UFC fighters are barred from competing in Zuffa Boxing.**
+
+This isn't just theory. He just turned down a guaranteed money fight to prove the point.
+
+## The Poirier vs. Diaz Rejection
+
+Last week, retired UFC legend **Dustin Poirier** revealed he pitched a massive idea: a boxing match against **Nate Diaz** under the new Zuffa Boxing banner. 
+
+It makes perfect sense on paper. The two were supposed to fight in MMA years ago but it fell apart. Both guys are massive stars. Both guys have elite boxing for MMA. A Zuffa-promoted boxing match between them would easily sell out an arena and do huge pay-per-view numbers.
+
+Dana White’s response? **No.**
+
+In a recent interview, White shut down the idea completely, explaining his philosophy for the new venture. He doesn't want Zuffa Boxing to become a retirement home or a novelty act for MMA fighters. He wants it to be a real boxing promotion with real boxers.
+
+## Why Crossover Fights "Suck"
+
+White has never been shy about his disdain for MMA vs. Boxing novelty matches. Outside of the massive McGregor vs. Mayweather anomaly (which the UFC co-promoted purely because the money was too big to ignore), he generally hates them.
+
+“Crossover fights suck,” White has said repeatedly when asked about UFC fighters stepping into the squared circle. 
+
+His logic is simple and mostly correct: 
+- When an MMA fighter boxes a boxer, the boxer almost always wins easily.
+- When an MMA fighter boxes another MMA fighter, it usually looks like bad boxing.
+- It devalues the premium brand he is trying to build with Zuffa Boxing.
+
+## The Francis Ngannou Lesson
+
+You don't have to look far to see why White is taking this stance. 
+
+When Francis Ngannou left the UFC, he boxed Tyson Fury and shocked the world by dropping him and looking competitive. The MMA world cheered. 
+
+But then Ngannou boxed Anthony Joshua and got brutally knocked out in two rounds. The illusion was shattered. It reminded everyone that elite boxing and elite MMA striking are two entirely different sports.
+
+Dana White watched that happen to his former heavyweight champion and took notes. He knows that letting UFC stars get pieced up in a boxing ring makes the UFC look bad, and putting two UFC guys in a boxing ring makes Zuffa Boxing look like a gimmick.
+
+## Protecting the Zuffa Boxing Brand
+
+This decision tells us exactly what Zuffa Boxing is supposed to be.
+
+If White allowed Poirier vs. Diaz, Zuffa Boxing would immediately be branded as "UFC Lite" or a celebrity boxing outfit. By turning down an easy multi-million dollar payday, White is sending a message to the boxing industry: **we are here to sign the best boxers in the world, not recycle our own roster.**
+
+Zuffa Boxing is aiming for the Canelos, the Crawfords, and the next generation of pure boxing stars. They want to compete with Top Rank and Matchroom, not Misfits Boxing.
+
+## The Ultimate Irony
+
+There is a hilarious irony to all of this. 
+
+Dana White built his empire on the backs of fighters like Poirier and Diaz. Now, he's building a boxing empire and explicitly telling those same guys they aren't allowed in the building. 
+
+But from a purely ruthless business perspective? It's the right move. If Zuffa Boxing is going to fix the sport of boxing, it has to actually *be* boxing. 
+
+Sorry, Dustin. The crossover era is officially closed for business.
+`
+  },
+  {
     slug: 'ali-revival-act-zuffa-boxing-control',
     title: 'Ali Revival Act Fight Gets Messier as Oscar Steps In',
     subtitle: 'The Ali Revival Act is now heading to the Senate, and Oscar De La Hoya is trying to turn the Zuffa Boxing power grab into a public war.',
