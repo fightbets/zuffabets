@@ -13,6 +13,102 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'jai-opetaia-stripped-ibf-title-zuffa-boxing',
+    title: 'Jai Opetaia Got Stripped and Zuffa Boxing Got a Lesson',
+    subtitle: 'The IBF vacated Jai Opetaia’s cruiserweight title after Zuffa pushed its own belt too hard. Boxing’s old cartel just reminded Dana White the maze still has teeth.',
+    date: '2026-03-30',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'fights'],
+    readTime: '5 min',
+    emoji: '🧨',
+    featured: true,
+    content: `
+Zuffa Boxing just ran face-first into one of boxing’s oldest rackets: the belt game.
+
+**Jai Opetaia has been stripped of his IBF cruiserweight title** after fighting Brandon Glanton on March 8 while Zuffa Boxing pushed its own belt as a world championship. Opetaia still has the Ring title. He still won the fight. But the IBF looked at the whole thing, shrugged, and said the belt is vacant now.
+
+That is not just a sanctioning-body tantrum. It is a preview.
+
+If Dana White wants to drag boxing into a UFC-style system, this is what the resistance looks like when it stops talking and starts pulling levers.
+
+## What Actually Happened
+
+The fight itself was not the issue. The politics around it were.
+
+According to BBC Sport and BoxingScene, the IBF had been told the Zuffa belt would basically be treated like a trophy or token of recognition. Then fight week happened, and Zuffa repeatedly referred to it like a real world title. That changed the temperature immediately.
+
+The IBF withdrew sanctioning, cited its rules around unification and unsanctioned bouts, and later voted to vacate Opetaia’s title. So now the unbeaten Australian is in the absurd position of being stripped **without losing in the ring**.
+
+Boxing loves this kind of nonsense. It keeps the lawyers warm.
+
+## Why This Matters More Than One Belt
+
+Because this is the first clean example of the old system punching back.
+
+Zuffa’s whole sales pitch is simple: boxing has too many belts, too many promoters, too many middlemen, and too many stupid delays. That pitch works because it is obviously true. But the Opetaia mess shows the people who benefit from that chaos are not going to hand over control just because Dana White showed up with Saudi money and a louder microphone.
+
+The alphabet bodies still control legitimacy for a lot of fighters. They still decide who gets recognized, who gets stripped, and which title paths stay alive. You can mock that system all day, but if you are a boxer chasing undisputed status, those belts still matter.
+
+That is why this story has real teeth. Zuffa tried to act like its title could sit at the grown-ups' table immediately. The IBF basically flipped the table over.
+
+## The Real Problem for Zuffa
+
+Zuffa Boxing does not just need stars. It needs its own version of authority.
+
+That is harder than signing talent and booking arenas.
+
+The recent Sky Sports deal gives Zuffa more reach in the UK and Ireland, and the company has already lined up at least five shows per year on UK soil. The media machine is growing. The schedule is growing. The roster is growing.
+
+But legitimacy in boxing is still a filthy political marketplace.
+
+Dana White wants a cleaner model where his promotion can build contenders, control pacing, and eventually make outside belts feel optional. The problem is that boxing’s existing power brokers know exactly what that would mean. If Zuffa gets fans to care more about its own championship structure than the WBA, WBC, WBO, and IBF alphabet soup, half the old business model starts looking decorative.
+
+So they are not going to cooperate. They are going to punish any overlap they can.
+
+## Opetaia Is the Perfect Test Case
+
+This is what makes the story funny and brutal at the same time.
+
+Opetaia is not some washed-up name doing influencer nonsense. He is one of the best cruiserweights on earth and exactly the kind of fighter Zuffa needs if it wants boxing people to take the project seriously.
+
+And yet the second Zuffa tried to establish symbolic power around him, the IBF reminded everyone who still stamps the paperwork.
+
+That creates a nasty choice for future signees:
+
+- keep the traditional belts and play by the old game
+- go all-in with Zuffa and risk getting frozen out of parts of the legacy title system
+
+That tension is not a side story. It **is** the story.
+
+## What Dana White Just Learned
+
+You cannot kill boxing’s belt cartel with press conferences.
+
+You kill it by making fans, fighters, broadcasters, and eventually lawmakers care less about the old machinery. Zuffa is trying to do that in public, and the Opetaia situation shows how ugly the transition could get.
+
+This is also why the Ali Revival Act fight matters so much. If Zuffa can eventually build a structure that acts more like a unified boxing organization, these belt wars start looking less like roadblocks and more like a temporary tax.
+
+But right now? The old guard still has working buttons to press.
+
+And they just pressed one.
+
+## The Bigger Takeaway
+
+Jai Opetaia losing the IBF belt is bad for him in the short term. It is worse for Zuffa Boxing in a more interesting way.
+
+It exposes the gap between **promotion power** and **institutional power**.
+
+Dana White has plenty of the first one. The second one is still under heavy guard.
+
+So if you were wondering whether boxing’s establishment would quietly let Zuffa walk in, build its own belts, and act like the sheriff on day one, there is your answer.
+
+Absolutely not.
+
+Zuffa wants boxing to run like a machine.
+The machine just got told it still needs permission to enter the building.
+`
+  },
+  {
     slug: 'dana-white-bans-ufc-fighters-zuffa-boxing',
     title: 'Dana White Bans UFC Fighters From Zuffa Boxing',
     subtitle: 'Dustin Poirier wanted to box Nate Diaz under the Zuffa banner. Dana White said absolutely not. Here is why the UFC boss is killing crossover fights.',
