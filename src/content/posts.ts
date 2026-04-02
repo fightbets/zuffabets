@@ -13,6 +13,108 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'conor-benn-zuffa-boxing-money-matchroom',
+    title: 'Conor Benn Just Told Boxing What Zuffa Is Buying',
+    subtitle: 'Conor Benn says the money gap between Matchroom and Zuffa Boxing was “drastic,” and that tells you exactly how Dana White plans to rip open boxing’s talent market.',
+    date: '2026-04-02',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '💰',
+    featured: true,
+    content: `
+Conor Benn just said the quiet part out loud.
+
+Not the fake quiet part boxing people pretend not to hear. The **real** one.
+
+According to Benn, the money difference between **Matchroom Boxing** and **Zuffa Boxing** was so massive it was not even a normal negotiation. In his words, it was **“drastic.”** BBC Sport reported the deal is for **one fight** and is **reportedly worth an eight-figure fee**. Advanced Television put an even louder number on it: **£11 million**.
+
+That is not just a fighter changing promoters.
+That is Dana White and Zuffa walking into boxing and slapping the table with a brick of cash.
+
+## This Is Bigger Than Conor Benn
+
+Benn matters because he is not some random prospect looking for a logo.
+
+He is a high-profile UK name, a proven attention magnet, and exactly the type of fighter you sign when you want a market to understand you are not here to play intern. He had been with Matchroom since turning pro in 2016. Then one Zuffa offer shows up and suddenly even long-term relationships start looking like old furniture.
+
+That is the real headline.
+
+Zuffa is not trying to politely enter boxing. It is trying to **distort the pricing** of relevance.
+
+## The Number Is the Message
+
+Benn told BBC Sport the gap was not the kind you smooth over by getting “a couple of million” closer. In other words, this was not normal promoter haggling. This was a statement.
+
+And the statement is simple: **if Zuffa wants a name, it may be willing to pay stupid money to get the room’s attention fast.**
+
+That matters because boxing has spent decades functioning like a loose collection of rival shops. Promoters protect relationships. Fighters drift through soft politics. Negotiations take forever. Everybody acts like this is noble tradition instead of administrative performance art.
+
+Zuffa’s move with Benn cuts through all of that.
+
+It tells fighters there is a new buyer in town.
+It tells promoters their usual leverage might not hold.
+And it tells broadcasters like **Sky Sports** that Zuffa is willing to spend real money to make its UK plans look serious immediately.
+
+## Why Benn Fits the Zuffa Plan
+
+This is where the story gets cleaner.
+
+Zuffa already has the new **Sky Sports** deal in the UK and Ireland, with at least **five UK shows per year** planned. Dana White has already told Sky he wants to sign the best fighters in the world. Benn is the kind of signing that makes those quotes stop sounding like launch-week testosterone and start sounding like a business model.
+
+Because Benn gives Zuffa three useful things at once:
+
+- a recognizable UK headline name
+- instant promoter-war drama
+- and a proof-of-concept that money can pry fighters loose from established stables
+
+That last part is the killer.
+
+Signing talent is one thing. Signing talent away from the old furniture is how you announce an invasion.
+
+## Matchroom Got the Memo
+
+Eddie Hearn called Benn’s move a “dagger in the heart.” Dramatic? Sure. Also revealing.
+
+Promoters are not supposed to lose fighters like this unless something went badly wrong or somebody showed up with nuclear numbers.
+
+Benn himself framed it like a family decision, saying it changes not only his kids’ lives but his kids’ kids’ lives. Fair enough. Fighters are the ones getting punched in the mouth, not the people giving interviews in expensive coats.
+
+But the bigger market takeaway is colder than that.
+
+If Zuffa can start buying short-term access to names with this kind of force, then boxing’s talent economy gets weird fast. Existing promoters either pay more, lose more, or start pretending they never wanted certain fighters anyway. Classic industry coping mechanism.
+
+## One Fight Deal, Big Noise
+
+The funniest part? Benn said the Zuffa agreement is only for **one fight**, after which he becomes a free agent again.
+
+That makes this even more interesting.
+
+A short deal means Zuffa did not need a lifetime contract to make headlines. It just needed one expensive swing.
+
+That is very Dana White.
+
+Create noise. Change the market temperature. Make everybody else react.
+
+Even if Benn leaves afterward, the message has already landed: Zuffa can pay, Zuffa can pull, and Zuffa can make old boxing relationships look a lot less permanent than they used to.
+
+## The ZuffaBets Take
+
+This is not really a Conor Benn story.
+
+It is a **pricing power** story.
+
+Benn just gave the public a cleaner look at how Zuffa may try to crack boxing open: not with speeches about reform, but with aggressive checks, real TV distribution, and enough noise to make the old guard sweat through the tailoring.
+
+Boxing has spent years acting like fragmentation is unavoidable.
+Zuffa is acting like everything has a price.
+
+That is a much scarier idea.
+
+And if Benn is just the first guy willing to say the money was ridiculous out loud, the rest of the sport should probably start checking its contracts.
+`
+  },
+  {
     slug: 'zuffa-boxing-paramount-sky-sports-media-machine',
     title: 'Zuffa Boxing’s Media Machine Is Getting Real Fast',
     subtitle: 'The April 5 Cortes-Garcia card is more than another fight night. It is the first clean look at Zuffa Boxing with Paramount+ in the U.S. and Sky Sports in the UK and Ireland.',
@@ -21,7 +123,6 @@ export const posts: Post[] = [
     tags: ['business', 'zuffa-boxing', 'entertainment'],
     readTime: '5 min',
     emoji: '📺',
-    featured: true,
     content: `
 Everybody keeps arguing about belts, rankings, and whether Dana White can actually bully boxing into the 21st century.
 
