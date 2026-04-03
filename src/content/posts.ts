@@ -13,6 +13,95 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'turki-alalshikh-2026-boxing-schedule-control-problem',
+    title: 'Turki’s 2026 Flex Shows Boxing Still Runs on One Man’s Calendar',
+    subtitle: 'Turki Alalshikh answered the doubters by unloading a giant 2026 fight slate. Cool. It also reminded everyone how dependent boxing still is on one power broker moving the pieces.',
+    date: '2026-04-03',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'culture', 'zuffa-boxing'],
+    readTime: '5 min',
+    emoji: '📈',
+    content: `
+Turki Alalshikh got annoyed, opened the schedule drawer, and basically told boxing: **look at all this smoke before you question who still runs the room.**
+
+That was the real message behind his latest response to critics.
+
+After chatter that his attention might be drifting, Turki jumped on X and rattled off a 2026 slate that included **Shakur Stevenson vs. Teofimo Lopez at Madison Square Garden**, **Ryan Garcia vs. Mario Barrios in Las Vegas**, a **Tyson Fury fight at Tottenham Hotspur Stadium**, a planned **Usyk-Rico heavyweight title fight at the Pyramids**, plus second-half plans involving **Canelo Alvarez, Anthony Joshua, Fury, and Garcia**.
+
+It is an absurd list.
+It is also a weirdly revealing one.
+
+## The Flex Was the Point
+
+Turki was not just promoting fights. He was swatting away the idea that boxing had cooled off around him.
+
+His tone was simple: **I am busy, the schedule is huge, and the sport is still moving through me anyway.**
+
+That is effective bravado. It also exposes boxing's favorite dirty secret.
+
+For all the talk about tradition, independence, and promoter pride, the modern sport still gets way too much of its oxygen from one powerful figure deciding which giant events get assembled, funded, and staged.
+
+That is not stability.
+That is a monarchy with gloves.
+
+## Why This Matters for Zuffa
+
+This is where the Zuffa angle gets interesting.
+
+Every time boxing needs a public show of force like this, it accidentally strengthens the argument for a more centralized machine.
+
+That is the entire Dana White sales pitch.
+
+Not that he loves boxing more than everyone else.
+Not that he is here to preserve the ancient romance of sanctioning-body politics.
+But that the sport is bloated, fragmented, and embarrassingly dependent on chaos merchants and super-connectors to make basic business happen.
+
+If one man posting a schedule can calm the whole room down, then the room was never organized to begin with.
+
+## Boxing Loves Power. It Just Hates Admitting It.
+
+This is the funniest part.
+
+Boxing people constantly act scandalized by the idea of one company having too much control. Then they spend half the year begging for one rich operator to wave a wand and make the big fights appear.
+
+Pick a lane.
+
+You cannot call centralization evil on Monday and then celebrate calendar miracles on Tuesday like the sport was saved by a royal air-drop.
+
+Turki's latest post did what it was supposed to do. It reminded fans that the premium end of boxing is still alive and still full of giant names.
+
+But it also reminded everyone that boxing has not fixed its structural weakness. It has just found a very wealthy workaround.
+
+## The 2026 Slate Sounds Massive. That’s Not the Same as Healthy.
+
+To be fair, fans should want big fights. A loaded slate beats dead air. No argument there.
+
+But healthy sports do not need this much public reassurance from one central fixer.
+
+Healthy sports have systems.
+Healthy sports have predictable pipelines.
+Healthy sports do not feel like they need a throne room update every time people get nervous.
+
+That is why this moment matters beyond the headlines.
+
+Turki's list was impressive. It was also a giant neon sign flashing the same message Dana White has been betting on since he revived **Zuffa Boxing**: boxing still has demand, money, stars, and spectacle, but the structure underneath remains a beautiful mess.
+
+## The ZuffaBets Take
+
+Turki won the news cycle.
+No question.
+
+But he also accidentally made the best argument for Zuffa's long game.
+
+Because when a sport needs one man to publicly reassure everyone that the circus is still in town, it is not proving how healthy the business is.
+
+It is proving there is still room for somebody to walk in, tighten the screws, and call the mess what it is.
+
+Boxing keeps showing off its stars.
+Zuffa keeps staring at the wiring.
+`,
+  },
+  {
     slug: 'conor-benn-zuffa-boxing-money-matchroom',
     title: 'Conor Benn Just Told Boxing What Zuffa Is Buying',
     subtitle: 'Conor Benn says the money gap between Matchroom and Zuffa Boxing was “drastic,” and that tells you exactly how Dana White plans to rip open boxing’s talent market.',
