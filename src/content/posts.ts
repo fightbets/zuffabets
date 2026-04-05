@@ -13,6 +13,98 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-boxing-promoters-less-than-nothing',
+    title: 'Dana White Says Boxing Promoters Have Shown Him Less Than Nothing',
+    subtitle: 'After poaching Conor Benn and watching Eddie Hearn jump into Tom Aspinall business, Dana White says boxing\'s power brokers have given him “less than nothing.” That sounds rude because it is.',
+    date: '2026-04-05',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '🔥',
+    content: `
+Dana White finally said the part boxing people keep trying to dress up in nicer language.
+
+According to White, the promoters he has dealt with since jumping into boxing have shown him **“less than nothing.”**
+
+That quote came via ESPN after UFC London, where White was asked about **Eddie Hearn’s new business relationship with UFC heavyweight champion Tom Aspinall**, the same Eddie Hearn who had just watched **Conor Benn** leave Matchroom for a lucrative **one-fight Zuffa Boxing deal**.
+
+So yes, the gloves are off. And honestly, good. Boxing business is usually at its funniest when everybody stops pretending to be diplomatic adults.
+
+## What White Actually Said
+
+White told reporters he did not understand Hearn’s move. One minute Hearn was warning Zuffa about the boxing business. Two weeks later, he had jumped into the MMA talent game with Aspinall.
+
+Then White went harder.
+
+He said he had expected more from the boxing world, but had seen **“less than nothing”** so far, adding that when you look at the current state of boxing, maybe that should not be surprising.
+
+That is classic Dana phrasing — blunt, insulting, and built to travel.
+
+It also matters because it reveals how Zuffa seems to view this market internally: **not as a sacred institution full of untouchable operators, but as a sloppy business full of openings.**
+
+## The Benn Deal Changed the Temperature
+
+This did not come out of nowhere.
+
+The whole mood shifted when Zuffa signed **Conor Benn** away for a reported monster payday. Benn later described the money gap between Matchroom and Zuffa as **“drastic.”** Hearn called Benn’s move a **“dagger in the heart.”**
+
+That is not normal promoter drama. That is market-share panic with microphones.
+
+If Zuffa can walk in and buy a headline name for one fight, it tells every fighter in the sport that the old relationship map is not as permanent as it looked. Suddenly loyalty starts looking a lot like underpricing.
+
+White knows that. Hearn definitely knows that. Which is why every public comment now sounds like two guys checking whether the other one blinked first.
+
+## Why the Aspinall Angle Matters
+
+Aspinall is not crossing over into boxing. He is still the UFC heavyweight champion. But Hearn linking up with him on the business side matters because it shows this thing is no longer contained to one lane.
+
+The boxing-MMA walls are getting weird.
+
+Promoters, managers, broadcasters, talent agencies, Saudi money, TKO infrastructure — it is all starting to smear together into one bigger combat-sports power game.
+
+That is exactly the kind of environment where Dana White thrives. He does not need everybody to like him. He just needs the landscape to get chaotic enough that a cleaner machine starts looking attractive.
+
+## Dana’s Real Bet Is Not About Being Popular
+
+This is the key point.
+
+White is not trying to win a vote from boxing traditionalists. He is trying to prove they are less important than they think.
+
+Every time a promoter complains, every time negotiations turn into ego theater, every time a fighter admits one offer blew the old system out of the water, Zuffa’s pitch gets easier to understand:
+
+- fewer middlemen
+- stronger central control
+- real media distribution
+- and enough cash to make the room uncomfortable
+
+That is why the “less than nothing” quote hits. It is not just an insult. It is a business thesis.
+
+White is basically saying: **I came into this sport expecting sharks and found clutter.**
+
+## Boxing’s Reputation Problem Is Becoming Zuffa’s Marketing
+
+Here is the funniest part.
+
+Even if you think Dana is overselling things, boxing keeps handing him material. The sport already has a public reputation for promoter ego, fragmented titles, endless delays, and weird backroom politics. White did not invent that image. He just keeps grabbing a megaphone whenever boxing refreshes it for him.
+
+That is what makes this moment worth watching.
+
+Zuffa Boxing does not need to fix every structural problem overnight. It just needs enough people — fighters, broadcasters, casual fans, sponsors — to look at the old system and say, **yeah, maybe this really could use a hostile takeover.**
+
+## The ZuffaBets Take
+
+Dana White saying boxing promoters have given him “less than nothing” is obviously disrespectful.
+
+It is also smart.
+
+Because the more public this promoter-war nonsense gets, the easier it is for Zuffa to present itself as the grown-up wrecking ball in the room. Not polite. Not soft. Just direct, funded, and very willing to make the old guard sweat.
+
+If boxing wanted to avoid that framing, it probably should have spent the last decade looking less like a group project from hell.
+
+Instead, Dana showed up, called the class a joke, and half the market is already acting like he might be right.
+`,
+  },
+  {
     slug: 'turki-alalshikh-2026-boxing-schedule-control-problem',
     title: 'Turki’s 2026 Flex Shows Boxing Still Runs on One Man’s Calendar',
     subtitle: 'Turki Alalshikh answered the doubters by unloading a giant 2026 fight slate. Cool. It also reminded everyone how dependent boxing still is on one power broker moving the pieces.',
