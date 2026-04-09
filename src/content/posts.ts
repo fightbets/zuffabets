@@ -13,6 +13,112 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'hitchins-berlanga-zuffa-boxing-roster-pressure',
+    title: 'Hitchins and Berlanga Show Zuffa Is Buying Weight Classes Now',
+    subtitle: 'Richardson Hitchins and Edgar Berlanga signing with Zuffa Boxing is more than roster fluff. Dana White is stacking names across divisions and making boxing’s old gatekeepers sweat again.',
+    date: '2026-04-09',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '🧲',
+    content: `
+Dana White is not just collecting headlines anymore.
+
+Now he is collecting **weight classes**.
+
+That is the real takeaway from **Richardson Hitchins** and **Edgar Berlanga** signing multi-fight deals with **Zuffa Boxing** this week. On paper, one is an unbeaten world champion at 140 and the other is a volatile super middleweight name trying to climb back into the expensive part of the sport. In practice, both signings say the same thing:
+
+Zuffa is done proving it can get attention.
+It is now proving it can build a roster map.
+
+## This Is Bigger Than Two Press Release Quotes
+
+The announcement itself was straightforward enough. Multiple reports on April 9 said Hitchins and Berlanga had signed multi-fight deals with Zuffa Boxing, adding two more recognizable names to a growing stable that already includes fighters like **Conor Benn** and **Jai Opetaia**.
+
+But the interesting part is not that Zuffa added more talent.
+The interesting part is **which kind** of talent it added.
+
+Hitchins arrives as the **IBF junior welterweight champion**, undefeated and technically one of the cleanest pickups available in that range. Berlanga arrives from the louder side of the market: flawed, marketable, known, and still dangerous enough to matter at 168.
+
+One guy gives Zuffa belt-level credibility.
+The other gives it matchup-level noise.
+
+That is smart roster building.
+
+## Hitchins Is the More Serious Signal
+
+Berlanga will get plenty of eyeballs because he is Berlanga. Fine. But **Hitchins** is the part boxing people should read twice.
+
+He is not some half-cooked prospect with a shiny nickname and an inflated record. He is a real champion with clean skills, real upside, and a division that actually matters. When a guy like that signs on, Zuffa is no longer just dabbling in spectacle. It is moving into **championship traffic**.
+
+That matters because Zuffa has already shown it does not particularly enjoy bowing to boxing’s existing alphabet maze. We just watched the **IBF strip Jai Opetaia** after Zuffa leaned too hard on its own belt theater. So if Hitchins enters the same system, the obvious question is whether his existing title can coexist with the Zuffa model for very long.
+
+That tension is not a bug.
+It is the whole plot.
+
+## Berlanga Gives Them a Different Weapon
+
+Berlanga is the opposite kind of useful.
+
+He is not arriving with the cleanest recent form, but he brings something promoters love more than perfect records: **reaction**. Fans know who he is. Opponents know who he is. He can sell a Brooklyn room, annoy purists, and still make a card feel bigger just by being attached to it.
+
+That is valuable because Zuffa is trying to make boxing feel like a machine, not a spreadsheet. Machines need stars, villains, comeback candidates, and guys who can light up a weigh-in even if half the internet is rolling its eyes.
+
+Berlanga fits that job perfectly.
+
+## This Is What an Actual Roster Starts Looking Like
+
+A lot of early Zuffa Boxing coverage focused on splashy headlines:
+
+- the **Sky Sports** deal
+- the **Paramount+** structure
+- the **Netflix** Tyson Fury event
+- the big talk about fixing boxing
+
+All of that matters.
+But eventually a promotion has to show it is not living off giant launch graphics and Dana White soundbites.
+
+This is where the Hitchins and Berlanga signings hit harder.
+
+They suggest Zuffa is filling out the board in layers:
+
+- champions with legitimacy
+- marketable names with fan recognition
+- UK-facing talent
+- fighters across multiple meaningful divisions
+
+That is how a company stops looking like a startup and starts looking like a threat.
+
+## The Old Guard Has the Same Problem Again
+
+Every new Zuffa signing creates the same headache for traditional boxing operators.
+
+It is not just about losing one fighter.
+It is about losing the illusion that the old relationship map is stable.
+
+Conor Benn already showed Zuffa could rip a meaningful UK name out of the usual furniture with brute-force money. Hitchins now suggests championship-level talent is willing to walk into the same orbit. Berlanga adds another familiar ex-Matchroom-adjacent name to the pile.
+
+At some point this stops looking like opportunism and starts looking like a pattern.
+
+And patterns are where panic begins.
+
+## The ZuffaBets Take
+
+Hitchins and Berlanga are not equal signings.
+That is exactly why the move is interesting.
+
+One strengthens Zuffa’s competitive credibility.
+The other strengthens its promotional temperature.
+Together, they show Dana White is not just buying names for posters. He is trying to own more of the board, division by division, personality by personality.
+
+Boxing’s old power brokers can keep acting like Zuffa is just a loud new neighbor.
+But loud neighbors do not usually start signing champions and headline-grade names in the same breath.
+
+That is roster pressure.
+And boxing has not handled pressure very well lately.
+`,
+  },
+  {
     slug: 'tyson-fury-netflix-zuffa-boxing-benn-prograis',
     title: 'Tyson Fury on Netflix Is Zuffa Boxing’s Loudest Flex Yet',
     subtitle: 'Fury vs. Makhmudov is big enough on its own. Add Conor Benn vs. Regis Prograis underneath it, and Zuffa Boxing suddenly looks a lot less like a startup and a lot more like a takeover machine.',
