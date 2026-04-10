@@ -13,6 +13,129 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-6-monthly-inventory-play',
+    title: 'Zuffa Boxing 6 Shows Dana White Wants Inventory, Not Just Noise',
+    subtitle: 'Shane Mosley Jr. vs. Serhii Bohachuk is not some giant superfight. That is exactly why it matters. Zuffa Boxing is trying to train fans and broadcasters to expect constant, usable fight inventory.',
+    date: '2026-04-10',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '📦',
+    content: `
+Zuffa Boxing did not wait around admiring its own reflection after April 5.
+
+It already lined up the next one.
+
+That is the real story behind **Shane Mosley Jr. vs. Serhii Bohachuk** getting announced as the main event for **Zuffa Boxing 6** on **May 10 in Las Vegas**. On paper, it is a solid middleweight fight between two recognizable names. In business terms, it is even more interesting than that.
+
+It is inventory.
+
+And inventory is how Dana White turns a fight promotion from a headline factory into an actual machine.
+
+## What Just Got Announced
+
+Multiple reports this week said **Mosley Jr. vs. Bohachuk** will headline **Zuffa Boxing 6** in Las Vegas.
+
+Mosley Jr. enters at **22-5** and still carries the family name that makes casual fans stop scrolling for half a second. Bohachuk comes in at **27-3 with 24 knockouts**, a dangerous puncher with enough credibility to make the fight feel like more than a brand-name recycling project.
+
+Neither guy is Tyson Fury.
+That is the point.
+
+Zuffa already has big-event muscle in the chamber. We have seen the **Netflix** angle. We have seen the **Sky Sports** push. We have seen the **Paramount+** structure in the United States. What matters now is whether the company can keep feeding those pipes with fights that feel real, regular, and connected.
+
+This announcement says it is trying to do exactly that.
+
+## Dana Is Selling Cadence Now
+
+Traditional boxing still behaves like every event needs to be treated as a rare lunar eclipse.
+
+Months of waiting.
+Random broadcaster shuffle.
+Promoters acting like basic scheduling is an art form.
+
+Zuffa is pushing the opposite idea.
+
+Run a card on April 5, then quickly announce the next meaningful one for May 10.
+Keep the calendar alive.
+Keep the brand visible.
+Keep fighters moving.
+
+That matters because broadcasters do not just buy stars. They buy **reliable programming**.
+
+One giant night can grab attention.
+A repeatable stream of usable fight nights is what makes a sports property stick.
+
+That is where boxing has been weirdly soft for years. Too much drama around making fights. Not enough consistency around delivering a product normal fans can actually follow.
+
+## Bohachuk Is the Better Signal Than the Surname
+
+The easy headline here is the Mosley name. Fine. It works.
+
+But **Bohachuk** is the more revealing piece.
+
+He is the kind of fighter Zuffa needs if it wants its non-supercard events to feel dangerous instead of decorative. He has power, credibility, and enough violence in his style to keep a card from feeling like content filler.
+
+That is smart matchmaking.
+
+Mosley Jr. gives the event familiar packaging.
+Bohachuk gives it teeth.
+
+That combo is useful when you are building out a schedule, because not every event can be sold on celebrity. Some cards need to work because the matchup itself feels alive.
+
+## This Is the Part Broadcasters Actually Care About
+
+Fight fans get hypnotized by the biggest names.
+Executives usually care about something colder.
+
+Can this promotion keep producing events people will watch?
+
+Zuffa Boxing 05 already helped answer part of that by making **Andres Cortes vs. Eridson Garcia** feel like a proper chapter in a bigger plan instead of an isolated Sunday experiment. Now Zuffa is following it with another event on the board before the last one even has time to cool off.
+
+That is how trust gets built with distribution partners.
+
+- **Paramount+** gets more than a one-off curiosity
+- **Sky Sports** sees recurring value, not just launch-week noise
+- fans start learning that Zuffa nights actually return on schedule
+
+That last part matters more than boxing people like to admit.
+
+Habit is a weapon.
+UFC built plenty of its empire by teaching fans when to come back and what kind of show they were buying. Boxing usually teaches fans to check back later and maybe bring a map.
+
+## The Old Guard Should Hate How Simple This Looks
+
+There is nothing especially glamorous about building recurring inventory.
+
+That is why it works.
+
+Everybody loves to debate whether Dana White can “fix boxing,” which is already a slightly goofy question. He does not need to fix every part of it at once. He just needs to make his own lane feel cleaner, more active, and less annoying than the old one.
+
+Announcing **Mosley Jr. vs. Bohachuk** right behind **Cortes vs. Garcia** is a small move on paper.
+In practice, it tells you the promotion is obsessed with momentum.
+
+Momentum is dangerous.
+Once fans start expecting regularity, the old boxing habit of disappearing for weeks and reappearing with a poster starts looking ancient.
+
+## The ZuffaBets Take
+
+Mosley Jr. vs. Bohachuk is not the biggest fight Zuffa Boxing can make.
+
+It might be one of the more important ones.
+
+Because this is not really about one middleweight main event. It is about whether Dana White can make boxing feel like a **living schedule** instead of a chain of random emergencies.
+
+Zuffa Boxing 6 says that is the play.
+
+Less dead air.
+More cadence.
+More usable inventory for broadcasters.
+More reasons for fans to remember where the product lives.
+
+That is not as sexy as a giant launch graphic.
+It is a lot more dangerous.
+`,
+  },
+  {
     slug: 'hitchins-berlanga-zuffa-boxing-roster-pressure',
     title: 'Hitchins and Berlanga Show Zuffa Is Buying Weight Classes Now',
     subtitle: 'Richardson Hitchins and Edgar Berlanga signing with Zuffa Boxing is more than roster fluff. Dana White is stacking names across divisions and making boxing’s old gatekeepers sweat again.',
