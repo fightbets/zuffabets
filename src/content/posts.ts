@@ -13,6 +13,78 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-tito-ortiz-boxing-match',
+    title: 'The Time Dana White Actually Trained to Box Tito Ortiz',
+    subtitle: 'In 2007, the president of the UFC and his biggest star hated each other so much they agreed to a sanctioned boxing match. Dana White trained for months. Tito Ortiz didn\'t show up.',
+    date: '2026-04-12',
+    author: 'ZuffaBets Staff',
+    tags: ['history', 'dana-white', 'entertainment'],
+    readTime: '6 min',
+    emoji: '🥊',
+    content: `
+If you want to understand how Dana White operates, you don't need to look at a spreadsheet. You just need to look at the time he agreed to physically fight his own employee.
+
+In 2007, the UFC was exploding, and its biggest star was Tito Ortiz. But behind the scenes, Ortiz and White despised each other. It wasn't the fake, manufactured beef promoters use to sell pay-per-views. It was genuine, venomous, burn-the-bridge hatred. 
+
+The contract negotiations got so toxic that Ortiz threw a wild demand onto the table: he would only sign a new UFC deal if Dana White agreed to fight him in a boxing match.
+
+Dana said yes.
+
+## The Most Ridiculous Clause in Sports History
+
+Imagine Roger Goodell agreeing to tackle Tom Brady to settle a CBA dispute. Imagine Adam Silver playing one-on-one against LeBron James because they couldn't agree on TV rights.
+
+It sounds like a bad movie script. But in 2007, it was written into a real contract. Ortiz signed a new UFC deal, and tucked inside was a legally binding clause stating that a three-round boxing match between the UFC president and the former light heavyweight champion would take place.
+
+They even got the Nevada State Athletic Commission involved. They agreed to wear headgear and use 14-ounce gloves. This was not going to be a backyard sparring session. It was scheduled to air on Spike TV.
+
+## Dana White Disappears to Train
+
+Here is where the story goes from a funny PR stunt to an absolute psychotic break. 
+
+Dana White took it seriously. *Terrifyingly* seriously.
+
+White, who had a background as a boxercise instructor and amateur boxer before running the UFC, completely changed his life. He brought in real boxing coaches. He sparred with professionals. He lost 20 pounds. For months, the president of a rapidly growing billion-dollar sports league spent his mornings getting punched in the face so he could try to knock out his own champion.
+
+According to people around him at the time, Dana's only goal in life was to hurt Tito Ortiz. He wasn't training to survive three rounds. He was training to take Ortiz's head off.
+
+"I had to pass all the medicals," White later said. "I had to get an MRI. I had to do an EKG. I did all the stuff that the fighters do. I was 100 percent ready to go."
+
+## The Day of the Weigh-Ins
+
+Spike TV put together a massive documentary leading up to the fight. It was called *Bad Blood: Dana White vs. Tito Ortiz*. They rented out a venue. They built a ring. 
+
+Then came the weigh-ins.
+
+Dana White showed up. He was lean, aggressive, and ready to fight. 
+
+Tito Ortiz did not show up.
+
+Ortiz ghosted his own boss. He simply never arrived for the weigh-ins or the fight. No phone call. No explanation at the time. He just vanished, leaving Dana standing at the scale looking like a guy who had just trained for months for a war that was suddenly cancelled.
+
+## Why Did Tito No-Show?
+
+To this day, the two men have completely different versions of why the fight didn't happen.
+
+Ortiz claims that the Nevada State Athletic Commission wouldn't sanction it, and that he wasn't going to get paid for the fight. He argued it was a lose-lose situation: if he beat up his boss, he'd get punished politically within the company. If he lost, his reputation as a world-class fighter was ruined forever.
+
+Dana's version is much simpler: Tito chickened out.
+
+"Tito Ortiz is a big, physical, strong guy, but he's a bully," White said years later. "He knows I was going to be in his face for three rounds, and he didn't want any part of it. I'm not saying I would have knocked him out, but I would have made it a very bad night for him."
+
+## Why This Story Still Matters
+
+You can laugh at the absurdity of the whole thing, but the 2007 boxing match that never happened tells you everything you need to know about Zuffa's DNA.
+
+Dana White is not a traditional executive. He is a fight guy who happens to wear a suit. When traditional boxing promoters try to out-leverage him, or when rival executives try to play corporate games, they often forget who they are dealing with. 
+
+They are dealing with a guy who was literally willing to get into a fistfight with a professional light heavyweight just to prove a point.
+
+Tito Ortiz may have avoided getting punched by his boss in 2007. But the rest of the combat sports world has been dealing with Dana White's aggressive, deeply personal style of business ever since.
+`
+  },
+
+  {
     slug: 'zuffa-boxing-sponsor-machine-fre-tko',
     title: 'Zuffa Boxing Is Already Getting Sold Like Premium Sponsor Inventory',
     subtitle: 'TKO just bundled Zuffa Boxing into a new multi-property sponsorship with FRE. That matters because it shows Dana White’s boxing project is already being monetized like a real sports asset, not a science experiment.',
