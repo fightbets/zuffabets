@@ -13,6 +13,74 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'ufc-freedom-250-white-house-paramount-tko',
+    title: 'UFC on the White House Lawn: Dana White Just Pulled Off the Wildest Flex in Sports',
+    subtitle: 'UFC FREEDOM 250 is happening on the White House grounds, streaming on Paramount+, and TKO just bundled Zuffa Boxing into the sponsorship deal. This is not just a fight card. It is a political and business statement.',
+    date: '2026-04-13',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'politics', 'dana-white'],
+    readTime: '6 min',
+    emoji: '🇺🇸',
+    featured: true,
+    content: `
+Dana White does not do subtle. We all knew that. 
+
+But putting an Octagon on the actual lawn of the White House is a level of absurdity and flex that even his biggest critics have to respect.
+
+The news just dropped: **UFC FREEDOM 250** is officially scheduled for **June 14** directly on the **White House grounds**. It will be distributed exclusively in the United States by **Paramount+**, and the entire event is already being monetized as part of a massive new TKO sponsorship deal with **Supersure**.
+
+You read that right. The sport that John McCain once campaigned to ban in 50 states is now setting up shop at the President's house. 
+
+## The Greatest Image Rehabilitation in History
+
+If you want to understand how far this sport has come, you just have to look at the location.
+
+Thirty years ago, the UFC was literally illegal in most of the country. Politicians called it "human cockfighting." Cable companies wouldn't carry it. 
+
+Now? It is so deeply embedded in the American cultural and political fabric that the United States government is letting Dana White bring the cage to 1600 Pennsylvania Avenue. 
+
+This does not happen by accident. It is the culmination of decades of lobbying, relationship building, and Dana White tying himself directly to the political machinery in Washington. Regardless of how you feel about the politics behind it, the business reality is staggering. 
+
+The UFC is no longer just a premium sports property. It is a cultural institution with VIP access to the highest levels of power.
+
+## The Supersure Deal and the Zuffa Boxing Angle
+
+The White House spectacle is the shiny object, but the business details underneath it are just as interesting.
+
+The event was confirmed as part of a multiyear sponsorship announcement between **TKO Group Holdings** and **Supersure**. Supersure will receive premium commercial time during UFC FREEDOM 250, but the deal does not stop at the cage.
+
+According to the release, the company's branding will also appear across **Zuffa Boxing** events.
+
+That is the quiet part that matters for the rest of combat sports.
+
+Once again, TKO is using the massive, undeniable gravity of the UFC to pull Zuffa Boxing up the commercial mountain. Supersure didn't just buy into Dana White's boxing project—they bought into the entire TKO combat ecosystem. They bought access to the Octagon at the White House, and as part of the package, Zuffa Boxing gets paid.
+
+## Paramount+ Is the New Combat Pipeline
+
+The other massive detail here is the distribution.
+
+UFC FREEDOM 250 is being distributed exclusively on **Paramount+** in the U.S. 
+
+This confirms what has been bubbling under the surface for months: Paramount+ is not playing around with combat sports. They already locked in Zuffa Boxing events for American audiences. Now they are broadcasting a historic UFC card from the White House lawn.
+
+That is how you build a destination.
+
+Fans hate having to figure out which app is showing which fight. By stacking UFC and Zuffa Boxing inventory onto Paramount+, TKO is teaching fans exactly where to go. They are building a habit. 
+
+## The ZuffaBets Take
+
+We can argue about the matchups. We can argue about the politics. But we cannot argue about the execution.
+
+Dana White took a dying spectacle that he bought for $2 million and turned it into an operation so powerful that it gets to host an event at the White House. 
+
+While boxing promoters are still arguing over who gets to walk out second in an empty arena, Dana White is measuring the South Lawn for an Octagon and bundling nicotine and insurance sponsorships across multiple fight promotions.
+
+UFC FREEDOM 250 isn't just a fight night. It is Dana White telling the rest of the sports world that the UFC plays by completely different rules.
+
+And honestly? He is right.
+`
+  },
+  {
     slug: 'dana-white-tito-ortiz-boxing-match',
     title: 'The Time Dana White Actually Trained to Box Tito Ortiz',
     subtitle: 'In 2007, the president of the UFC and his biggest star hated each other so much they agreed to a sanctioned boxing match. Dana White trained for months. Tito Ortiz didn\'t show up.',
