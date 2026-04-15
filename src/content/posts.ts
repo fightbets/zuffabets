@@ -13,6 +13,57 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'oscar-de-la-hoya-zuffa-boxing-participation-trophies',
+    title: 'Oscar De La Hoya Is Already Crying About Zuffa Boxing Belts',
+    subtitle: 'Oscar De La Hoya called Zuffa Boxing’s new titles “participation trophies.” It took less than a year for the Golden Boy to start sweating.',
+    date: '2026-04-15',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'culture'],
+    readTime: '4 min',
+    emoji: '😭',
+    content: `
+Oscar De La Hoya, a man who built an entire promotion out of fishnet stockings and bad judging, has something to say about Zuffa Boxing.
+
+According to a recent public meltdown, the Golden Boy is very concerned about the integrity of boxing hardware. He blasted Dana White’s Zuffa Boxing venture, accusing the UFC president of handing out "participation trophies" masquerading as legitimate championship belts.
+
+That is hilarious for a few reasons. But mostly, it shows that the old guard is already starting to sweat.
+
+## The King of the Alphabet Soup
+
+Let’s be completely honest about modern boxing.
+
+This is a sport where we currently have regular champions, super champions, franchise champions, interim champions, and champions in recess. You can win a belt by fighting a guy who isn't even in the top 10, or by having an email sent to the right sanctioning body.
+
+Boxing handed out participation trophies for the last twenty years. The only difference is they charged sanctioning fees for them.
+
+So when Oscar De La Hoya complains that Zuffa Boxing is suddenly ruining the sacred lineage of championship belts, it sounds less like a defense of the sport and more like a guy who realizes his monopoly on chaos is ending.
+
+## Why Oscar Is Actually Mad
+
+This isn't about belts. It’s about control.
+
+Zuffa Boxing has been in existence for less than a year. In that time, they have:
+- Locked down major media distribution with Sky Sports and Paramount+
+- Put a Tyson Fury fight on Netflix
+- Signed multiyear corporate sponsorships (like Supersure) across the TKO ecosystem
+- Booked an event at the White House
+
+Meanwhile, Golden Boy Promotions is still trying to figure out which streaming app their next card is going to be on.
+
+Oscar is looking at a machine that is instantly more efficient, better funded, and far more ruthless than anything he has built. When Dana White creates a Zuffa belt, he isn't asking for permission from the old alphabet cartel. He is trying to replace them.
+
+## The ZuffaBets Take
+
+We said it from day one: the boxing establishment was not going to go quietly. They are going to scream, complain, and throw legacy in Dana White's face.
+
+But "participation trophies" is a weak insult coming from the house that gave us 400 different versions of a world title. 
+
+Oscar is mad because the Zuffa belt actually represents something dangerous: a world where promoters like him don't get to decide what a championship is anymore. If Zuffa Boxing succeeds in training the fans to only care about their title—the way fans only care about the UFC belt in MMA—then the old guard loses their leverage.
+
+So let Oscar complain. The louder he yells about participation trophies, the more obvious it is that Zuffa Boxing is winning the game.
+`
+  },
+  {
     slug: 'tko-bundling-zuffa-boxing-sponsorships',
     title: 'TKO Is Already Bundling Zuffa Boxing With The UFC (And Brands Are Buying In)',
     subtitle: 'TKO Group just signed Supersure and FRE nicotine pouches to multi-property deals that include both UFC and Zuffa Boxing. Dana White is using the UFC machine to force boxing into the corporate mainstream.',
