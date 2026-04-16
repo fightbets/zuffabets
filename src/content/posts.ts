@@ -13,6 +13,55 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'anthony-joshua-rejects-dana-white-zuffa-boxing',
+    title: 'Anthony Joshua Rejected Dana White. Why Eddie Hearn Shouldn’t Be Celebrating Yet',
+    subtitle: 'Eddie Hearn just revealed that Anthony Joshua turned down a direct pitch from Dana White to join Zuffa Boxing. Matchroom kept their star, but the fact the meeting happened at all should terrify the old guard.',
+    date: '2026-04-16',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '🇬🇧',
+    content: `
+Eddie Hearn is taking a victory lap, but he probably shouldn't be. 
+
+This week, the Matchroom Boxing boss revealed a story that was meant to show loyalty. He told the media that UFC President Dana White reached out directly to heavyweight superstar Anthony Joshua to pitch him on joining Zuffa Boxing. Joshua reportedly listened, and then straightforwardly turned the offer down. 
+
+Matchroom kept its biggest star. Dana White walked away empty-handed. Hearn gets to tell a story about loyalty prevailing over a quick cash grab.
+
+But if you look closely at what actually happened, this isn't a story about Matchroom’s strength. It's a story about Zuffa’s reach.
+
+## The Pitch That Wasn't Supposed to Happen
+
+Let’s be completely honest about modern boxing dynamics. 
+
+Promoters like to pretend their top fighters are locked in a fortress, completely insulated from outside noise. The reality is that money talks, and Dana White has a very loud microphone. 
+
+Hearn admitted his reaction when he found out about the pitch was basically, "What the f***?" And then, hilariously, Hearn still ended up having a meeting in Dana White's office six months later. 
+
+That right there is the Zuffa Boxing effect. 
+
+Dana White didn't go through the traditional backchannels. He didn't ask for permission. He went straight to the biggest name in UK boxing, pitched the vision, and forced the entire Matchroom ecosystem to react to him. Joshua said no, but the fact that the conversation even took place proves that Zuffa Boxing is bypassing the gatekeepers.
+
+## Why AJ Said No (For Now)
+
+It makes total sense why Anthony Joshua passed. 
+
+AJ is a massive brand. He already has stadium-level drawing power, established broadcast relationships, and a comfortable position at the top of the Matchroom food chain. He doesn't need Zuffa to build his profile. He is one of the few fighters in the world who *is* the system.
+
+But what about the guys who aren't Anthony Joshua?
+
+If Dana White is swinging for AJ right out of the gate, what does that mean for the next tier of talent? We already know the answer. Look at Conor Benn. Benn didn't have the untouchable fortress around him, and Zuffa bought him with a massive, undeniable check.
+
+## The ZuffaBets Take
+
+Hearn telling this story is a classic promoter flex. He wants the world to know that his guy couldn't be bought. 
+
+But the real takeaway is that Dana White is operating with zero respect for boxing's traditional boundaries. He isn't intimidated by the Matchroom empire. He isn't worried about stepping on toes. He is actively testing the loyalty of every major star in the sport.
+
+Joshua said no today. But every time Dana makes one of these calls, the price of loyalty goes up. Matchroom didn't lose its heavyweight king, but the old guard just got a terrifying reminder: Zuffa Boxing is officially in the poaching business, and nobody is off-limits.
+\`
+  },
+  {
     slug: 'oscar-de-la-hoya-zuffa-boxing-participation-trophies',
     title: 'Oscar De La Hoya Is Already Crying About Zuffa Boxing Belts',
     subtitle: 'Oscar De La Hoya called Zuffa Boxing’s new titles “participation trophies.” It took less than a year for the Golden Boy to start sweating.',
