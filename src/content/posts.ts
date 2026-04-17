@@ -13,6 +13,71 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-steps-down-ufc-contracts-zuffa-boxing',
+    title: 'Dana White Just Quit UFC Contract Negotiations. Because Boxing Is More Fun.',
+    subtitle: 'After 25 years of arguing over show/win money, Dana White says he’s officially done negotiating UFC contracts. He’s leaving it to the suits so he can focus on his new toys: Power Slap and Zuffa Boxing.',
+    date: '2026-04-17',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'dana-white', 'zuffa-boxing'],
+    readTime: '5 min',
+    emoji: '🚪',
+    content: `
+Dana White is officially bored of arguing with MMA managers.
+
+After 25 years of grinding out contract extensions, screaming over pay-per-view points, and telling people "he doesn't want to fight," the UFC President is stepping away from the negotiating table. Entirely.
+
+According to his own comments this week, White has "completely removed" himself from UFC fighter contract negotiations. 
+
+He didn't sugarcoat the reason, either. He said it "isn't fun anymore." Instead, he is handing the paperwork to Hunter Campbell and the TKO executives so he can focus on the things he actually enjoys right now.
+
+And if you have been paying attention to combat sports over the last six months, you know exactly what those things are: Power Slap and Zuffa Boxing.
+
+## The End of an Era
+
+It is hard to overstate how massive this shift is for the UFC. 
+
+For two decades, Dana White *was* the UFC contract. He was the guy who flew to private islands to sign fighters, the guy who cut people on live television, and the guy who single-handedly decided your worth in a locked room in Las Vegas.
+
+If you wanted to get paid, you had to deal with Dana. 
+
+Now? He’s out. "I got to a point where, just, this isn't fun anymore, man," White told the media. "I'm lucky that I'm at a point in my life and in my career where I can just deal with the fun stuff."
+
+The "fun stuff" is the tell. 
+
+The UFC is a well-oiled, $12 billion corporate machine now. The broadcast deals are locked. The sponsor inventory is sold out. The arena dates are booked years in advance. It runs itself. There is no chaos left to conquer in MMA.
+
+So Dana went looking for new chaos.
+
+## Why Zuffa Boxing Needs His Full Attention
+
+This news drops exactly as Zuffa Boxing is ramping up to a UFC-style event schedule for 2026 and 2027. 
+
+You cannot build a new boxing empire if you spend 40 hours a week arguing with a bantamweight manager over an extra $10,000 in show money. White stepping away from UFC contracts frees up his most valuable asset: his time.
+
+Zuffa Boxing requires heavy lifting right now. They are signing champions like Richardson Hitchins, poaching stars like Conor Benn, locking down UK broadcast deals with Sky Sports, and actively fighting the traditional boxing establishment over belts and rankings.
+
+That requires the aggressive, unhinged version of Dana White. The version that built the UFC in the 2000s. 
+
+## The TKO Safety Net
+
+This only works because TKO Group Holdings exists. 
+
+Dana can step away from the tedious parts of the UFC because Hunter Campbell (Chief Business Officer) and the rest of the Endeavor/TKO machine are ruthlessly efficient at running the business. They don't need Dana to sign a mid-tier lightweight. 
+
+That leaves White free to act as the ultimate hype man and strategic wrecker for his new ventures. He gets to walk into boxing promotion meetings, drop Saudi money on the table, and tell Eddie Hearn and Oscar De La Hoya exactly what he thinks of them.
+
+## The ZuffaBets Take
+
+Dana White quitting UFC contract negotiations isn't a retirement. It is a pivot. 
+
+He is tired of maintaining an empire. He wants to build another one. And unfortunately for the traditional boxing promoters who were hoping Zuffa Boxing was just a passing phase, this means they now have Dana White’s undivided, undivided attention.
+
+The man who spent 25 years crushing rival MMA promotions just cleared his schedule. 
+
+Boxing should be terrified.
+\`
+  },
+  {
     slug: 'anthony-joshua-rejects-dana-white-zuffa-boxing',
     title: 'Anthony Joshua Rejected Dana White. Why Eddie Hearn Shouldn’t Be Celebrating Yet',
     subtitle: 'Eddie Hearn just revealed that Anthony Joshua turned down a direct pitch from Dana White to join Zuffa Boxing. Matchroom kept their star, but the fact the meeting happened at all should terrify the old guard.',
