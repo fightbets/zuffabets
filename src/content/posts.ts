@@ -13,6 +13,66 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'conor-benn-multi-fight-deal-zuffa-boxing',
+    title: 'Conor Benn Just Locked In With Zuffa Boxing. Matchroom Is Officially Sweating.',
+    subtitle: 'After taking a $15 million one-fight test drive, Conor Benn just signed a multi-fight deal with Zuffa Boxing. The trial period is over, and Dana White is locking down his UK wrecking ball.',
+    date: '2026-04-18',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '🇬🇧',
+    featured: true,
+    content: `
+Conor Benn just turned a very expensive test drive into a permanent garage spot.
+
+After defecting from Matchroom Boxing for a massive, one-fight introductory payday, the British welterweight star has officially signed a **multi-fight deal with Zuffa Boxing**. A video released today showed Benn sitting with UFC CEO Dana White and TKO boss Nick Khan at their offices in Las Vegas, officially extending the partnership that sent shockwaves through the sport just two months ago.
+
+If Matchroom was hoping Benn's jump was just a temporary cash grab before returning to the old neighborhood, they just got their answer. 
+
+He is staying. And Zuffa is just getting started.
+
+## The $15 Million Trial Run
+
+Let’s be honest about what the first deal was. 
+
+When Benn signed his initial one-fight contract with Zuffa for a reported $15 million purse, it was a pure show of force. Dana White walked up to one of the biggest names in UK boxing, dropped a bag that Eddie Hearn could not match, and pulled Benn into the Zuffa orbit.
+
+At the time, Benn said the money gap was "drastic." He fought on the Tyson Fury Netflix undercard. He got paid. He got the exposure. But because it was a one-fight deal, the traditional boxing world told itself a comforting story: *He’s just getting the bag and coming back.*
+
+That story is dead. 
+
+By meeting with White and Nick Khan to lock in a multi-fight extension, Benn is no longer just a mercenary for one night. He is an anchor tenant for Zuffa's UK expansion.
+
+## Why Nick Khan Being in the Room Matters
+
+Do not ignore the fact that **TKO boss Nick Khan** was in the room for the signing. 
+
+When Khan is sitting at the table, you are not just talking about a boxing promotion. You are talking about the entire TKO Group Holdings machine. Khan is the architect behind the massive WWE-UFC merger, the Netflix broadcast deals, and the global site-fee business that is printing money for the company.
+
+Having him involved in Benn’s multi-fight extension tells you how highly TKO views this asset. Benn isn't just a fighter to them. He is a key piece of inventory for the **Sky Sports** deal. He is a tool to break the Matchroom monopoly in the UK. He is the proof of concept that Zuffa can successfully poach and retain top-tier talent.
+
+## The Matchroom Headache Just Got Worse
+
+For Eddie Hearn and Matchroom Boxing, this is a nightmare scenario.
+
+Losing Benn for one fight was a "dagger in the heart," as Hearn called it. Losing him on a multi-fight deal changes the landscape entirely. 
+
+It proves to every other fighter in the Matchroom stable—and Top Rank, and Golden Boy, and Queensberry—that life outside the traditional promoter system is not only possible, it is incredibly lucrative. If Zuffa Boxing treats you right on the one-fight deal, why wouldn't you re-sign? 
+
+Dana White does not need to build a roster from scratch. He is just going to keep buying the best pieces from everyone else’s board until they realize the game has changed.
+
+## The ZuffaBets Take
+
+This is what an invasion looks like.
+
+Zuffa Boxing didn’t just write a check to rent Conor Benn. They brought him into the TKO ecosystem, gave him the massive platform, and convinced him that Dana White’s machine is a better place to spend his prime than the traditional boxing cartel.
+
+Benn gets paid. Zuffa gets its UK cornerstone. And the rest of the boxing world gets a terrifying reminder: Dana White isn't here for a vacation. 
+
+He’s moving in.
+`
+  },
+  {
     slug: 'dana-white-steps-down-ufc-contracts-zuffa-boxing',
     title: 'Dana White Just Quit UFC Contract Negotiations. Because Boxing Is More Fun.',
     subtitle: 'After 25 years of arguing over show/win money, Dana White says he’s officially done negotiating UFC contracts. He’s leaving it to the suits so he can focus on his new toys: Power Slap and Zuffa Boxing.',
