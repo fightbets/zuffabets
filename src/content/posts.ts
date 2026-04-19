@@ -2766,6 +2766,55 @@ For the Fertittas? It was the **deal of a lifetime.** Lorenzo Fertitta's net wor
 **The lesson? Sometimes the best investment is the one everybody else thinks is insane.** 💎
 `
   },
+  {
+    slug: 'ryan-rozicki-zuffa-boxing-multi-fight-deal',
+    title: 'Ryan Rozicki Just Gave Zuffa Boxing a Heavy-Hitting Canadian Anchor',
+    subtitle: 'Canadian knockout artist Ryan Rozicki has officially signed a multi-fight deal with Zuffa Boxing. Dana White is stacking power punchers, and Canada is officially on the board.',
+    date: '2026-04-19',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'fights'],
+    readTime: '4 min',
+    emoji: '🇨🇦',
+    content: `
+Zuffa Boxing is not just hunting for giant UK stadium headliners. It is quietly loading up on guys who turn off the lights.
+
+Case in point: **Ryan Rozicki.**
+
+The Canadian cruiserweight brawler just signed a **multi-fight contract with Zuffa Boxing**, adding another serious piece of violence to Dana White’s growing roster. If you have never watched Rozicki fight, the scouting report is simple: he comes forward, he throws heavy, and he does not care about your jab. 
+
+This is exactly the kind of signing that shows what Zuffa wants the middle of its fight cards to look like.
+
+## Why Rozicki Fits the Zuffa DNA
+
+Rozicki (from Sydney Forks, Nova Scotia) has built a reputation on pure, unadulterated pressure. He is not out there trying to win a fencing match. He throws power shots until somebody falls down. 
+
+In the UFC, Dana White has always rewarded guys who leave it all in the cage. He hates point-fighters. He loves finishers. Bringing that same philosophy to boxing means signing guys like Rozicki, whose style guarantees action even if it isn't always pretty. 
+
+Rozicki gives Zuffa a reliable, fan-friendly weapon to deploy on North American cards.
+
+## Canada Gets on the Board
+
+The geographic angle matters too. 
+
+Zuffa Boxing has made massive noise in the UK with the Sky Sports deal and the Conor Benn signing. But combat sports run on global inventory. By locking up Rozicki, Zuffa secures a reliable draw for the Canadian market. 
+
+If Dana White decides to bring a Zuffa Boxing card to Toronto or Montreal, he now has a built-in local anchor who fans actually want to watch.
+
+## Building the Middle Class
+
+This signing proves Zuffa is doing more than just chasing Tyson Fury or Canelo. 
+
+A fight promotion lives and dies by its middle tier. You need reliable action fighters to build out pay-per-view undercards and headline smaller broadcast events. Rozicki is the perfect puzzle piece for that job. 
+
+He comes to fight, he brings regional support, and his style translates perfectly to casual fans who just want to see a brawl.
+
+## The ZuffaBets Take
+
+While boxing purists argue over alphabet belts and purse bids, Zuffa Boxing is quietly acquiring guys who guarantee violence. 
+
+Ryan Rozicki might not be the guy headlining Allegiant Stadium tomorrow, but he is exactly the kind of fighter who makes a Zuffa Boxing undercard worth watching. Dana White is building a roster of killers, and the Canadian wrecking ball just got his invitation to the party.
+\`
+  },
 ]
 
 export function getPost(slug: string): Post | undefined {
