@@ -13,6 +13,69 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'conor-benn-ryan-garcia-dana-white-zuffa-boxing',
+    title: 'Dana White Wants Conor Benn vs. Ryan Garcia. Here is Why It Actually Makes Sense.',
+    subtitle: 'Conor Benn just locked up a five-fight deal with Zuffa Boxing, and he’s already calling out Ryan Garcia. Dana White is backing it, because why build slowly when you can just buy the chaos?',
+    date: '2026-04-20',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white', 'fights'],
+    readTime: '5 min',
+    emoji: '🔥',
+    content: `
+Conor Benn just turned a test drive into a five-fight commitment, and he is already trying to burn the house down.
+
+Days after finalizing his multi-fight extension with Zuffa Boxing, Benn sat down for an interview with Stephen A. Smith alongside his new boss, Dana White. When asked who he wanted to fight next, Benn didn't give the usual boxing PR answer about respecting the rankings or waiting for his team. 
+
+He looked at the camera and said, "Ryan Garcia can get it next."
+
+Dana White, sitting right next to him, didn't flinch. In fact, he backed the idea. 
+
+And if you are paying attention to how Zuffa Boxing operates, this is exactly the kind of unhinged, high-velocity matchmaking that should terrify the traditional boxing establishment.
+
+## Why This Fight is Pure Zuffa DNA
+
+Let’s be honest about what Ryan Garcia vs. Conor Benn actually is. 
+
+It is not a fight for purists. It does not clarify any complicated title picture. What it does is print money and generate the kind of timeline-dominating chaos that Dana White absolutely loves. 
+
+Garcia is arguably the most volatile, attention-grabbing star in modern boxing. Benn is a British wrecking ball who just took a massive check to defect from Matchroom Boxing and become the face of Zuffa's UK expansion. 
+
+If two traditional boxing promoters tried to make this fight, it would take two years, three different broadcasters, a lawsuit, and 400 tweets from Oscar De La Hoya complaining about purse splits. 
+
+Dana White just wants to book an arena, cut the checks, and let them swing. 
+
+## The Five-Fight Anchor
+
+The context of this callout matters. 
+
+Benn isn't just a hired gun anymore. He recently signed a five-fight deal with Zuffa, proving that his initial $15 million one-night payday wasn't a fluke—it was a down payment on his prime. 
+
+By locking Benn into a long-term deal, Zuffa Boxing has a legitimate cornerstone to build around. But a cornerstone is useless if you don't put it in the window. White knows he can't just feed Benn regional UK talent if he wants to prove Zuffa is the new center of the boxing universe. He needs to feed him names that casual fans care about. 
+
+Enter King Ryan. 
+
+## The Matchroom Headache Gets Worse
+
+Imagine you are Eddie Hearn right now. 
+
+First, you watch Conor Benn—the guy you spent years building—take a giant bag of Saudi money to fight under the Zuffa banner. Then, you watch him sign a five-fight extension. Now, you have to sit there and watch Dana White casually orchestrate a mega-fight with Ryan Garcia, grabbing all the global headlines without asking for your permission. 
+
+This is the real threat of Zuffa Boxing. 
+
+It’s not just that Dana White has money. It’s that he has the infrastructure and the sheer audacity to bypass the old gatekeepers entirely. He isn't negotiating with the boxing cartel; he is ignoring it.
+
+## The ZuffaBets Take
+
+Will Ryan Garcia actually take the fight? Who knows. Trying to predict Ryan Garcia's next move is like trying to catch smoke with your bare hands. 
+
+But the fact that Conor Benn and Dana White are openly targeting him on national television tells you everything you need to know about Zuffa's strategy. They are not here to build slowly. They are not here to respect the old rankings. 
+
+They are here to make the biggest, loudest fights possible, and they have the checkbook to make people stop saying no. 
+
+Traditional boxing promoters should be sweating. Dana White isn't just buying fighters anymore. He is buying the entire conversation.
+`
+  },
+  {
     slug: 'eddie-hearn-dana-white-boxing-match-ducking',
     title: 'Eddie Hearn Just Called Dana White a Coward. The Promoter Wars Have Officially Peaked.',
     subtitle: 'Eddie Hearn says Dana White backed out of a boxing match between them, calling the UFC boss a “p***y.” You know you are losing the business war when you start begging for a fistfight.',
