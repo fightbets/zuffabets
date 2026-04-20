@@ -13,6 +13,72 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'eddie-hearn-dana-white-boxing-match-ducking',
+    title: 'Eddie Hearn Just Called Dana White a Coward. The Promoter Wars Have Officially Peaked.',
+    subtitle: 'Eddie Hearn says Dana White backed out of a boxing match between them, calling the UFC boss a “p***y.” You know you are losing the business war when you start begging for a fistfight.',
+    date: '2026-04-20',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'dana-white', 'culture', 'zuffa-boxing'],
+    readTime: '5 min',
+    emoji: '🤬',
+    featured: true,
+    content: `
+Boxing promoters are no longer just arguing over broadcast rights and purse splits. Now they are literally challenging each other to fistfights.
+
+And obviously, Eddie Hearn and Dana White are the ones dragging this into the mud.
+
+This week, the Matchroom Boxing boss decided to go nuclear on the UFC CEO. Speaking to the media, Hearn blasted White for allegedly backing out of a proposed boxing match between the two promoters. 
+
+"Listen, p***y," Hearn said. "You called me out, I accepted. Where’s your balls gone, p***y? Unfortunately, Dana White backed out of the fight."
+
+Let's just take a step back and appreciate how perfectly ridiculous this is. The head of a traditional boxing empire is calling the head of the $12 billion TKO combat sports machine a coward for refusing to get punched in the face for entertainment. 
+
+The promoter wars have officially hit their final form.
+
+## How Did We Even Get Here?
+
+If you have not been following the endless back-and-forth between these two, it started as typical business trash talk. 
+
+Dana White entered the boxing space with **Zuffa Boxing**, told everyone the sport was broken, and started throwing Saudi money at top talent. Eddie Hearn, whose entire business relies on the existing boxing structure, naturally pushed back. 
+
+Then things got weird. Dana, being Dana, made some off-hand comments about fighting Hearn. Hearn, who has been looking increasingly stressed since Conor Benn took a massive check to leave Matchroom for Zuffa Boxing, apparently took it seriously. He accepted the challenge. 
+
+Now Dana is supposedly ignoring it, and Eddie is using the media to call him out. 
+
+## The Reality of a 56-Year-Old Billionaire
+
+Let's be completely honest about why this fight isn't happening. 
+
+Dana White is 56 years old. He runs the UFC, Power Slap, and Zuffa Boxing. He is a key executive inside the massive TKO Group Holdings corporate structure. He does not need to put on 14-ounce gloves and sweat through three rounds with a British boxing promoter to prove a point. 
+
+More importantly, he has absolutely nothing to gain. 
+
+If Dana wins, everyone says, "Of course he won, he’s been surrounded by fighters his entire life." If Dana loses, Eddie Hearn gets the greatest promotional clip in the history of combat sports to play on a loop for the next twenty years. 
+
+It is a terrible business decision. And Dana White, despite his temper, is exceptionally good at business.
+
+## You Only Ask to Fight When You Are Losing the Argument
+
+This is the real takeaway from Eddie Hearn's outburst. 
+
+When you are winning the market, you don't need to challenge your rival to a physical altercation. You just point to the scoreboard. 
+
+But right now, the scoreboard looks a little terrifying for Matchroom. Zuffa Boxing just signed Conor Benn to a multi-fight deal. They are locking down broadcast agreements with Sky Sports. They are putting events on Paramount+ and Netflix. They are acting like an invading army.
+
+Hearn knows he is in a dogfight for the future of British boxing. Calling Dana White a coward is a fun headline, but it feels like a distraction from the fact that Zuffa is currently parking its tanks on Matchroom’s front lawn.
+
+## The ZuffaBets Take
+
+We would love to see this fight, purely for the absolute chaos it would bring to our timeline. But we all know it's not happening.
+
+Eddie Hearn is frustrated. He is watching Dana White do exactly what he warned everyone Dana White would do: disrupt the market, ignore the traditions, and buy the talent. 
+
+Calling the UFC boss a "p***y" might make Hearn feel better in the moment. It might get him some viral clicks on Boxing Social. But it doesn't change the reality on the ground. 
+
+Dana doesn't need to punch Eddie Hearn in a ring. He is already beating him up in the boardroom.
+\`
+  },
+  {
     slug: 'conor-benn-multi-fight-deal-zuffa-boxing',
     title: 'Conor Benn Just Locked In With Zuffa Boxing. Matchroom Is Officially Sweating.',
     subtitle: 'After taking a $15 million one-fight test drive, Conor Benn just signed a multi-fight deal with Zuffa Boxing. The trial period is over, and Dana White is locking down his UK wrecking ball.',
