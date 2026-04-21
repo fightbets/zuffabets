@@ -13,6 +13,65 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'paddy-pimblett-dana-white-eddie-hearn-feud-teenage-girlish',
+    title: 'Paddy Pimblett Just Called the Dana White vs. Eddie Hearn Beef "Teenage Girlish" (And He’s Not Wrong)',
+    subtitle: 'UFC lightweight Paddy Pimblett weighed in on the promoter wars, picking his boss to win a fistfight while burying both men for acting like middle schoolers.',
+    date: '2026-04-21',
+    author: 'ZuffaBets Staff',
+    tags: ['culture', 'dana-white', 'entertainment'],
+    readTime: '4 min',
+    emoji: '🙄',
+    content: `
+The Dana White vs. Eddie Hearn promoter feud has officially crossed the line from corporate warfare into high school cafeteria drama, and now the fighters are starting to point and laugh.
+
+This week, UFC lightweight Paddy "The Baddy" Pimblett was asked about the escalating beef between his boss and the Matchroom Boxing chairman. Instead of blindly defending Dana or offering a fake PR answer, Paddy delivered the most accurate assessment of the situation we have heard all year.
+
+He called the entire feud "very teenage girlish."
+
+And honestly? He is absolutely right.
+
+## Billionaires Fighting Like Middle Schoolers
+
+If you have lost the plot of this feud, congratulations on having a healthy life. For the rest of us, here is the recap: 
+
+Dana White entered boxing with Zuffa Boxing and immediately poached Conor Benn from Eddie Hearn. Eddie Hearn responded by signing UFC heavyweight champion Tom Aspinall to a management deal. Then Dana and Eddie started exchanging insults through the media. Then Eddie challenged Dana to an actual fistfight. Then Eddie called Dana a "p***y" for allegedly backing out of said fistfight. 
+
+It is exhausting. 
+
+"It's very teenage girlish, to be honest," Pimblett said in a recent interview. "Two grown men, two very successful grown men, arguing like that over the internet."
+
+When a guy who once famously told a rival he looked like "a lizard" tells you your trash talk is immature, you have officially jumped the shark.
+
+## Paddy Still Picked His Boss
+
+Despite burying the feud itself, Paddy still knows who signs his checks. When pressed on who would actually win the hypothetical boxing match between the 56-year-old UFC CEO and the 44-year-old Matchroom boss, Pimblett didn't hesitate.
+
+"Dana," Pimblett said. "Dana would absolutely batter him. Dana’s been boxing his whole life."
+
+It is a fair assessment. While Hearn looks great in a tailored suit, White spent his early twenties running a boxercise gym and regularly trained with real professionals during his brief, psychotic attempt to fight Tito Ortiz in 2007.
+
+But the fact that fighters are even being asked to break down a fantasy matchup between their promoters shows just how weird the combat sports ecosystem has gotten since Zuffa Boxing entered the chat.
+
+## The Reality of the Promoter Wars
+
+Pimblett's reaction is exactly how most of the roster feels. The fighters are the ones taking brain damage for a living, so watching two executives safely yell at each other from behind podiums and podcast mics is inherently ridiculous.
+
+But underneath the "teenage girlish" insults, the stakes are very real.
+
+Dana White isn't trading shots with Eddie Hearn because he's bored. He's doing it because Zuffa Boxing is actively trying to eat Matchroom's lunch in the UK. Hearn isn't challenging Dana to a fight because he wants to box. He's doing it because his biggest star just got bought by a rival and he needs to look strong in front of his roster.
+
+## The ZuffaBets Take
+
+We love the chaos. The promoter wars are providing premium timeline entertainment.
+
+But Paddy Pimblett is right. It is completely absurd. The two most powerful men in combat sports are currently locked in a proxy war over who has bigger balls, while the actual fighters sit back and eat popcorn. 
+
+Dana might win the fistfight, but the real victory for Zuffa Boxing is that they have successfully dragged the established boxing elite down into the mud with them. 
+
+And as anyone in MMA will tell you: you never want to wrestle a pig. You both get dirty, and the pig likes it.
+`
+  },
+  {
     slug: 'conor-benn-ryan-garcia-dana-white-zuffa-boxing',
     title: 'Dana White Wants Conor Benn vs. Ryan Garcia. Here is Why It Actually Makes Sense.',
     subtitle: 'Conor Benn just locked up a five-fight deal with Zuffa Boxing, and he’s already calling out Ryan Garcia. Dana White is backing it, because why build slowly when you can just buy the chaos?',
