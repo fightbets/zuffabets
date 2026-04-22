@@ -13,6 +13,65 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-adin-ross-johnny-manziel-apex',
+    title: 'Dana White is Letting Adin Ross Host Johnny Manziel at the UFC Apex. Purists Are Furious.',
+    subtitle: 'Former NFL quarterback Johnny Manziel is boxing a podcaster, and Dana White is apparently hosting the Adin Ross-promoted circus at the UFC Apex. Because why not?',
+    date: '2026-04-22',
+    author: 'ZuffaBets Staff',
+    tags: ['entertainment', 'dana-white', 'culture'],
+    readTime: '4 min',
+    emoji: '🎪',
+    content: `
+Remember when the UFC Apex was a sacred pandemic necessity meant to keep professional mixed martial arts alive? 
+
+Well, now it is officially the venue for a former NFL quarterback trying to knock out a podcast host. 
+
+Multiple reports confirm that Dana White is planning to host Adin Ross’s upcoming "Brand Risk Promotions" celebrity boxing event directly at the UFC's Meta Apex facility. And just to ensure maximum timeline chaos, the targeted main event is Johnny Manziel boxing Bob Menery.
+
+If you are a boxing purist, you probably want to throw your phone at the wall right now. If you are Dana White, you are probably laughing all the way to the bank.
+
+## The Circus Comes to the Apex
+
+Let's just break down the absurdity of this sentence: Adin Ross, a Kick streamer whose primary demographic is 14-year-olds who drink too much Prime, is promoting a boxing match between "Johnny Football" and a social media influencer, and the CEO of the UFC is throwing them the keys to his multi-million dollar broadcast facility.
+
+This is exactly what makes Dana White brilliant, and exactly what makes traditional fight fans so endlessly angry at him.
+
+Traditional boxing promoters look at influencer boxing and complain about the "integrity of the sport." They write angry tweets. They pretend it doesn't exist. 
+
+Dana White looks at influencer boxing, sees millions of Gen Z eyeballs, and says, "Sure, rent my building."
+
+## Why Dana Is Doing This
+
+You have to understand the relationship between Dana White and the internet ecosystem. 
+
+Dana doesn't care about looking dignified. He cares about attention. He has built tight relationships with Adin Ross, the Nelk Boys, Bob Menery, and basically every other creator who commands massive young audiences. 
+
+He knows that traditional sports media is dying. The people who actually buy pay-per-views and subscribe to streaming services don't care what the New York Times thinks about combat sports. They care what their favorite streamer is watching. 
+
+By hosting the Brand Risk Promotions event at the Apex, Dana is basically putting a giant neon UFC/Zuffa billboard in front of Adin Ross's entire audience. It costs him almost nothing. The Apex is already built. The production crew is already there. It is essentially free marketing disguised as a venue rental.
+
+## The Purists Are Losing Their Minds
+
+As expected, the combat sports traditionalists are having a meltdown. 
+
+They are arguing that putting Johnny Manziel in a boxing ring at the same venue that hosted legitimate UFC world title eliminators cheapens the brand. They claim it turns the Apex into a circus tent.
+
+But here is the reality check: combat sports *is* a circus. Always has been. 
+
+This is a sport where we routinely watch 50-year-old men fight YouTubers and where promoters challenge each other to fistfights over Twitter. Pretending there is some sacred honor that needs to be protected is ridiculous. 
+
+## The ZuffaBets Take
+
+We absolutely love this. 
+
+Is Johnny Manziel vs. Bob Menery going to be a technical boxing masterclass? Absolutely not. It is probably going to look like a bar fight outside a frat house. 
+
+But it is going to generate a ridiculous amount of clips, memes, and social media traffic. And Dana White gets to sit in his office, collect the venue fee, and absorb all that Gen Z attention without having to actually risk any of his own fighters.
+
+The boxing establishment can keep crying about participation trophies and tradition. Dana White is going to keep treating combat sports like exactly what it is: the entertainment business.
+\`
+  },
+  {
     slug: 'paddy-pimblett-dana-white-eddie-hearn-feud-teenage-girlish',
     title: 'Paddy Pimblett Just Called the Dana White vs. Eddie Hearn Beef "Teenage Girlish" (And He’s Not Wrong)',
     subtitle: 'UFC lightweight Paddy Pimblett weighed in on the promoter wars, picking his boss to win a fistfight while burying both men for acting like middle schoolers.',
