@@ -13,6 +13,62 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-dismisses-eddie-hearn-fistfight',
+    title: 'Dana White Dismisses Eddie Hearn Fistfight: "We Don’t Deserve to Be on the Card"',
+    subtitle: 'Eddie Hearn begged for a boxing match and called Dana White a coward. Dana just responded by reminding everyone they are promoters, not fighters. The Zuffa Boxing takeover rolls on.',
+    date: '2026-04-25',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'dana-white', 'zuffa-boxing', 'culture'],
+    readTime: '4 min',
+    emoji: '🤡',
+    featured: true,
+    content: `
+Eddie Hearn is practically begging for a fistfight. Dana White just told him to sit down and act his age.
+
+If you have been following the absolute circus that is the promoter war between Matchroom Boxing and Zuffa Boxing, you know that Hearn recently went nuclear. He called White an "old p***y" and claimed the UFC boss backed out of a proposed boxing match between the two executives.
+
+It was a desperate play for attention from a guy who just watched his biggest star, Conor Benn, sign a massive $15 million deal with a rival promotion.
+
+Now, Dana White has finally responded. And instead of taking the bait, he gave the most brutally honest assessment of the situation possible.
+
+## "We Don't Deserve to Be on the Card"
+
+When asked about Hearn's comments and the potential fight, White didn't scream or issue counter-threats. He just pointed out how ridiculous the entire concept is.
+
+"We don’t even deserve to be on the card with a bunch of real fighters," White said, dismissing the idea of the two middle-aged executives lacing up gloves. 
+
+That is the coldest, most effective response White could have possibly given. 
+
+Hearn was trying to drag White into a personal, ego-driven circus to distract from the fact that Zuffa Boxing is actively dismantling Matchroom's roster. White refused to play the game. By acknowledging that they are both just promoters who have no business taking main event spots away from actual athletes, White managed to sound like the only adult in the room.
+
+## The Contrast is Staggering
+
+Look at how the two sides are operating right now.
+
+Eddie Hearn is giving interviews calling people cowards and fantasy-booking himself into a boxing ring. He is acting like a reality TV star trying to secure another season on Bravo.
+
+Dana White, meanwhile, is locking down Conor Benn to a long-term deal, building out Zuffa Boxing's infrastructure, and casually dropping $15 million checks to reshape the UK market. 
+
+One guy is trying to go viral on Boxing Social. The other guy is trying to buy the sport.
+
+## Why Hearn is Panicking
+
+You have to understand the context of Hearn's outburst. 
+
+He didn't challenge Dana White to a fight because he suddenly wants to be a professional boxer. He challenged him because Matchroom is bleeding. The Conor Benn signing proved that Zuffa Boxing isn't just a fun side project for TKO—it is an apex predator that can outbid the old guard whenever it wants.
+
+When you lose your leverage in the boardroom, you try to find it in the press conference. That is exactly what Hearn is doing.
+
+## The ZuffaBets Take
+
+We love chaos as much as anyone. Seeing Dana White and Eddie Hearn throw hands in a boxing ring would have been premium timeline content. 
+
+But Dana is right. They don't belong on a card. 
+
+The real fight isn't going to happen in a ring with 14-ounce gloves. It is happening right now in contract negotiations, broadcast deals, and roster acquisitions. And right now, Dana White is winning by unanimous decision.
+\`
+  },
+  {
     slug: 'zuffa-boxing-power-slap-blueprint',
     title: 'The Power Slap Blueprint: Why Zuffa Boxing Is Stealing Dana White’s Craziest Playbook',
     subtitle: 'Everyone thinks Zuffa Boxing is just the UFC with bigger gloves. But if you look at the social media traffic and the content machine, the real blueprint is Power Slap.',
