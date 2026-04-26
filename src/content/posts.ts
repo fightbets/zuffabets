@@ -13,6 +13,54 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'ari-emanuel-67-million-tko-compensation-2025',
+    title: 'Ari Emanuel’s Pay Just Hit $67 Million. Cue the Fighter Pay Outrage.',
+    subtitle: 'TKO CEO Ari Emanuel saw his 2025 compensation soar 272% to a massive $67.3 million. Meanwhile, UFC fighters are still arguing over show-money. The timing is incredible.',
+    date: '2026-04-26',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'dana-white', 'culture'],
+    readTime: '4 min',
+    emoji: '💰',
+    featured: true,
+    content: `
+If you thought Dana White made a lot of money, you really need to look at his boss's tax return.
+
+New SEC filings just dropped, and TKO Group Holdings CEO Ari Emanuel had himself an absolutely ridiculous 2025. Emanuel pulled in **$67.36 million** in total compensation last year. 
+
+That is not a typo. That is a 272% increase from his $18.1 million package the year before. And he did it while the UFC was actively fighting off antitrust lawsuits and ignoring complaints about fighter pay. 
+
+You have to respect the absolute shamelessness of the combat sports business.
+
+## The $67 Million Breakdown
+
+How do you get to $67 million in a single year? You merge the UFC and WWE into a global juggernaut, and then you reward yourself for building the machine.
+
+According to the filings, Emanuel's base salary was a very reasonable $4 million. The rest came from $12.5 million in cash bonuses and a staggering $25.84 million in stock awards, plus other compensation. 
+
+And he wasn't the only one getting paid. TKO President Mark Shapiro walked away with $43 million. Dwayne "The Rock" Johnson even pocketed nearly $1 million just for letting the company use "The Rock" IP. 
+
+The executives at TKO are swimming in cash. The business is booming. The broadcast deals are locked. The site fees from Saudi Arabia and other global markets are printing money.
+
+## The Fighter Pay Argument is About to Get Louder
+
+Here is the problem: every time a TKO executive cashes a massive check, the fighter pay conversation gets dragged back into the spotlight.
+
+You cannot announce that your CEO made $67.3 million while simultaneously having undercard fighters begging for $50k performance bonuses just so they can afford training camps. It is terrible optics. 
+
+The UFC has always defended its pay structure by saying fighters are independent contractors who get paid what they bring to the table. Dana White has explicitly said the UFC isn't a charity. But when the parent company is handing out $67 million compensation packages, the "we run a tight ship" argument starts to sound ridiculous.
+
+## The ZuffaBets Take
+
+We love business success. The fact that Ari Emanuel and Dana White turned combat sports into a Wall Street powerhouse is an incredible story. 
+
+But you can't have your cake and eat it too. 
+
+TKO is operating like a premium global media empire, but it still pays its entry-level talent like they are fighting in a high school gymnasium in 1998. The antitrust lawsuits might be settled, but the public relations nightmare is far from over. 
+
+Ari Emanuel earned his money by building the TKO empire. But every time one of these SEC filings drops, it gives UFC critics a giant bat to swing at the company's head. And honestly? They deserve it.
+`
+  },
+  {
     slug: 'dana-white-dismisses-eddie-hearn-fistfight',
     title: 'Dana White Dismisses Eddie Hearn Fistfight: "We Don’t Deserve to Be on the Card"',
     subtitle: 'Eddie Hearn begged for a boxing match and called Dana White a coward. Dana just responded by reminding everyone they are promoters, not fighters. The Zuffa Boxing takeover rolls on.',
