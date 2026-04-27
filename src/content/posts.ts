@@ -13,6 +13,70 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-killing-100-million-payday',
+    title: 'Zuffa Boxing Is Killing the $100 Million Payday (And That Is a Good Thing)',
+    subtitle: 'Dana White is officially bringing the UFC financial structure to Zuffa Boxing. The era of massive outlier purses is over, and the centralized promotional model is here. The old guard is furious, but the sport desperately needs it.',
+    date: '2026-04-27',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white', 'money'],
+    readTime: '5 min',
+    emoji: '💸',
+    content: `
+Boxing has always been a sport of kings and peasants. 
+
+At the very top, you have guys like Floyd Mayweather and Tyson Fury walking away with $100 million checks for a single night of work. At the bottom, you have undercard fighters making less than a shift manager at Wendy's. 
+
+It is a broken, top-heavy financial system that forces promoters to charge ridiculous pay-per-view prices while delivering paper-thin fight cards. 
+
+Dana White just announced he is killing it. 
+
+According to new reports surfacing today, Zuffa Boxing is officially restructuring fighter pay. They are moving aggressively away from the era of massive outlier purses and implementing a centralized promotional model—exactly like the one that turned the UFC into a $12 billion global juggernaut. 
+
+The gravy train for boxing's 1% is stopping. And honestly? It is about time.
+
+## Why the $100 Million Payday is Toxic
+
+If you ask a traditional boxing promoter, they will tell you that massive purses prove the sport is healthy. That is a lie. Massive purses prove the sport is being held hostage.
+
+When a promoter has to guarantee a single fighter $50 million just to step into the ring, they have zero money left for the rest of the card. That is why traditional boxing events usually feature one decent main event and three hours of unwatchable garbage. It is also why promoters refuse to make big fights until the fighters are past their prime—they have to wait until the demand is so high it can cover the extortionate financial guarantees.
+
+Zuffa Boxing is adopting the Muhammad Ali American Boxing Revival Act, but they are doing it with a massive structural pivot. They are bringing the UFC model to the squared circle. 
+
+That means higher baseline pay for the middle class, performance bonuses, and long-term contracts. But it also means no more Floyd Mayweather-esque bank heists.
+
+## The UFC Model Works Because It Builds Cards, Not Just Kings
+
+Dana White knows exactly what he is doing here. 
+
+The UFC doesn't pay Conor McGregor $100 million guaranteed because the UFC understands that the brand is bigger than the fighter. By controlling the purse structure, Zuffa Boxing can afford to stack a card from top to bottom. They can afford to take risks. They can afford to put on 15 shows a year instead of three. 
+
+This is the exact strategy that traditional boxing promoters have spent the last decade complaining about. They claim it is exploitative. They claim fighters are being robbed. 
+
+But what they are actually terrified of is the efficiency. 
+
+If Zuffa Boxing can deliver five massive, deeply stacked fight cards for the same price that Eddie Hearn or Oscar De La Hoya spend on one bloated main event, the old guard cannot compete. They simply do not have the infrastructure to survive a volume war against TKO Group Holdings.
+
+## The Reality Check for Fighters
+
+This shift is going to create a fascinating divide in the boxing world. 
+
+The established megastars who are used to dictating their own terms are going to hate Zuffa Boxing. They want the chaos because the chaos makes them rich. 
+
+But for the other 99% of professional boxers? The guys who are sick of getting shelved for a year because their promoter can't secure a network date? The Zuffa model is going to look incredibly attractive. A guaranteed schedule, a massive broadcast platform like Paramount+ or Sky Sports, and a real path to a championship that doesn't require bribing four different alphabet sanctioning bodies.
+
+## The ZuffaBets Take
+
+The $100 million payday era was fun while it lasted. It gave us great memes and incredible flexes on Instagram. 
+
+But it also actively destroyed the pacing and quality of the sport. 
+
+Dana White is arrogant, ruthless, and entirely unapologetic about how he runs his businesses. He is telling the boxing world that the days of one guy taking the entire pie are over. The centralized machine is here. 
+
+Boxing traditionalists are going to cry about fighter leverage and the death of the mega-purse. Let them cry. If killing the $100 million payday means we actually get to see the best fight the best on a regular schedule, then Zuffa Boxing cannot take over fast enough.
+\`
+  },
+
+  {
     slug: 'ari-emanuel-67-million-tko-compensation-2025',
     title: 'Ari Emanuel’s Pay Just Hit $67 Million. Cue the Fighter Pay Outrage.',
     subtitle: 'TKO CEO Ari Emanuel saw his 2025 compensation soar 272% to a massive $67.3 million. Meanwhile, UFC fighters are still arguing over show-money. The timing is incredible.',
