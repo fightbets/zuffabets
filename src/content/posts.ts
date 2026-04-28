@@ -13,6 +13,66 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'eddie-hearn-zuffa-boxing-visionless-apex-uk',
+    title: 'Eddie Hearn Calls Zuffa Boxing "Visionless." He Is Terrified.',
+    subtitle: 'The Matchroom boss is taunting Dana White about being "stuck in the Apex." Meanwhile, Zuffa is plotting a massive UK invasion. The projection is incredible.',
+    date: '2026-04-28',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white', 'culture'],
+    readTime: '4 min',
+    emoji: '🤡',
+    featured: true,
+    content: `
+Eddie Hearn is officially out of arguments, so he is pivoting to geography.
+
+In his latest desperate attempt to slow down the Zuffa Boxing momentum, the Matchroom Boxing chairman decided to attack Dana White’s creative vision. Speaking to the media this week, Hearn went on the offensive, claiming Zuffa has "no vision" and asking a rhetorical question that immediately backfired.
+
+"You’re stuck in the Apex still," Hearn said. "Are you gonna come out of there and do anything creative?"
+
+It is a funny line. It is also completely delusional. 
+
+Hearn is essentially standing on the beach, looking at a tidal wave, and complaining about the color of the water.
+
+## The Apex Is a Weapon, Not a Prison
+
+Let’s address the Apex argument first, because boxing traditionalists love to use this as an insult. 
+
+Hearn wants fans to believe that hosting early Zuffa Boxing events at the UFC Meta Apex in Las Vegas proves the promotion is small-time. He wants you to think Dana White is "stuck" there because he can't sell out real arenas. 
+
+That fundamentally misunderstands what the Apex is. 
+
+The Apex isn't a fallback plan. It is a fully operational, multi-million dollar broadcast fortress. By running developmental shows and mid-tier cards out of his own building, Dana White controls the production, bypasses venue fees, and creates infinite social media content for pennies on the dollar. He used the exact same strategy to build Power Slap into a digital monster. 
+
+Eddie Hearn has to rent out the O2 Arena and pray the gate covers the lighting bill. Dana White literally owns the casino.
+
+## The UK Invasion Is Already Happening
+
+The irony of Hearn asking if Zuffa is "gonna come out of there" is that Dana White has already publicly confirmed the invasion is imminent. 
+
+Over the past few weeks, White has been openly teasing that Zuffa Boxing is bringing a major card to the UK later this year. This isn't a secret. It is a stated corporate objective backed by a multi-year broadcast deal with Sky Sports.
+
+When Zuffa does land in London, they aren't coming to play nice. They are bringing Conor Benn—the superstar they poached directly from Hearn’s roster—and a massive TKO budget. 
+
+Hearn isn't taunting Zuffa because he thinks they lack vision. He is taunting them because he is terrified of what happens when that vision lands in his backyard.
+
+## The Projection is Incredible
+
+Boxing is a sport built on projection, but Hearn is taking it to a new level. 
+
+He calls Zuffa "visionless," but what is his vision? Continuing to rely on the same broken alphabet-belt system? Begging the Saudi General Entertainment Authority to fund his massive cards? Challenging Dana White to fistfights when his business leverage disappears?
+
+Zuffa Boxing has a very clear vision. It is the exact same vision that turned the UFC into a $12 billion global empire: consolidate the talent, control the broadcast, eliminate the middlemen, and put the best against the best on a regular schedule. 
+
+## The ZuffaBets Take
+
+We love Eddie Hearn. The man is a premium content machine and one of the best talkers in the history of combat sports. 
+
+But right now, he sounds like a guy whistling past the graveyard. 
+
+Zuffa Boxing isn't stuck in the Apex. They are using the Apex to sharpen the knife. And when Dana White finally brings the circus to London, Eddie Hearn is going to realize exactly how "creative" a hostile takeover can get.
+\`
+  },
+  {
     slug: 'zuffa-boxing-killing-100-million-payday',
     title: 'Zuffa Boxing Is Killing the $100 Million Payday (And That Is a Good Thing)',
     subtitle: 'Dana White is officially bringing the UFC financial structure to Zuffa Boxing. The era of massive outlier purses is over, and the centralized promotional model is here. The old guard is furious, but the sport desperately needs it.',
