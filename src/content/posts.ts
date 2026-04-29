@@ -13,6 +13,64 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'brandun-lee-zuffa-boxing-undefeated-weapon',
+    title: 'Brandun Lee Just Gave Zuffa Boxing Its First 30-0 Weapon',
+    subtitle: 'Everybody knows Dana White can buy established champions. But signing an undefeated 27-year-old knockout artist like Brandun Lee proves Zuffa Boxing is actually building a future.',
+    date: '2026-04-29',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'fights', 'dana-white'],
+    readTime: '4 min',
+    emoji: '🧨',
+    content: `
+If you thought Zuffa Boxing was only going to be a retirement home for expensive superstars or a vanity project for cross-promotional stunts, you haven't been paying attention.
+
+Dana White is starting to buy the future.
+
+This week, undefeated super lightweight Brandun Lee announced via Instagram that he has officially signed with Zuffa Boxing. For casual fans, that name might not immediately break the internet. But for the traditional boxing promoters watching their talent pool get drained, this signing is a massive, flashing red light.
+
+Because Brandun Lee is exactly the kind of fighter the old guard cannot afford to lose.
+
+## The 30-0 Problem
+
+Let's look at the resume. Lee is 27 years old. He has a pristine 30-0 professional record. He has an absurd 82% knockout ratio. He is young, violent, and highly marketable.
+
+In the old boxing ecosystem, a guy like Lee would spend the next two years fighting carefully selected journeymen on the undercards of bloated pay-per-views, waiting for a promoter to finally negotiate a title shot before he turns 30. He would be protected like museum glass until it was absolutely necessary to take a risk.
+
+Zuffa Boxing does not operate like that.
+
+By bringing Lee into the TKO machine, Dana White is sending a message: Zuffa is not just hunting for aging legends who want one last massive payday. They are actively recruiting prime, undefeated talent to build out the middle of their fight cards.
+
+## Why This Should Terrify Matchroom and Golden Boy
+
+We already knew Zuffa could stroke massive checks for guys like Conor Benn. But Benn was already an established name in the UK with massive built-in gravity. 
+
+Signing Brandun Lee is a different kind of flex. 
+
+It proves that the Zuffa Boxing infrastructure—the Paramount+ deal in the US, the Sky Sports deal in the UK, the Netflix integration—is incredibly attractive to fighters who are trying to build their brand *right now*. 
+
+If you are an undefeated 27-year-old boxer, why would you sign a restrictive, long-term deal with a traditional promoter who struggles to get you on television twice a year? Zuffa Boxing is offering a global broadcast platform, the backing of the $12 billion TKO Group Holdings machine, and a promoter in Dana White who literally built his career by turning unknown fighters into global superstars.
+
+## The Power Slap Content Engine Meets Real Boxing
+
+The other advantage Zuffa has with a guy like Lee is the content machine. 
+
+Brandun Lee knocks people out. That is what he does. And Zuffa has the best short-form content distribution network in combat sports. They don't need to put Lee on a three-hour HBO documentary to make him famous. They just need to feed his knockout highlights into the exact same algorithmic engine that turned Power Slap into a digital monster.
+
+Lee brings the violence; Dana brings the eyeballs. 
+
+## The ZuffaBets Take
+
+We have been waiting to see what the actual roster-building strategy for Zuffa Boxing looks like. Now we know.
+
+Yes, they are going to chase the Canelos, the Crawfords, and the Furys. Yes, they are going to throw massive bags of Saudi money at established UK stars to disrupt the market.
+
+But guys like Brandun Lee are the actual foundation of a fight promotion. You need undefeated killers who are hungry for a title shot to keep the schedule moving. 
+
+Dana White isn't just renting a few stars for a couple of stadium shows. He is actively buying the next generation of boxing. And if the traditional promoters don't figure out a way to counter this, their rosters are going to look incredibly thin by 2027.
+\`
+  },
+
+  {
     slug: 'eddie-hearn-zuffa-boxing-visionless-apex-uk',
     title: 'Eddie Hearn Calls Zuffa Boxing "Visionless." He Is Terrified.',
     subtitle: 'The Matchroom boss is taunting Dana White about being "stuck in the Apex." Meanwhile, Zuffa is plotting a massive UK invasion. The projection is incredible.',
