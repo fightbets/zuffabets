@@ -13,6 +13,54 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-leaves-apex-heads-to-uk',
+    title: 'Zuffa Boxing Finally Leaves the APEX, And It\'s Headed Straight For Eddie Hearn\'s Backyard',
+    subtitle: 'Dana White is packing up the Zuffa Boxing roadshow and taking it to Bournemouth, England for Zuffa Boxing 07. The honeymoon phase at the Meta APEX is officially over.',
+    date: '2026-04-30',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '4 min',
+    emoji: '🇬🇧',
+    content: `
+For the first six events, Zuffa Boxing was a tightly controlled experiment. It was a TV studio product engineered inside the safety of the Meta APEX in Las Vegas. 
+
+Now, the training wheels are coming off.
+
+The promotion just announced that **Zuffa Boxing 07** will take place on June 6 at the Bournemouth International Centre in Bournemouth, England. It marks the first time Dana White's new boxing venture will pack up its production trucks and run an event in a real arena in front of a live crowd.
+
+And they are doing it directly in Eddie Hearn's backyard.
+
+## The Sky Sports Connection
+
+If you've been paying attention to the business moves, this overseas jump makes total sense. Last month, Zuffa Boxing signed a landmark broadcast agreement with Sky Sports. 
+
+But a broadcast deal is useless without prime-time inventory for the local audience. You can't just feed the UK market Vegas fight cards that start at 4:00 AM local time and expect to build a loyal fanbase. You have to put bodies in seats in their time zone. 
+
+By taking Zuffa Boxing 07 to Bournemouth, Dana White isn't just fulfilling a broadcast quota. He is testing the touring infrastructure of Zuffa Boxing in one of the most rabid fight markets on the planet.
+
+## Planting The Flag
+
+Eddie Hearn and Matchroom Boxing have effectively owned the UK boxing scene for a decade. Queensberry and Frank Warren are the historic pillars. It is a crowded, deeply entrenched market.
+
+So why start there?
+
+Because the UK boxing audience doesn't care about promotional politics if the product is violent and the matchmaking is actually good. The UFC figured this out years ago—they didn't ask permission to take over the UK MMA scene; they just showed up with Michael Bisping, locked the doors, and let the chaos sell itself.
+
+Now, Dana White is applying the exact same playbook to boxing. 
+
+## Leaving the Lab
+
+The Meta APEX was the perfect incubator. It allowed Zuffa Boxing to figure out pacing, graphics, walkouts, and pacing without the logistical nightmare of selling tickets and booking arenas. It was an R&D phase disguised as a fight card.
+
+But you can't disrupt a global sport from a studio in Nevada. Eventually, you have to hit the road. 
+
+Selling out the Bournemouth International Centre isn't exactly the same as packing Wembley Stadium. But it's the crucial first step. It proves that Zuffa Boxing isn't just a Las Vegas residency. It's a touring business.
+
+Zuffa Boxing is officially out of the lab. And the invasion has begun.
+`
+  },
+
+  {
     slug: 'brandun-lee-zuffa-boxing-undefeated-weapon',
     title: 'Brandun Lee Just Gave Zuffa Boxing Its First 30-0 Weapon',
     subtitle: 'Everybody knows Dana White can buy established champions. But signing an undefeated 27-year-old knockout artist like Brandun Lee proves Zuffa Boxing is actually building a future.',
