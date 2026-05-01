@@ -13,6 +13,60 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'zuffa-boxing-uk-sky-sports-fighter-pay',
+    title: 'Zuffa Boxing Hits the UK, and the Overpaid Boxer Era Might Finally Be Dead',
+    subtitle: 'Zuffa Boxing is heading to England with Sky Sports, but the bigger story is Dana White quietly ending the era of the $50 million outlier purse. The UFC model is crossing the pond.',
+    date: '2026-05-01',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'money'],
+    readTime: '4 min',
+    emoji: '🇬🇧',
+    featured: true,
+    content: `
+Boxing has always operated on a broken math equation: pay one guy a gross amount of money, starve the undercard, and pray the pay-per-view doesn't bomb.
+
+Dana White just packed that equation in a box and threw it in the ocean.
+
+With recent news confirming Zuffa Boxing's imminent arrival in England—backed by a massive Sky Sports broadcast deal and a former world champion headliner—the real story isn't just about geography. It is about a fundamental restructuring of how fighters get paid.
+
+Zuffa Boxing is officially signaling the end of the massive, outlier purse. The UFC financial model has entered the boxing chat, and the old guard is terrified.
+
+## The Problem With the $50 Million Check
+
+If you ask traditional promoters, they will tell you that massive purses prove the sport is healthy. That is a lie. Massive purses prove the sport is being held hostage.
+
+When a promoter has to guarantee a single fighter $50 million just to step into the ring, they have zero money left for the rest of the card. That is why traditional boxing events usually feature one decent main event and three hours of unwatchable garbage.
+
+By bringing the UFC's centralized promotional model to boxing, Zuffa is effectively killing the outlier payday. That means higher baseline pay for the middle class, performance bonuses, and long-term contracts. But it also means no more Floyd Mayweather-esque bank heists.
+
+## Why the UK is the Perfect Testing Ground
+
+Eddie Hearn and Matchroom Boxing have effectively owned the UK boxing scene for a decade. Queensberry and Frank Warren are the historic pillars.
+
+So why is Zuffa starting their international invasion there?
+
+Because the UK boxing audience doesn't care about promotional politics if the product is violent and the matchmaking is actually good. The UFC figured this out years ago—they didn't ask permission to take over the UK MMA scene; they just showed up with Michael Bisping, locked the doors, and let the chaos sell itself.
+
+By combining the Sky Sports deal with a restructured, centralized pay model, Dana White is ensuring that Zuffa Boxing can afford to stack cards from top to bottom. They can afford to put on 15 shows a year instead of three.
+
+## The Old Guard Cannot Compete With Volume
+
+Traditional promoters claim the UFC model is exploitative. They claim fighters are being robbed of their leverage.
+
+But what they are actually terrified of is the efficiency.
+
+If Zuffa Boxing can deliver five massive, deeply stacked fight cards for the same price that Eddie Hearn spends on one bloated main event, the old guard cannot survive the volume war. They simply do not have the infrastructure to match TKO Group Holdings.
+
+## The ZuffaBets Take
+
+The era of the $100 million payday gave us great memes and incredible flexes on Instagram. But it also actively destroyed the pacing and quality of the sport.
+
+Dana White is telling the boxing world that the days of one guy taking the entire pie are over. The centralized machine is here, and it is touching down in the UK.
+
+Traditionalists are going to cry about fighter leverage and the death of the mega-purse. Let them cry. If killing the outlier payday means we actually get to see the best fight the best on a regular, stacked schedule, then Zuffa Boxing cannot take over fast enough.
+\`
+  },
+  {
     slug: 'zuffa-boxing-leaves-apex-heads-to-uk',
     title: 'Zuffa Boxing Finally Leaves the APEX, And It\'s Headed Straight For Eddie Hearn\'s Backyard',
     subtitle: 'Dana White is packing up the Zuffa Boxing roadshow and taking it to Bournemouth, England for Zuffa Boxing 07. The honeymoon phase at the Meta APEX is officially over.',
