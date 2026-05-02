@@ -3572,6 +3572,58 @@ While boxing purists argue over alphabet belts and purse bids, Zuffa Boxing is q
 Ryan Rozicki might not be the guy headlining Allegiant Stadium tomorrow, but he is exactly the kind of fighter who makes a Zuffa Boxing undercard worth watching. Dana White is building a roster of killers, and the Canadian wrecking ball just got his invitation to the party.
 \`
   },
+  {
+    slug: 'khamzat-chimaev-conor-mcgregor-zuffa-boxing-pitch',
+    title: 'Khamzat Chimaev Wants to Box Conor McGregor. Did He Miss Dana White’s Memo?',
+    subtitle: 'The undefeated UFC middleweight champion just pitched a Zuffa Boxing match against Conor McGregor. There is just one massive problem: Dana White already banned this exact thing.',
+    date: '2026-05-02',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white', 'fights'],
+    readTime: '4 min',
+    emoji: '🐺',
+    featured: true,
+    content: `
+The ink is barely dry on Dana White’s new “no crossover fights” rule, and his own champions are already trying to test the fences. 
+
+This week, undefeated UFC middleweight champion **Khamzat Chimaev** decided to look past his upcoming title defense against Sean Strickland at UFC 328 and pitch an entirely different kind of violence: a boxing match against **Conor McGregor** under the **Zuffa Boxing** banner.
+
+"Why not... it would be fun," Chimaev told reporters during a media scrum, admitting that the matchup would be "good money."
+
+It is a hilarious pitch. It would obviously print money. And it is absolutely, 100 percent not going to happen.
+
+## "Good Money" vs. Corporate Policy
+
+Let’s be honest about what is happening here. Khamzat Chimaev is not suddenly a boxing purist. He is a guy who understands that the easiest way to generate an eight-figure payday in modern combat sports is to attach your name to Conor McGregor.
+
+Chimaev has made it abundantly clear that money motivates him more than belts right now. Pitching a Zuffa Boxing match against the biggest draw in MMA history is just good business on his part.
+
+But there is a massive roadblock sitting in the executive suite.
+
+Just last month, Dana White emphatically shut down the idea of Dustin Poirier boxing Nate Diaz under the Zuffa banner. White’s reasoning was brutal and direct: "Crossover fights suck." He made it clear that active and retired UFC fighters are barred from competing in his new boxing venture. Zuffa Boxing is for elite boxers, not MMA superstars looking for a retirement check.
+
+## Will Dana Break His Own Rule?
+
+When Dustin Poirier pitched a boxing match, it was easy for Dana to say no. 
+
+But what happens when the two names involved are Conor McGregor and Khamzat Chimaev? 
+
+McGregor is the only guy who has ever convinced Dana White to co-promote a boxing match (against Floyd Mayweather in 2017). And Chimaev is currently one of the most terrifying, marketable champions on the UFC roster. If any two fighters could force Dana to reconsider his own corporate policy, it would be them.
+
+Except, this isn't 2017 anymore. 
+
+Back then, the UFC needed the Mayweather spectacle. Today, TKO Group Holdings is trying to build Zuffa Boxing into a legitimate, standalone boxing promotion. If Dana lets Khamzat and Conor throw 10-ounce gloves on and swing at each other in a Zuffa ring, the brand instantly devolves into "UFC Lite" celebrity boxing.
+
+## The ZuffaBets Take
+
+We love the absolute audacity of Khamzat Chimaev. The man is fighting Sean Strickland in Newark next week, and he is casually trying to book a boxing match with an Irishman who hasn't won a fight in four years.
+
+But Dana White is going to kill this idea immediately. 
+
+Zuffa Boxing is currently busy signing legitimate boxing champions, locking down Sky Sports deals, and trying to break the old alphabet cartel. They don't have time for MMA crossover stunts. 
+
+Chimaev vs. McGregor would be a certified circus. But unfortunately for Khamzat's bank account, Dana White already decided he isn't selling tickets to that specific tent.
+\`
+  },
 ]
 
 export function getPost(slug: string): Post | undefined {
