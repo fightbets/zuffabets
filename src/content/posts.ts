@@ -13,6 +13,94 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'shakur-stevenson-zuffa-boxing-power-play',
+    title: 'Shakur Stevenson Is the Zuffa Boxing Power Play',
+    subtitle: 'Shakur Stevenson is reportedly finalizing a Zuffa Boxing deal, giving Dana White a prime American star and a real weapon against boxing’s old machine.',
+    date: '2026-05-12',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '💰',
+    content: `
+Dana White did not need another prospect. He needed proof of concept.
+
+That is why the Shakur Stevenson rumor matters.
+
+Sports Illustrated’s Chris Mannix reported that Stevenson is working toward finalizing a deal with Zuffa Boxing. Forbes picked up the report and framed the stakes clearly: if the deal lands, Zuffa does not just get another name for the spreadsheet. It gets a 28-year-old pound-for-pound fighter, an undefeated American champion, and the kind of boxer the old system cannot afford to lose.
+
+That is not a signing. That is a flare fired directly into boxing’s boardroom.
+
+## Why Shakur Changes the Temperature
+
+Zuffa Boxing has already been busy. Conor Benn, Jai Opetaia, Richardson Hitchins, Brandun Lee, Chris Billam-Smith, Edgar Berlanga — the roster has been filling out fast enough that traditional promoters are pretending not to sweat through their collars.
+
+But Shakur Stevenson is different.
+
+Stevenson is not just useful. He is prime. He is undefeated. He is Ring Magazine-level elite, with a 25-0 record and real pound-for-pound gravity. He is also American, which matters because Dana White has been openly talking about how boxing lost its old power in the United States.
+
+After Zuffa Boxing 6, White said boxing has become more of a European sport over the last 15 to 20 years and no longer carries the same U.S. force it had during the 1990s and early 2000s. That is not nostalgia. That is market analysis with a bald head and a microphone.
+
+If you want to rebuild American boxing power, you need American stars who actually matter. Shakur fits the job description.
+
+## The Conor Benn Problem Gets Spicier
+
+The obvious immediate play is Stevenson vs. Conor Benn.
+
+That matchup already has heat, because Benn has been one of Zuffa Boxing’s loudest early pieces, and Stevenson brings the credibility that makes the whole thing feel less like a startup and more like a hostile takeover with gloves on.
+
+Benn gives Zuffa UK gravity. Stevenson gives Zuffa U.S. legitimacy.
+
+Put them together and suddenly Dana White has something boxing badly needs: a fight people can understand without needing three sanctioning-body flowcharts and a promoter beef glossary.
+
+That has always been the pitch. Fewer excuses. Cleaner stories. Better scheduling. More fights that feel like they belong in the same universe.
+
+Traditional boxing people hear that and start screaming about independence, history, belts, leverage, and the sacred chaos of the sport. Some of those concerns are real. But fans are not waking up excited to defend administrative clutter. They want the best fighters in obvious fights at obvious times.
+
+Zuffa knows that. Boxing pretends not to.
+
+## Dana White Is Selling Certainty
+
+This is the part the old guard keeps underestimating.
+
+Dana White is not just offering money. He is offering certainty.
+
+For a boxer, that means a machine that can put you on a platform, build storylines around you, clip your best moments into every feed on Earth, and keep you active inside one promotional universe. That might sound basic, but in boxing it qualifies as a technological breakthrough.
+
+The sport has spent decades making obvious fights feel legally impossible. Zuffa’s pitch is brutally simple: sign here, fight often, become part of the machine.
+
+That machine can be ruthless. It can centralize power. It can squeeze fighters if nobody keeps it honest. Anyone pretending there is zero downside to a UFC-style structure in boxing is selling you merch.
+
+But anyone pretending the current boxing structure is healthy is selling you a used car with three missing tires.
+
+## The Ali Act Fight Is the Shadow Over Everything
+
+This is also why the Ali Act battle keeps getting louder.
+
+Roy Jones Jr. ripped into Zuffa Boxing’s attempt to build its own rankings and belts, warning that fighters could end up needing to “kiss their ass” to get major opportunities. Dana White responded by saying disruption always ruffles feathers and that fighters inside the system would say they are treated professionally.
+
+Both sides know what the real fight is.
+
+This is not just about one belt, one ranking, or one Shakur Stevenson contract. It is about whether boxing should stay fragmented by design or allow a UFC-style central power to bulldoze the maze.
+
+Shakur potentially joining Zuffa makes that debate less theoretical. It proves elite fighters may actually want into the new structure if the money, platform, and matchmaking are strong enough.
+
+That is what should scare the old promoters most.
+
+## The ZuffaBets Take
+
+If Stevenson signs, Zuffa Boxing gets its cleanest statement win yet.
+
+Not because Shakur alone fixes boxing. One fighter does not rebuild a sport. But one prime pound-for-pound American star can make every other free agent look at the door and wonder what is on the other side.
+
+Dana White keeps saying to judge Zuffa Boxing by the body of work heading into 2027. Fair enough.
+
+But if the body of work includes Shakur Stevenson, Conor Benn, a UK expansion, Sky Sports inventory, Paramount+ distribution, and a growing internal title universe, then the old boxing machine has a real problem.
+
+The takeover is no longer theoretical. The good fighters are starting to answer the phone.
+`
+  },
+
+  {
     slug: 'zuffa-boxing-uk-sky-sports-fighter-pay',
     title: 'Zuffa Boxing Hits the UK, and the Overpaid Boxer Era Might Finally Be Dead',
     subtitle: 'Zuffa Boxing is heading to England with Sky Sports, but the bigger story is Dana White quietly ending the era of the $50 million outlier purse. The UFC model is crossing the pond.',
@@ -64,7 +152,7 @@ The era of the $100 million payday gave us great memes and incredible flexes on 
 Dana White is telling the boxing world that the days of one guy taking the entire pie are over. The centralized machine is here, and it is touching down in the UK.
 
 Traditionalists are going to cry about fighter leverage and the death of the mega-purse. Let them cry. If killing the outlier payday means we actually get to see the best fight the best on a regular, stacked schedule, then Zuffa Boxing cannot take over fast enough.
-\`
+`
   },
   {
     slug: 'zuffa-boxing-leaves-apex-heads-to-uk',
@@ -169,7 +257,7 @@ Yes, they are going to chase the Canelos, the Crawfords, and the Furys. Yes, the
 But guys like Brandun Lee are the actual foundation of a fight promotion. You need undefeated killers who are hungry for a title shot to keep the schedule moving. 
 
 Dana White isn't just renting a few stars for a couple of stadium shows. He is actively buying the next generation of boxing. And if the traditional promoters don't figure out a way to counter this, their rosters are going to look incredibly thin by 2027.
-\`
+`
   },
 
   {
@@ -230,7 +318,7 @@ We love Eddie Hearn. The man is a premium content machine and one of the best ta
 But right now, he sounds like a guy whistling past the graveyard. 
 
 Zuffa Boxing isn't stuck in the Apex. They are using the Apex to sharpen the knife. And when Dana White finally brings the circus to London, Eddie Hearn is going to realize exactly how "creative" a hostile takeover can get.
-\`
+`
   },
   {
     slug: 'zuffa-boxing-killing-100-million-payday',
@@ -293,7 +381,7 @@ But it also actively destroyed the pacing and quality of the sport.
 Dana White is arrogant, ruthless, and entirely unapologetic about how he runs his businesses. He is telling the boxing world that the days of one guy taking the entire pie are over. The centralized machine is here. 
 
 Boxing traditionalists are going to cry about fighter leverage and the death of the mega-purse. Let them cry. If killing the $100 million payday means we actually get to see the best fight the best on a regular schedule, then Zuffa Boxing cannot take over fast enough.
-\`
+`
   },
 
   {
@@ -398,7 +486,7 @@ We love chaos as much as anyone. Seeing Dana White and Eddie Hearn throw hands i
 But Dana is right. They don't belong on a card. 
 
 The real fight isn't going to happen in a ring with 14-ounce gloves. It is happening right now in contract negotiations, broadcast deals, and roster acquisitions. And right now, Dana White is winning by unanimous decision.
-\`
+`
   },
   {
     slug: 'zuffa-boxing-power-slap-blueprint',
@@ -457,7 +545,7 @@ You can hate Power Slap all you want, but you cannot argue with the numbers.
 Dana White proved that if you control the digital distribution and feed the algorithm exactly what it wants, you can build a massive audience out of thin air. Now, he is taking that proven, highly weaponized content machine and giving it to elite boxers. 
 
 The old guard is still trying to figure out how to sell a pay-per-view in 2026. Dana White is already dominating the timeline. 
-\`
+`
   },
   {
     slug: 'zuffa-boxing-belt-sanctioning-bodies-war',
@@ -579,7 +667,7 @@ Is Johnny Manziel vs. Bob Menery going to be a technical boxing masterclass? Abs
 But it is going to generate a ridiculous amount of clips, memes, and social media traffic. And Dana White gets to sit in his office, collect the venue fee, and absorb all that Gen Z attention without having to actually risk any of his own fighters.
 
 The boxing establishment can keep crying about participation trophies and tradition. Dana White is going to keep treating combat sports like exactly what it is: the entertainment business.
-\`
+`
   },
   {
     slug: 'paddy-pimblett-dana-white-eddie-hearn-feud-teenage-girlish',
@@ -767,7 +855,7 @@ Eddie Hearn is frustrated. He is watching Dana White do exactly what he warned e
 Calling the UFC boss a "p***y" might make Hearn feel better in the moment. It might get him some viral clicks on Boxing Social. But it doesn't change the reality on the ground. 
 
 Dana doesn't need to punch Eddie Hearn in a ring. He is already beating him up in the boardroom.
-\`
+`
   },
   {
     slug: 'conor-benn-multi-fight-deal-zuffa-boxing',
@@ -892,7 +980,7 @@ He is tired of maintaining an empire. He wants to build another one. And unfortu
 The man who spent 25 years crushing rival MMA promotions just cleared his schedule. 
 
 Boxing should be terrified.
-\`
+`
   },
   {
     slug: 'anthony-joshua-rejects-dana-white-zuffa-boxing',
@@ -941,7 +1029,7 @@ Hearn telling this story is a classic promoter flex. He wants the world to know 
 But the real takeaway is that Dana White is operating with zero respect for boxing's traditional boundaries. He isn't intimidated by the Matchroom empire. He isn't worried about stepping on toes. He is actively testing the loyalty of every major star in the sport.
 
 Joshua said no today. But every time Dana makes one of these calls, the price of loyalty goes up. Matchroom didn't lose its heavyweight king, but the old guard just got a terrifying reminder: Zuffa Boxing is officially in the poaching business, and nobody is off-limits.
-\`
+`
   },
   {
     slug: 'oscar-de-la-hoya-zuffa-boxing-participation-trophies',
@@ -3570,7 +3658,7 @@ He comes to fight, he brings regional support, and his style translates perfectl
 While boxing purists argue over alphabet belts and purse bids, Zuffa Boxing is quietly acquiring guys who guarantee violence. 
 
 Ryan Rozicki might not be the guy headlining Allegiant Stadium tomorrow, but he is exactly the kind of fighter who makes a Zuffa Boxing undercard worth watching. Dana White is building a roster of killers, and the Canadian wrecking ball just got his invitation to the party.
-\`
+`
   },
   {
     slug: 'khamzat-chimaev-conor-mcgregor-zuffa-boxing-pitch',
@@ -3622,7 +3710,7 @@ But Dana White is going to kill this idea immediately.
 Zuffa Boxing is currently busy signing legitimate boxing champions, locking down Sky Sports deals, and trying to break the old alphabet cartel. They don't have time for MMA crossover stunts. 
 
 Chimaev vs. McGregor would be a certified circus. But unfortunately for Khamzat's bank account, Dana White already decided he isn't selling tickets to that specific tent.
-\`
+`
   },
 ]
 
