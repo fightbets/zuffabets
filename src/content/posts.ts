@@ -2521,12 +2521,12 @@ Sorry, Dustin. The crossover era is officially closed for business.
   },
   {
     slug: 'ali-revival-act-zuffa-boxing-control',
-    title: 'Ali Revival Act Fight Gets Messier as Oscar Steps In',
-    subtitle: 'The Ali Revival Act is now heading to the Senate, and Oscar De La Hoya is trying to turn the Zuffa Boxing power grab into a public war.',
-    date: '2026-03-28',
+    title: 'Roy Jones Turns Zuffa Boxing’s Ali Act Fight Nuclear',
+    subtitle: 'Roy Jones Jr. says Zuffa Boxing’s push for its own rankings and belts could force fighters to kiss the ring. Dana White calls it disruption.',
+    date: '2026-05-13',
     author: 'ZuffaBets Staff',
     tags: ['business', 'zuffa-boxing', 'dana-white'],
-    readTime: '7 min',
+    readTime: '8 min',
     emoji: '🏛️',
     featured: true,
     content: `
@@ -2629,6 +2629,22 @@ Second, it shows the boxing establishment is not treating this like a symbolic c
 De La Hoya also took shots at the **Zuffa belt** and at **Ring Magazine’s current credibility**, arguing that Jai Opetaia and other fighters still care more about the traditional belts than any new hardware TKO rolls out. That is not just Oscar being Oscar. It is a clue.
 
 Even with the money, branding, and lawmakers lined up, Zuffa Boxing still has to solve one old boxing problem: fighters do not automatically abandon the belts that already make them legitimate.
+
+## Roy Jones Jr. Made the Fear Explicit
+
+Now Roy Jones Jr. has walked into the same fight and said the quiet part with a megaphone.
+
+In a Fight Hub TV interview, Jones blasted Zuffa Boxing’s push to create its own rankings and belts, warning that fighters could end up needing to “kiss their ass” to get major opportunities. Subtle? Absolutely not. But subtle is not why anyone calls Roy Jones Jr.
+
+His argument is the cleanest version of the anti-Zuffa case: if one company controls the promotion, the rankings, the belts, and the path to the biggest fights, then fighters may gain a cleaner schedule while losing the leverage that makes boxing boxing.
+
+Dana White’s response was classic controlled Dana. He said he did not know whose ass anyone had to kiss, argued Zuffa treats fighters like professional athletes, and framed the backlash as the natural sound of disruption annoying people who enjoyed the old setup.
+
+Both men are selling something true.
+
+Jones is right that central control can become a choke point. White is right that boxing’s current freedom often looks like a junk drawer full of belts, lawsuits, inactive champions, and fights that should have happened three tax years ago.
+
+That is why this story has teeth. It is not good guys versus bad guys. It is chaos versus control, and boxing has spent so long drowning in chaos that control suddenly looks dangerous and attractive at the same time.
 
 ## Why ZuffaBets Cares
 
