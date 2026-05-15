@@ -13,6 +13,83 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'dana-white-gambling-tax-sports-betting',
+    title: 'Dana White Just Became Sports Betting’s Weirdest Lobbyist',
+    subtitle: 'Dana White asked Trump to scrap the 90% gambling loss deduction cap, and somehow the UFC boss may be the loudest political weapon legal betting has.',
+    date: '2026-05-15',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'gambling', 'dana-white', 'politics'],
+    readTime: '5 min',
+    emoji: '🎲',
+    content: `
+Dana White has spent years yelling at judges, promoters, fighters, streamers, reporters, and probably at least one unlucky hotel thermostat.
+
+Now he is yelling at the tax code.
+
+Sportico reported that the UFC CEO sent a letter to the White House asking Donald Trump to help repeal the new gambling deduction limit that caps deductible losses at 90%. In normal human language: a bettor who wins $500,000 and loses $500,000 in the same year could still be taxed like they made $50,000.
+
+That is not a tax rule. That is a leg kick to the spreadsheet.
+
+## Why Dana White Is In This Fight
+
+White is not pretending to be some random civic hobbyist here.
+
+He is a famous recreational gambler. He runs the UFC out of Las Vegas. He has a direct business interest in legal sports betting staying healthy, loud, regulated, and attached to the sports-viewing experience.
+
+In the letter, White argued that the deduction cap hurts the economy and could push gamblers away from legal sportsbooks toward unregulated options. He also made the business case plainly: UFC benefits from a legal betting market because it drives fan engagement, broadcast value, and sponsorship money.
+
+That part matters.
+
+The UFC is not just selling fights anymore. It is selling an ecosystem: live events, social clips, sponsorships, broadcast rights, premium access, betting integrations, and enough outrage fuel to keep the internet chewing for a week. Legal betting sits right in the middle of that machine.
+
+If bettors feel punished for playing in the regulated market, that is bad for sportsbooks. If it is bad for sportsbooks, it is bad for sports properties that sell attention to them. Dana can count. Annoyingly well, actually.
+
+## The Rule Everyone Hates
+
+The 90% cap sounds boring until you run the math.
+
+Under the rule, a bettor with no net profit can still get treated as if they made taxable income. That is why the online gambling crowd has been furious. It is not just whales crying into a baccarat shoe. The structure can hit ordinary bettors too, especially high-volume players who churn wins and losses through the year.
+
+Nevada politicians have already tried to get the cap repealed. Rep. Dina Titus and Sen. Catherine Cortez Masto pushed bills and social campaigns. The American Gaming Association has also lobbied against the rule.
+
+But according to Sportico, White’s letter appeared to move the market faster than the politicians did. Prediction-market odds of the cap being repealed before 2027 reportedly jumped from around 19% to more than 30% after the news.
+
+That is the funniest part of the whole thing.
+
+Congress spent a year stuck in mud. Dana sent one letter and the gamblers immediately started pricing in hope.
+
+## The Trump Connection Is the Whole Play
+
+White has something most lobbyists would happily trade a kidney for: direct political access and cultural leverage.
+
+Trump loves the UFC. He attends events. UFC crowds generally love him back. White spoke at the 2024 Republican National Convention. And this summer, the UFC is staging a White House event that TKO has already said will lose money, because apparently normal sports business was not cinematic enough.
+
+So when White writes to Trump about gambling taxes, it lands differently than a PDF from a trade group.
+
+It is not subtle. It does not have to be.
+
+White is using the same skill he uses in fight promotion: find the person with the power, make the pitch simple, and turn a boring structural issue into something people can argue about in public.
+
+That is also why Democrats like Titus and Cortez Masto praised the move despite the obvious political weirdness. If Dana White helps push the fix across the line, nobody in Nevada is going to cry because the assist came from the bald chaos merchant.
+
+## This Is Bigger Than Gambling
+
+This story fits the bigger Dana White era perfectly.
+
+He is not just a fight promoter anymore. He is a political-media-business operator sitting inside TKO, a company that now sells UFC, WWE, PBR, Zuffa Boxing, premium hospitality, global events, and sponsor inventory like one giant entertainment bazooka.
+
+One week the story is the UFC at the White House. Another week it is Zuffa Boxing fighting over the Ali Act. Now it is Dana trying to move gambling tax policy because the betting economy affects the sports economy.
+
+That is the modern combat-sports business in one sentence: the cage, the sportsbook, the streamer, the sponsor, and the politician are all standing way closer together than they used to.
+
+Old-school fans can pretend this is just about who throws the cleaner right hand. Cute. The money people left that conversation three exits ago.
+
+Dana White understands the board now. Not just the fight card. The board.
+
+And if a gambling tax fight needs a loud Vegas man with Trump’s number and zero fear of looking ridiculous, congratulations, America. The matchmaker has entered the lobby.
+`
+  },
+  {
     slug: 'shakur-stevenson-zuffa-boxing-power-play',
     title: 'Shakur Stevenson Is the Zuffa Boxing Power Play',
     subtitle: 'Shakur Stevenson is reportedly finalizing a Zuffa Boxing deal, giving Dana White a prime American star and a real weapon against boxing’s old machine.',
