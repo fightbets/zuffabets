@@ -12,6 +12,96 @@ export interface Post {
 }
 
 export const posts: Post[] = [
+
+  {
+    slug: 'tko-arizona-zuffa-boxing-event-bundle',
+    title: 'TKO Just Bundled Zuffa Boxing Into the Arizona Machine',
+    subtitle: 'TKO’s new three-year Arizona deal packages UFC, WWE, PBR, and Zuffa Boxing together. That tells you exactly how Dana White’s boxing project gets scaled.',
+    date: '2026-05-16',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '4 min',
+    emoji: '🏜️',
+    content: `
+Zuffa Boxing did not need another press release saying it is “disrupting boxing.” Everybody says that. Half of boxing has been disrupting itself by accident for 40 years.
+
+What Zuffa Boxing needed was proof it can get carried inside the bigger TKO machine.
+
+On May 12, TKO Group announced a three-year agreement with the Arizona Sports & Events Alliance to bring seven major events to Arizona across UFC, WWE, PBR, and Zuffa Boxing. No specific dates yet. No exact fight card yet. Just the important part: Zuffa Boxing is being sold to a major market in the same sentence as UFC and WWE.
+
+That is the actual headline.
+
+## Zuffa Boxing Is Not Being Treated Like a Side Quest
+
+The deal covers seven events over three years and is built around tourism, economic impact, and global visibility for Arizona. That sounds like civic press-release soup until you translate it into combat sports English.
+
+Cities do not just want fights. They want weekends.
+
+They want hotel rooms. Restaurants. Premium hospitality. Sponsor events. Tourists with bad sunglasses spending real money. TKO has all of that in one bag now: UFC brings violence, WWE brings spectacle, PBR brings cowboy chaos, and Zuffa Boxing gets to walk into the room attached to the whole premium-event circus.
+
+That matters because most new boxing promotions have to beg for relevance one card at a time. Zuffa gets to be part of a portfolio pitch.
+
+That is a disgusting advantage.
+
+## This Is How Boxing Gets Industrialized
+
+Traditional boxing sells fights like individual island nations. One promoter here, one broadcaster there, one sanctioning body hiding behind a clipboard, one star asking for a ransom number that makes the undercard look like community theater.
+
+TKO sells systems.
+
+The company can show a market UFC, WWE, PBR, Zuffa Boxing, IMG, and On Location. That is not just a fight night. That is a live-event economy with premium hospitality strapped to it like a rocket.
+
+For Zuffa Boxing, this is how the thing becomes normal. Not by shouting “we are the future” into a microphone. By appearing on government-backed event calendars next to brands that already print money.
+
+The Arizona deal says: this boxing project is not floating alone. It is inventory.
+
+And inventory is what Dana White has been chasing from the start.
+
+## Why Arizona Makes Sense
+
+Arizona is not random. It has become a serious combat-sports market, and it knows how to host giant sports weeks. The state wants events that drive tourism and global attention. TKO wants markets willing to treat its properties like economic engines instead of just entertainment bookings.
+
+Everybody gets something.
+
+Arizona gets a multi-year pipeline of major events. TKO gets a committed host market. Zuffa Boxing gets a real runway without having to prove every single card from scratch.
+
+That last piece is the killer.
+
+One of boxing’s biggest problems is that every event feels like a one-off negotiation hostage crisis. Zuffa’s model is the opposite: build repeatable locations, repeatable broadcast inventory, repeatable sponsor packages, and repeatable expectations.
+
+Fans get trained. Markets get trained. Sponsors get trained.
+
+That is how UFC went from outlaw cage freak show to global sports property. It stopped selling random chaos and started selling dependable chaos.
+
+## The Old Guard Should Hate This
+
+If you are a traditional boxing promoter, this is the kind of news that should make your coffee taste like battery acid.
+
+Because the fight is not just about who signs Shakur Stevenson, Conor Benn, or the next shiny undefeated guy. The fight is about infrastructure.
+
+Can Matchroom, Top Rank, PBC, and the alphabet belts out-politic Dana White in boxing rooms? Maybe. They have been playing that board game forever.
+
+Can they match TKO’s ability to walk into a state, bundle multiple sports-entertainment properties, sell a three-year event pipeline, and treat boxing like one unit inside a larger machine?
+
+That is a nastier question.
+
+Zuffa Boxing does not have to beat the old boxing system by being more romantic. It has to be more organized, more useful to broadcasters, easier for host cities, and better packaged for sponsors.
+
+The Arizona deal points directly at that strategy.
+
+## The ZuffaBets Take
+
+This is not the sexiest Zuffa Boxing news of the week. It does not come with a faceoff, a leaked purse, or Eddie Hearn calling somebody a fruit loop.
+
+It might be more important.
+
+A three-year Arizona agreement tells us TKO is already putting Zuffa Boxing into the same commercial suitcase as UFC and WWE. That is how a new boxing promotion stops looking like Dana White’s hobby and starts looking like a real asset.
+
+Boxing people keep arguing about whether Zuffa can change the sport.
+
+TKO is already selling it to cities like the change is scheduled.
+`
+  },
   {
     slug: 'dana-white-gambling-tax-sports-betting',
     title: 'Dana White Just Became Sports Betting’s Weirdest Lobbyist',
