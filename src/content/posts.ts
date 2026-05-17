@@ -14,6 +14,104 @@ export interface Post {
 export const posts: Post[] = [
 
   {
+    slug: 'zuffa-boxing-ring-loophole-power-play',
+    title: 'Zuffa Boxing’s Ring Loophole Is the Real Power Play',
+    subtitle: 'Zuffa Boxing fighters appearing on The Ring cards shows Dana White’s boxing project may be less closed circuit and more Saudi-backed talent machine.',
+    date: '2026-05-17',
+    author: 'ZuffaBets Staff',
+    tags: ['business', 'zuffa-boxing', 'dana-white'],
+    readTime: '5 min',
+    emoji: '💍',
+    content: `
+Everybody arguing about whether Zuffa Boxing is a walled garden may have missed the funnier answer: the wall might have a Saudi-funded door in it.
+
+BoxingScene reported that Zuffa-linked fighters are free to appear on cards backed by Turki Alalshikh’s The Ring, including the May 23 event at the Pyramids of Giza in Egypt. That card is set to feature Zuffa Boxing cruiserweight Jamar Talley against Basem Mamdouh, with trainer Brian “BoMac” McIntyre in his corner.
+
+That sounds like a small placement until you remember what everyone has been yelling about for months.
+
+Dana White says he does not want to do boxing the old way. Zuffa Boxing wants its own rankings, its own belts, its own broadcast universe, and a cleaner pipeline than the alphabet-belt escape room boxing currently calls a sport. Critics hear that and see a UFC-style takeover with gloves on.
+
+But if Zuffa fighters can also get visibility on The Ring cards, the model gets more interesting — and more dangerous.
+
+## This Is Not Isolation. This Is Distribution.
+
+The lazy version of the Zuffa Boxing argument is simple: Dana signs fighters, locks them inside the machine, ignores the sanctioning bodies, and tries to build UFC with jabs.
+
+That may still be part of the plan. Nobody should pretend centralization is charity.
+
+But Talley showing up on a DAZN-streamed Ring card complicates the cartoon. So did Conor Benn and Breyon Gorham appearing on The Ring’s April 11 card at Tottenham Hotspur Stadium, where Benn beat Regis Prograis and Gorham scored a fifth-round TKO.
+
+That is not a sealed cage. That is talent moving across Saudi-backed platforms with Zuffa branding still attached.
+
+For fighters, that matters because the pitch becomes bigger than “come fight on our cards.” It becomes: sign into this ecosystem, get pushed on Paramount+, appear on major Ring events, touch international stages, and maybe find yourself in fights the old promoter maze spent years failing to make.
+
+That is a much better brochure.
+
+## Turki’s Position Is the Cheat Code
+
+The connective tissue here is Turki Alalshikh.
+
+He owns The Ring. He has been the loudest financial force in boxing’s recent mega-card era. He is also reportedly a major investor in Zuffa Boxing, while Saudi Arabia’s Public Investment Fund reportedly owns a stake in DAZN.
+
+So when people ask whether Zuffa Boxing is separate from the rest of the sport, the real answer is probably: separate enough to control, connected enough to scale.
+
+That is the nightmare version for traditional promoters.
+
+Because if Zuffa can sign fighters, develop them on its own shows, place them on Ring events, and then use Saudi money and media relationships to chase the biggest matchups, it does not need to copy the old boxing model. It can stand next to it, feed from it, and eventually make it look outdated.
+
+Boxing has always been fragmented. Zuffa may not need to instantly fix that. It only needs to make its lane look cleaner, richer, and easier to understand.
+
+That is usually enough to start a migration.
+
+## The Fighter Pitch Just Got Less Scary
+
+One of the obvious knocks on Zuffa Boxing has been freedom.
+
+Will fighters be trapped? Will they lose leverage? Will Zuffa’s internal belts become the only belts that matter inside its universe? Will Dana White bring the UFC pay structure into boxing and tell everybody to be grateful for the opportunity?
+
+Those questions are real. Fighters should ask them loudly, preferably with lawyers in the room and somebody checking the decimal places.
+
+But the early Ring placements give Zuffa a cleaner counterpunch.
+
+They can point to Benn, Gorham, Talley, and say: look, our fighters are not disappearing into a warehouse behind the Apex. They are getting seen. They are getting moved. They are touching major stages.
+
+That does not erase the risk. It makes the sales pitch stronger.
+
+And in boxing, the sales pitch matters because elite fighters are not just choosing a promoter. They are choosing a career route through a sport that has historically treated obvious matchmaking like a hostage negotiation.
+
+## Why This Should Annoy the Old Guard
+
+Traditional boxing people want to frame Zuffa as an invader. Fair enough. It is.
+
+But the more annoying truth is that Zuffa is invading a house where the doors were already falling off.
+
+For years, fans have watched belts multiply, mandatories become legal riddles, promoters freeze fights over platform politics, and champions spend prime years orbiting each other like scared planets.
+
+Now Zuffa walks in with Dana White, TKO infrastructure, Paramount+ distribution, Saudi money, The Ring stages, and a promise — stated or implied — that the machine will make cleaner fights faster.
+
+You can hate the power grab and still understand why fighters might listen.
+
+That is what makes this Ring loophole so important. It shows Zuffa Boxing may not be building a tiny isolated kingdom. It may be building a passport office.
+
+Sign here. Fight there. Get seen everywhere.
+
+## The ZuffaBets Take
+
+Zuffa Boxing fighters appearing on The Ring cards is not a footnote. It is a tell.
+
+The project is being built with two ideas at once: centralized control and flexible exposure. That combination is grossly effective if it works.
+
+The old boxing world wants to debate whether Dana White is good for the sport. Fine. Have that debate. Bring snacks. It will last until the next ice age.
+
+But fighters care about money, momentum, visibility, and big fights. If Zuffa can offer those without making them vanish from the wider boxing calendar, the pitch gets much harder to dismiss.
+
+Boxing thought the cage door was the problem.
+
+Turns out the scary part is that Zuffa may have learned how to leave it open.
+`
+  },
+
+  {
     slug: 'tko-arizona-zuffa-boxing-event-bundle',
     title: 'TKO Just Bundled Zuffa Boxing Into the Arizona Machine',
     subtitle: 'TKO’s new three-year Arizona deal packages UFC, WWE, PBR, and Zuffa Boxing together. That tells you exactly how Dana White’s boxing project gets scaled.',
