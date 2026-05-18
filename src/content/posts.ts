@@ -1412,11 +1412,11 @@ That guy is not just starting a boxing promotion. He is plugging one into a mach
   {
     slug: 'ufc-freedom-250-white-house-paramount-tko',
     title: 'UFC Freedom 250 Turned Access Into the Real Fight',
-    subtitle: 'UFC Freedom 250 is heading to the White House with free public viewing, elite access packages, Paramount+ distribution, and a very Dana White business lesson.',
+    subtitle: 'UFC Freedom 250 is heading to the White House with free public viewing, seven-figure access packages, a possible $30M TKO loss, and Paramount+ distribution.',
     date: '2026-05-14',
     author: 'ZuffaBets Staff',
     tags: ['business', 'politics', 'dana-white'],
-    readTime: '7 min',
+    readTime: '8 min',
     emoji: '🇺🇸',
     featured: true,
     content: `
@@ -1459,6 +1459,16 @@ That is the TKO era in one neat little package. UFC and WWE are not being sold a
 And because this event sits on White House grounds, every inch of access becomes more valuable. The scarcity is the point.
 
 You can let 85,000 people watch for free at the Ellipse and still sell the inner-ring experience like it is a private island with elbows.
+
+## TKO Is Paying for the Flex
+
+Here is the part that makes the whole thing feel less like an event and more like a corporate dare.
+
+NBC News reported that TKO president Mark Shapiro told investors in May the company expects to lose as much as **$30 million** on the White House fights and related festivities in Washington. That sounds insane until you remember what TKO is actually buying.
+
+It is buying a month of media oxygen. It is buying Washington access. It is buying a Paramount+ crown jewel. It is buying sponsor conversations that do not look like normal ad inventory. And it is buying another chapter in the UFC's favorite story: the sport once treated like political trash is now powerful enough to build an arena outside the front door.
+
+That is the TKO-era trade. Eat the event loss, own the attention spike, then sell the halo everywhere else.
 
 ## Paramount+ Gets the Weirdest Crown Jewel
 
